@@ -1,0 +1,205 @@
+/* CSS Document */
+
+body {
+   font-family: Helvetica, Arial, sans-serif;
+   background-color: white;
+   font-size: 13px;
+   color: #0f0f0f;
+	}
+	
+a {
+	color:#0000ff;
+	text-decoration:none;
+	}
+	
+h2 {
+  color: #222;
+  font-weight: normal;
+  margin-top: 0px;
+}
+
+#wrapper1 {
+	position:relative;
+	text-align:left;
+	width:100%;
+	
+	}
+#wrapper2 {
+	position:relative;
+	text-align:left;
+	width:100%;
+	background:url("../images/leftcolor_bg.gif") repeat-y top left;
+	}
+
+
+#header {
+	padding:0px;
+	margin:0;
+	text-align:center;
+	color:#FFF;
+	}
+
+
+
+#header img {
+  display: block;	
+  margin-top:0px;
+  border: 0;
+}
+
+#header a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#header table{
+	width:100%;
+}
+
+/* navigation menu styles */
+
+td.tab, td.tab-select {
+	width: 25%;
+	text-align: center;
+	padding: 0.5em;
+}
+
+td.tab {
+   border: 1px solid #999;
+   background-color: #E8EBF1;
+}
+
+td.tab-select {
+   border: 1px solid #999;
+}
+
+td.tab a {
+	text-decoration: none;
+	color: #333;
+	font-weight:bold;
+}
+
+td.tab-select a {
+	text-decoration: none;
+	color: #333;
+	font-weight:bold;
+}
+
+td.tab a:hover {
+	text-decoration: none;
+}
+
+td.tab-select a {
+	color: #424F8D;
+}
+
+
+/* banner and help text styles */
+
+div.header_wrapper {
+	margin:0;
+}
+div.header_logo {
+	float:left;
+	width:792px;
+}
+
+div.header_help {
+	float:right;
+	margin-top: 0;
+	text-align:right;
+}	
+	
+.clear {
+	clear:both;
+
+}
+
+
+/* main page layouts */
+
+#maincol {
+	position:relative;
+	margin:0;
+	padding:10px;
+	}
+	
+#leftcol { 
+	position:relative;
+	/*top:-10px;*/
+	left:-10px;
+	right: -10px;
+	float:left;
+	width:25%;  /* for IE5/WIN */
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width:220px; /* actual value */
+	margin:0 0 -10px 0;
+	z-index:100;
+	}
+	
+#leftcol li {
+  font-size: 10pt;
+  font-weight: bold;
+  border-bottom: 1px solid #ccc;
+  margin-left: -35px;
+  margin-right: 35px;
+  margin-bottom: 20px;
+  list-style: none;	
+}		
+	
+#rightcol {
+	position:relative;
+	top: 10px;
+	/*right:-10px;*/
+	float:right;
+	width:220px;  /* for IE5/WIN */
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width:220; /* actual value */ 
+	margin:0 0 -10px 0;
+	padding:0px;
+	padding-left: 10px;
+	z-index:99;
+   font-size: 85%;
+
+	}
+	
+#rightcol a {
+  text-decoration: none;
+  color: #0000FF;
+}
+
+	
+#centercol {
+	position:relative;
+	border-left: 0px;
+	padding:0 240px;
+	padding-top: 10px
+	}
+	
+
+#centercol p {
+	width:95%;
+}
+
+#footer {
+     margin: 0 auto;
+     font-size: 85%;
+	 text-decoration: none;
+	 border-top: 1px solid #ccc;
+	 width: 99%;
+	 text-align: center;
+	 padding: 10px 0;
+	 margin-bottom: 20px;
+}
+
+#footer p {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#footer a {
+	text-decoration: none;
+	color: #0000FF;
+}

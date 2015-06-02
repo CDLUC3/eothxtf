@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>GAMS : Guide to Available Mathematical Software</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003721/gams.nist.gov/</identifier>
+<provenance>http://gams.nist.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>A cross-index and virtual repository of mathematical and                statistical software components of use in computational                 science research.</description>
+<subject>mathematics</subject>
+<subject>statistics</subject>
+<subject>computational science and engineering</subject>
+<subject>reusable software</subject>
+<subject>classification</subject>
+<subject>cross-index</subject>
+<subject>repository</subject>
+<subject>elementary functions</subject>
+<subject>special functions</subject>
+<subject>linear algebra</subject>
+<subject>approximation</subject>
+<subject>nonlinear equations</subject>
+<subject>optimization</subject>
+<subject>computational                geometry</subject>
+<subject>probability and statistics</subject>
+<subject>differential equations</subject>
+<subject>numerical integration</subject>
+<subject>quadrature</subject>
+<subject>transforms</subject>
+<subject>parallel computing</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>gams</source>
+<source>nist</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

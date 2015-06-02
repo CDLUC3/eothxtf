@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS Water Resources of the United States</title>
+<identifier>http://eot.us.archive.org/eot08/20080916030954/water.usgs.gov/</identifier>
+<provenance>http://water.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>Home page for water resources information from the US Geological Survey</description>
+<subject>earth science</subject>
+<subject>hydrology</subject>
+<subject>hydrologic</subject>
+<subject>data</subject>
+<subject>water</subject>
+<subject>streamflow</subject>
+<subject>stream</subject>
+<subject>river</subject>
+<subject>lake</subject>
+<subject>flood</subject>
+<subject>drought</subject>
+<subject>quality</subject>
+<subject>basin</subject>
+<subject>watershed</subject>
+<subject>environment</subject>
+<subject>ground water</subject>
+<subject>groundwater</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>water</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

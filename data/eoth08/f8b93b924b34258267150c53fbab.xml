@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NOAA Great Lakes CoastWatch</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003714/coastwatch.glerl.noaa.gov/</identifier>
+<provenance>http://coastwatch.glerl.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>Great Lakes CoastWatch is a nationwide National Oceanic and Atmospheric Administration (NOAA) program within which the Great Lakes Environmental Research Laboratory (GLERL) functions as the Great Lakes regional node. In this capacity, the Great Lakes CoastWatch program obtains, produces, and delivers environmental data and products for near real-time monitoring of the Great Lakes to support environmental science, decision making, and supporting research. This is achieved by providing access to near real-time and retrospective satellite observations and in-situ Great Lakes data to Federal, state, and local agencies, academic institutions, and the public.</description>
+<subject>Great Lakes satellite</subject>
+<subject>Advanced Very High Resolution Radiometer</subject>
+<subject>AVHRR</subject>
+<subject>reflected infrared</subject>
+<subject>remote sensing</subject>
+<subject>Great Lakes satellite data</subject>
+<subject>microcystis</subject>
+<subject>Great Lakes CoastWatch</subject>
+<subject>CoastWatch</subject>
+<subject>Great Lakes</subject>
+<subject>visible reflectance</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>coastwatch</source>
+<source>glerl</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

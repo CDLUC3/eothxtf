@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>CERTs.Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916024627/certs.hhs.gov/</identifier>
+<provenance>http://www.certs.hhs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-26</date>
+<description>The CERTs research program&apos;s goal is to conduct research and educate people about the best ways to use drugs, medical devices, and biological products</description>
+<subject>CERTs</subject>
+<subject>Outcomes</subject>
+<subject>Research</subject>
+<subject>Coordinating Center</subject>
+<subject>patient safety</subject>
+<subject>medical errors</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>certs</source>
+<source>hhs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

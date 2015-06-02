@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>GSAXcess - General Services Administration</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003723/gsaxcess.gov/</identifier>
+<provenance>http://gsaxcess.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-27</date>
+<description>GSAXcess maintains records of all Federal Excess and Surplus Personal Property Reported to General Services Administration (GSA).</description>
+<subject>GSAXcess</subject>
+<subject>excess</subject>
+<subject>surplus</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>gsaxcess</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Fish and Wildlife Service</title>
+<identifier>http://eot.us.archive.org/eot08/20080919233824/fws.gov/species/</identifier>
+<provenance>http://www.fws.gov/species/</provenance>
+<date>2008-09-19</date>
+<date>2009-08-22</date>
+<description>Information about fish and wildlife species (including plants) of  special interest to visitors to the U. S. Fish and Wildlife Web pages</description>
+<subject>species</subject>
+<subject>fish</subject>
+<subject>wildlife</subject>
+<subject>animal</subject>
+<subject>bird</subject>
+<subject>habitat</subject>
+<subject>endangered</subject>
+<subject>wetland</subject>
+<subject>refuge</subject>
+<subject>migratory</subject>
+<subject>marine</subject>
+<subject>mammal</subject>
+<subject>water</subject>
+<subject>anadromous</subject>
+<subject>fish</subject>
+<subject>conservation</subject>
+<subject>environment</subject>
+<subject>biologue</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>fws</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

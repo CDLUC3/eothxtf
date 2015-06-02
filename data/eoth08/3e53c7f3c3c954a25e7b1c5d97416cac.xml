@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>RCFL: Regional Computer Forensics Laboratory</title>
+<identifier>http://eot.us.archive.org/eot08/20080916005358/rcfl.gov/</identifier>
+<provenance>http://rcfl.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-25</date>
+<description>Information about the FBIs Regional Computer Forensics Laboratory (RCFL) sites in the U.S.</description>
+<subject>Regional Computer Forensics Laboratory</subject>
+<subject>Computer Forensics</subject>
+<subject>RCFL</subject>
+<subject>FBI</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>rcfl</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

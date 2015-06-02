@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS Library: Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916004148/library.usgs.gov/</identifier>
+<provenance>http://library.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-06</date>
+<description>Information concerning the catalog, services, and policies of the U.S. Geological Survey Library</description>
+<subject>USGS Library information earthscience earth science geology geography geospatial earthquake volcano hydrology mapping water biology biological</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>library</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

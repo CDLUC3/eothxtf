@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>ABCC - Advanced Biomedical Computing Center Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916020108/www-fbsc.ncifcrf.gov/</identifier>
+<provenance>http://www-fbsc.ncifcrf.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-12</date>
+<description>The Advanced Biomedical Computing Center (ABCC) provides HPC resources for both NIH/NCI intramural scientists and the extramural biomedical research community. Its mission is to provide HPC support, to provide collaborative research, and to conduct in-house research in various areas of computational biology and biomedical research.</description>
+<subject>ABCC</subject>
+<subject>supercomputing</subject>
+<subject>computing support</subject>
+<subject>biomedical research</subject>
+<subject>computational biology</subject>
+<subject>visualization/graphics</subject>
+<subject>collaborative research</subject>
+<subject>algorithm optimization</subject>
+<subject>training</subject>
+<subject>molecular modeling</subject>
+<subject>bioinformatics</subject>
+<subject>proteomics</subject>
+<subject>quantum chemistry</subject>
+<subject>molecular visualization</subject>
+<subject>XRay/NMR structure refinement</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>www-fbsc</source>
+<source>ncifcrf</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

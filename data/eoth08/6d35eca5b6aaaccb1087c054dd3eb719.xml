@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>The Global Hydrology Resource Center</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003723/ghrc.msfc.nasa.gov/</identifier>
+<provenance>http://ghrc.msfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-09</date>
+<description>The Global Hydrology Resource Center (GHRC) is a part of the Global Hydrology and Climate Center (GHCC).  The GHRC provides data ingest, archive, and distribution services for the GHCC.</description>
+<subject>ampr</subject>
+<subject>avhrr</subject>
+<subject>cape</subject>
+<subject>climate</subject>
+<subject>climatology</subject>
+<subject>dmsp</subject>
+<subject>el nino</subject>
+<subject>global warming</subject>
+<subject>goes</subject>
+<subject>hydrology</subject>
+<subject>lightning</subject>
+<subject>lis</subject>
+<subject>meteorology</subject>
+<subject>msu</subject>
+<subject>nasa</subject>
+<subject>ols</subject>
+<subject>otd</subject>
+<subject>precipitation</subject>
+<subject>rain</subject>
+<subject>ssm/i</subject>
+<subject>ssmi</subject>
+<subject>thunderstorm</subject>
+<subject>toga coare</subject>
+<subject>trmm</subject>
+<subject>water</subject>
+<subject>weather</subject>
+<subject>wind</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>ghrc</source>
+<source>msfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

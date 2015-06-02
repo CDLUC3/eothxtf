@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Welcome to the NSSDC!</title>
+<identifier>http://eot.us.archive.org/eot08/20080916004157/nssdc.gsfc.nasa.gov/</identifier>
+<provenance>http://nssdc.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>National Space Science Data Center (NSSDC) Home Page</description>
+<subject>NASA</subject>
+<subject>NSSDC</subject>
+<subject>data</subject>
+<subject>space physics</subject>
+<subject>astronomy</subject>
+<subject>astrophysics</subject>
+<subject>planetary science</subject>
+<subject>planet</subject>
+<subject>planets</subject>
+<subject>moon</subject>
+<subject>lunar science</subject>
+<subject>solar wind</subject>
+<subject>CD-ROM</subject>
+<subject>CD-ROMs</subject>
+<subject>solar physics</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>nssdc</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

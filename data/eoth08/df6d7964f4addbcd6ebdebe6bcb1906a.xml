@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS TerraWeb Homepage</title>
+<identifier>http://eot.us.archive.org/eot08/20081105194031/terraweb.wr.usgs.gov/</identifier>
+<provenance>http://terraweb.wr.usgs.gov/</provenance>
+<date>2008-11-05</date>
+<date>2009-08-25</date>
+<description>Terrestrial Remote Sensing Software and Research Web Server. Featured on this site are image products and information generated using remote sensing in various Earth environments. Digital satellite, sonar, bathymetry, elevation, aerial, and ground photography image products for practical applications, such as resource evaluation and mapping, help generate information and data that can be used by various fields and disciplines for research, mapping, exploration, and education. Download free UNIX/VMS software for processing remotely sensed image data.</description>
+<subject>remote sensing</subject>
+<subject>remotely sensed image</subject>
+<subject>remotely sensed data</subject>
+<subject>sonar</subject>
+<subject>satellite</subject>
+<subject>satellite image</subject>
+<subject>satellite data</subject>
+<subject>LandSAT</subject>
+<subject>Landsat TM</subject>
+<subject>Landsat MSS</subject>
+<subject>SPOT</subject>
+<subject>WiFS</subject>
+<subject>IRS</subject>
+<subject>Ikonos</subject>
+<subject>AVHRR</subject>
+<subject>cartography</subject>
+<subject>photogrammetry</subject>
+<subject>earthscience</subject>
+<subject>earth science</subject>
+<subject>geology</subject>
+<subject>geography</subject>
+<subject>remote</subject>
+<subject>sensing</subject>
+<subject>mapping</subject>
+<subject>research</subject>
+<subject>image processing</subject>
+<subject>image</subject>
+<subject>Earth</subject>
+<subject>monitoring</subject>
+<subject>change detection</subject>
+<subject>eolian</subject>
+<subject>marine</subject>
+<subject>coastal</subject>
+<subject>wetlands</subject>
+<subject>environment</subject>
+<subject>ecology</subject>
+<subject>aerial photograph</subject>
+<subject>digital camera</subject>
+<subject>photo</subject>
+<subject>Hawaii</subject>
+<subject>Molokai</subject>
+<subject>Maui</subject>
+<subject>Anarctica</subject>
+<subject>San Francisco</subject>
+<subject>Flagstaff</subject>
+<subject>Santa Clara</subject>
+<subject>Farallon</subject>
+<subject>Farallones</subject>
+<subject>Monterey</subject>
+<subject>bathymetry</subject>
+<subject>sonar mosaic</subject>
+<subject>DEM</subject>
+<subject>digital elevation model</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>terraweb</source>
+<source>wr</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

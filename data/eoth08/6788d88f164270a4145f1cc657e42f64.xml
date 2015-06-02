@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Department of Defense (DOD): USA.gov</title>
+<identifier>http://eot.us.archive.org/eot08/20080916073248/usa.gov/agencies/federal/executive/defense.shtml</identifier>
+<provenance>http://www.usa.gov/Agencies/Federal/Executive/Defense.shtml</provenance>
+<date>2008-09-16</date>
+<date>2009-08-25</date>
+<description>USA.gov: Department of Defense (DOD) -- Links to various offices within the U.S. Department of Defense.     </description>
+<subject>Department of Defense</subject>
+<subject>DOD</subject>
+<subject>Army</subject>
+<subject>Navy</subject>
+<subject>Air Force</subject>
+<subject>Marines</subject>
+<subject>Coast Guard</subject>
+<subject>military</subject>
+<subject>national defense</subject>
+<subject>joint chiefs</subject>
+<subject>materiel</subject>
+<subject>intelligence</subject>
+<subject>bases</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>usa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

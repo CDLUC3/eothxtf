@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>OER Home Page - Grants Web Site</title>
+<identifier>http://eot.us.archive.org/eot08/20080920011711/grants.nih.gov/grants/oer.htm</identifier>
+<provenance>http://grants.nih.gov/grants/oer.htm</provenance>
+<date>2008-09-20</date>
+<date>2009-08-12</date>
+<description>OER Home Page - Grants Web Site - NIH Office of Extramural Research (OER) web site with NIH Medical and Behavioral Research Grant Policies, Guidelines and Funding Opportunities.</description>
+<subject>oer</subject>
+<subject>grants</subject>
+<subject>grant</subject>
+<subject>grants policy</subject>
+<subject>electronic receipt</subject>
+<subject>electronic submission</subject>
+<subject>grant guidelines</subject>
+<subject>research grants</subject>
+<subject>funding opportunities</subject>
+<subject>grant award data</subject>
+<subject>research training grants</subject>
+<subject>animal welfare</subject>
+<subject>small business grants</subject>
+<subject>sbir</subject>
+<subject>sttr</subject>
+<subject>nexus</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>grants</source>
+<source>nih</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

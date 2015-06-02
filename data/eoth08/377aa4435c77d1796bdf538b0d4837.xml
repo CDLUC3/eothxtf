@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>XSPEC Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916030130/heasarc.gsfc.nasa.gov/docs/xanadu/xspec/index.html</identifier>
+<provenance>http://heasarc.gsfc.nasa.gov/docs/xanadu/xspec/index.html</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>XSPEC Home Page</description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>heasarc</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

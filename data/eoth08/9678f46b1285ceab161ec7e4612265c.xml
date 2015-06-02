@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Particle Data Group</title>
+<identifier>http://eot.us.archive.org/eot08/20080916004743/pdg.lbl.gov/</identifier>
+<provenance>http://pdg.lbl.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>Description goes here.</description>
+<subject>your</subject>
+<subject>keywords</subject>
+<subject>goes</subject>
+<subject>here</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>pdg</source>
+<source>lbl</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

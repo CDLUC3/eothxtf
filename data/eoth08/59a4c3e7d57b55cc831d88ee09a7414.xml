@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>California Employment Training Panel</title>
+<identifier>http://eot.us.archive.org/eot08/20080916032122/etp.cahwnet.gov/</identifier>
+<provenance>http://www.etp.cahwnet.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-22</date>
+<description>The Employment Training Panel (ETP) is a significant economic development tool for business attraction and business retention.  ETP, in partnership with business, labor, and government, provides funds for training California&apos;s workforce in the skills necessary for businesses to successfully compete in the global economy, while providing workers with good jobs that pay good wages.</description>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>etp</source>
+<source>cahwnet</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

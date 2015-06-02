@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Ocean Surface Topography from Space</title>
+<identifier>http://eot.us.archive.org/eot08/20080916011240/topex-www.jpl.nasa.gov/</identifier>
+<provenance>http://topex-www.jpl.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-11</date>
+<description>Ocean Surface Topography seeks to study the sea surface height. Maintaining a database of ocean surface topography  can help predict short-term changes in weather and longer-term patterns of climate. </description>
+<subject>Ocean Topography</subject>
+<subject>Sea Level</subject>
+<subject>SSH</subject>
+<subject>TOPEX/Poseidon</subject>
+<subject>TOPEX</subject>
+<subject>Poseidon</subject>
+<subject>Jason-1</subject>
+<subject>Jason</subject>
+<subject>Jason1</subject>
+<subject>sea surface height</subject>
+<subject>NASA</subject>
+<subject>Jet Propulsion Laboratory</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>topex-www</source>
+<source>jpl</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>GPO Access-- The Federal Bulletin Board</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003712/fedbbs.access.gpo.gov/</identifier>
+<provenance>http://fedbbs.access.gpo.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>The Federal Bulletin Board (FBB) is a free electronic bulletin board service of the Superintendent of Documents, U.S. Government  Printing Office (GPO). All file library documents can be downloaded free of charge. The FBB enables Federal agencies to provide to the public self-service access to Federal information in electronic form. The FBB runs in Web, FTP, and Telnet mode at Internet address fedbbs.access.gpo.gov. The FBB is a component of the GPO Access service and provides utility and support files for use with GPO Access online, searchable databases.</description>
+<subject>file libraries</subject>
+<subject>Legislative</subject>
+<subject>Federal agency information</subject>
+<subject>White House organizations</subject>
+<subject>U.S. Supreme Court Archive</subject>
+<subject>Commerce Business Daily</subject>
+<subject>Federal Depository Library information</subject>
+<subject>GPO Access information</subject>
+<subject>helpful hints</subject>
+<subject>source files</subject>
+<subject>shipping lists</subject>
+<subject>templates</subject>
+<subject>help files</subject>
+<subject>About FBB</subject>
+<subject>Search FBB</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Legislative</coverage>
+<source>fedbbs</source>
+<source>access</source>
+<source>gpo</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

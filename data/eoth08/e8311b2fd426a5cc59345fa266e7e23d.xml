@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>EPIC - management, display and analysis of oceanographic and meteorological data</title>
+<identifier>http://eot.us.archive.org/eot08/20080916032139/epic.noaa.gov/</identifier>
+<provenance>http://www.epic.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-22</date>
+<description>EPIC system provides data management,  archival, retreival, display and analysis procedures for oceanographic time  series and hydrographic data. Data types include CTD, XBT, bottle data,  time series from moored instruments, shipboard ADCP data, and drifting buoy  data. EPIC web broser provide on-line access and display of in-situ  oceanographic profile and time series data.</description>
+<subject>epic system</subject>
+<subject>oceanographic data</subject>
+<subject>oceanography</subject>
+<subject>world ocean database</subject>
+<subject>hydrographic</subject>
+<subject>display</subject>
+<subject>access</subject>
+<subject>management</subject>
+<subject>analysis</subject>
+<subject>hydrography in-situ data</subject>
+<subject>observed</subject>
+<subject>observations</subject>
+<subject>meteorological</subject>
+<subject>meteorology</subject>
+<subject>CTD</subject>
+<subject>XBT</subject>
+<subject>profile</subject>
+<subject>Bottle</subject>
+<subject>conductivity</subject>
+<subject>temperature</subject>
+<subject>depth</subject>
+<subject>salinity</subject>
+<subject>current meter</subject>
+<subject>currents</subject>
+<subject>wind</subject>
+<subject>time series</subject>
+<subject>buoy</subject>
+<subject>pacific</subject>
+<subject>bering Sea</subject>
+<subject>atlantic</subject>
+<subject>indian</subject>
+<subject>software web browser</subject>
+<subject>on-line interactive graphics</subject>
+<subject>plot plus</subject>
+<subject>pplus</subject>
+<subject>m2gif</subject>
+<subject>ncbrowse</subject>
+<subject>oceanshare</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>epic</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

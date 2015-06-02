@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>AIDSinfo - HIV / AIDS Information</title>
+<identifier>http://eot.us.archive.org/eot08/20081102105911/aidsinfo.nih.gov/</identifier>
+<provenance>http://www.aidsinfo.nih.gov/</provenance>
+<date>2008-11-02</date>
+<date>2009-08-25</date>
+<description>HIV/AIDS treatment and research information from the US federal government.  </description>
+<subject>Acquired immunodeficiency syndrome Adolescents AIDS Breast Feeding caregivers Children Federally-Approved treatment Health care providers HIV Human Immunodeficiency Virus guidelines Medical Management Medical Practice Guidelines Mother-To-Child Transmission Needle sticks Opportunistic Infections Patients Perinatal Post-Exposure Prophylaxis Doctors Pregnancy research T-Cells Treatment US Government</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>aidsinfo</source>
+<source>nih</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

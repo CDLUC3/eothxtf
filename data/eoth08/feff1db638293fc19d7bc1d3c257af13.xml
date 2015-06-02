@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Forest Ecosystem Dynamics (FED)</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003713/fedwww.gsfc.nasa.gov/</identifier>
+<provenance>http://fedwww.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>The Forest Ecosystem Dynamics (FED) Project is concerned with modeling and monitoring ecosystem processes and patterns in response to natural and anthropogenic effects.</description>
+<subject>Forest Ecosystem Dynamics</subject>
+<subject>FED</subject>
+<subject>NASA</subject>
+<subject>GSFC</subject>
+<subject>National Aeronautics and Space Administration</subject>
+<subject>Goddard Space Flight Center</subject>
+<subject>modeling ecosystem</subject>
+<subject>monitoring ecosystem</subject>
+<subject>anthropogenic effects</subject>
+<subject>ecosystem      models</subject>
+<subject>remote sensing models</subject>
+<subject>ecosystem change</subject>
+<subject>forest dynamics</subject>
+<subject>soil processes</subject>
+<subject>canopy energetics</subject>
+<subject>ecosystem response</subject>
+<subject>boreal forests</subject>
+<subject>global change</subject>
+<subject>earth science</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>fedwww</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

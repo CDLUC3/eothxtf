@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>HEASARC: RXTE Guest Observer Facility</title>
+<identifier>http://eot.us.archive.org/eot08/20080916013731/heasarc.gsfc.nasa.gov/docs/xte/xte_1st.html</identifier>
+<provenance>http://heasarc.gsfc.nasa.gov/docs/xte/xte_1st.html</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>Rossi X-ray Timing Explorer mission Guest Observer Facility.  The primary responsibility of the RXTE GOF is to enable astronomers to make the best use of the RXTE mission. To fulfill this responsibility, the RXTE GOF staff performs such activities as supporting the RXTE proposal selection process, distributing usable data to Guest Observers, helping Guest Observers to analyze their data, and creating the mission archives.</description>
+<subject>RXTE</subject>
+<subject>XTE GOF</subject>
+<subject>RXTE GOF</subject>
+<subject>XTE</subject>
+<subject>science</subject>
+<subject>Rossi</subject>
+<subject>timing</subject>
+<subject>explorer</subject>
+<subject>x-ray</subject>
+<subject>x ray</subject>
+<subject>astronomy</subject>
+<subject>ASM</subject>
+<subject>PCA</subject>
+<subject>HEXTE</subject>
+<subject>observatory</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>heasarc</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

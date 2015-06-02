@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>ANL Microscopy and Microanalysis WWW Server</title>
+<identifier>http://eot.us.archive.org/eot08/20080916022922/amc.anl.gov/</identifier>
+<provenance>http://www.amc.anl.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description></description>
+<subject>microscopy</subject>
+<subject>light microscopy</subject>
+<subject>electron microscopy </subject>
+<subject>x-ray microscopy</subject>
+<subject>collaboratory</subject>
+<subject>atom probe microscopy</subject>
+<subject>confocal microscopy</subject>
+<subject>scanning electron microscopy</subject>
+<subject>transmission electron microscopy</subject>
+<subject>scanning probe microscopy</subject>
+<subject>atomic force microscopy</subject>
+<subject>AFM</subject>
+<subject>SEM</subject>
+<subject>TEM</subject>
+<subject>AEM</subject>
+<subject>HVEM</subject>
+<subject>HREM</subject>
+<subject>IVEM</subject>
+<subject>ESEM</subject>
+<subject>analytical electron microscopy</subject>
+<subject>high resolution electron microscopy</subject>
+<subject>high voltage electron microscopy</subject>
+<subject>microanalysis</subject>
+<subject>microprobe</subject>
+<subject>XEDS</subject>
+<subject>EELS</subject>
+<subject>EDS</subject>
+<subject>electron</subject>
+<subject>light</subject>
+<subject>x-ray</subject>
+<subject>photon</subject>
+<subject>laser</subject>
+<subject>education</subject>
+<subject>telepresence microscopy</subject>
+<subject>telepresence</subject>
+<subject>remote control</subject>
+<subject>remote microscopy</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>amc</source>
+<source>anl</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

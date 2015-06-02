@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>National Vulnerability Database Home</title>
+<identifier>http://eot.us.archive.org/eot08/20080916083159/nvd.nist.gov/</identifier>
+<provenance>http://nvd.nist.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>Comprehensive CVE vulnerability database that integrates all U.S. Government publicly available vulnerability resources. Repository of information technology security content automation.</description>
+<subject>vulnerability</subject>
+<subject>database</subject>
+<subject>CVE</subject>
+<subject>threat</subject>
+<subject>security</subject>
+<subject>checklist</subject>
+<subject>secure</subject>
+<subject>configuration</subject>
+<subject>CCE</subject>
+<subject>XCCDF</subject>
+<subject>US-CERT</subject>
+<subject>DHS</subject>
+<subject>Homeland Security</subject>
+<subject>NIST</subject>
+<subject>NSA</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>nvd</source>
+<source>nist</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

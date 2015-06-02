@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>GES DISC: Home</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003702/eosdata.gsfc.nasa.gov/</identifier>
+<provenance>http://eosdata.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>nasa gsfc data and information services center</description>
+<subject>nasa</subject>
+<subject>gsfc</subject>
+<subject>daac</subject>
+<subject>distributed active archive center</subject>
+<subject>earth science</subject>
+<subject>satellite data</subject>
+<subject>science information</subject>
+<subject>remote sensing</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>eosdata</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

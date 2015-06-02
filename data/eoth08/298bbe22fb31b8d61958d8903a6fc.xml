@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>World News Connection(WNC)</title>
+<identifier>http://eot.us.archive.org/eot08/20080916014142/wnc.fedworld.gov/</identifier>
+<provenance>http://wnc.fedworld.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>An online news service offers international news and information especially local media sources. It covers significant socioeconomic,  political, scientific, technical, and environmental issues and events. The information is obtained from full text and summaries of newspaper articles, conference proceedings, television and radio broadcasts, periodicals,  and non-classified technical reports. Information is entered every government business day usually within 48-72 hours from the time of original publication or broadcast.</description>
+<subject>world news</subject>
+<subject>international news</subject>
+<subject>europe</subject>
+<subject>china</subject>
+<subject>russia</subject>
+<subject>africa</subject>
+<subject>asia</subject>
+<subject>central europe</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>wnc</source>
+<source>fedworld</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NASA Langley Atmospheric Science Data Center (Distributed Active Archive Center)</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003650/eosweb.larc.nasa.gov/</identifier>
+<provenance>http://eosweb.larc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>The NASA Langley Distributed Active Archive Center (DAAC) archives and distributes data relating to Radiation Budget, Clouds, Aerosols, and Troposheric Chemistry.</description>
+<subject>NASA Langley DAAC</subject>
+<subject>Atmospheric Science Data Center</subject>
+<subject>Distributed Active Archive Center</subject>
+<subject>MISR</subject>
+<subject>radiation budget</subject>
+<subject>clouds</subject>
+<subject>aerosols</subject>
+<subject>tropospheric chemistry</subject>
+<subject>atmosphere</subject>
+<subject>CERES</subject>
+<subject>FIRE ACE</subject>
+<subject>NASA Langley Research Center</subject>
+<subject>NASA</subject>
+<subject>DAAC</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>eosweb</source>
+<source>larc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

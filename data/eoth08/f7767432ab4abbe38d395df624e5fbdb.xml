@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>National Oceanographic Data Center Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916053450/nodc.noaa.gov/</identifier>
+<provenance>http://www.nodc.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-06</date>
+<description>The National Oceanographic Data Center (NODC) is one of three discipline-oriented environmental data centers operated by the National Oceanic and Atmospheric Administration (NOAA). NODC ensures that oceanographic data collected at great cost (by federal, state, local, &amp; foreign government agencies, universities, and private industry) is preserved and maintained in a permanent archive where they are available for use by scientists, resource managers, planners, and others. NODC holds physical, chemical, and biological oceanographic data from coastal and deep ocean areas.</description>
+<subject>oceanography</subject>
+<subject>ocean</subject>
+<subject>data</subject>
+<subject>archive</subject>
+<subject>marine</subject>
+<subject>coast</subject>
+<subject>temperature</subject>
+<subject>salinity</subject>
+<subject>buoy</subject>
+<subject>ocean climate</subject>
+<subject>world ocean atlas</subject>
+<subject>nitrate</subject>
+<subject>phosphate</subject>
+<subject>silicate</subject>
+<subject>CTD</subject>
+<subject>XBT</subject>
+<subject>ADCP</subject>
+<subject>SST</subject>
+<subject>circulation</subject>
+<subject>currents</subject>
+<subject>sea level</subject>
+<subject>altimetry</subject>
+<subject>chlorophyll</subject>
+<subject>plankton</subject>
+<subject>ocean chemistry</subject>
+<subject>ocean physics</subject>
+<subject>ocean biology</subject>
+<subject>ocean profiles</subject>
+<subject>ocean time series</subject>
+<subject>GTSPP</subject>
+<subject>WOCE</subject>
+<subject>JGOFS</subject>
+<subject>World Data Center</subject>
+<subject>alkalinity</subject>
+<subject>pH</subject>
+<subject>nitrite</subject>
+<subject>dissolved oxygen</subject>
+<subject>satellite</subject>
+<subject>remote sensing</subject>
+<subject>wave height</subject>
+<subject>GODAR</subject>
+<subject>NODC</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>nodc</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

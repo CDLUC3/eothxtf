@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Planetary Geodynamics Laboratory at NASA&apos;s Goddard Space Flight Center</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003640/denali.gsfc.nasa.gov/</identifier>
+<provenance>http://denali.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>Planetary Geodynamics Laboratory web site. We conduct research into the structure, dynamics, and evolution of the solid Earth and planets using space-techniques and remote sensing data.</description>
+<subject>geophysics</subject>
+<subject>geology</subject>
+<subject>geodesy</subject>
+<subject>terrestrial physics</subject>
+<subject>geomagnetism</subject>
+<subject>crustal deformation</subject>
+<subject>topography and surface change</subject>
+<subject>orbital-rotational-climate interaction</subject>
+<subject>planetary geology</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>denali</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

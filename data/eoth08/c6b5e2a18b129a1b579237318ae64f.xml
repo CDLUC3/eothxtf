@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS: National Hydrography Dataset</title>
+<identifier>http://eot.us.archive.org/eot08/20080916004156/nhd.usgs.gov/</identifier>
+<provenance>http://nhd.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>Home page for the National Hydrography Dataset, U.S. Geological Survey</description>
+<subject>National Hydrography Dataset</subject>
+<subject>NHD</subject>
+<subject>USA</subject>
+<subject>United States</subject>
+<subject>Territories</subject>
+<subject>Antarctica</subject>
+<subject>USGS</subject>
+<subject>U.S. Geological Survey</subject>
+<subject>cartographic</subject>
+<subject>cartography</subject>
+<subject>geographic</subject>
+<subject>geography</subject>
+<subject>geospatial</subject>
+<subject>gis</subject>
+<subject>information</subject>
+<subject>mapping</subject>
+<subject>maps</subject>
+<subject>topographic</subject>
+<subject>topography</subject>
+<subject>earthscience</subject>
+<subject>data</subject>
+<subject>metadata</subject>
+<subject>standards</subject>
+<subject>Cataloging Unit</subject>
+<subject>HUC</subject>
+<subject>FOD</subject>
+<subject>Stream Level</subject>
+<subject>Hydrographic sequencing</subject>
+<subject>Network flow</subject>
+<subject>EPA</subject>
+<subject>Feature-based</subject>
+<subject>Reach</subject>
+<subject>Reach code</subject>
+<subject>hydrologic</subject>
+<subject>hydrologic</subject>
+<subject>water flow</subject>
+<subject>Stream</subject>
+<subject>River</subject>
+<subject>Lake</subject>
+<subject>Pond</subject>
+<subject>Swamp</subject>
+<subject>Canal</subject>
+<subject>Ditch</subject>
+<subject>Artificial Path</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>nhd</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

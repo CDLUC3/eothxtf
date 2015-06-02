@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NRCS National Water and Climate Center | Home</title>
+<identifier>http://eot.us.archive.org/eot08/20080916072156/wcc.nrcs.usda.gov/</identifier>
+<provenance>http://www.wcc.nrcs.usda.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-12</date>
+<description></description>
+<subject>water and climate</subject>
+<subject>snow</subject>
+<subject>snow surveys</subject>
+<subject>snotel</subject>
+<subject>snow telemetry</subject>
+<subject>water management</subject>
+<subject>animal waste management</subject>
+<subject>pest management</subject>
+<subject>wind rose</subject>
+<subject>salinity management</subject>
+<subject>snow course</subject>
+<subject>soil climate network</subject>
+<subject>klamath basin</subject>
+<subject>temperature data</subject>
+<subject>precipitation data</subject>
+<subject>snow water equivalent</subject>
+<subject>snow depth</subject>
+<subject>snow density</subject>
+<subject>GIS</subject>
+<subject>water supply</subject>
+<subject>water supply forecasting</subject>
+<subject>water supply forecasts</subject>
+<subject>streamflow forecasts</subject>
+<subject>streamflow</subject>
+<subject>scan</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>wcc</source>
+<source>nrcs</source>
+<source>usda</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

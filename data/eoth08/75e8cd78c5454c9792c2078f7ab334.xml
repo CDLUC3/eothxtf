@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NASA GISS: NASA Goddard Institute for Space Studies</title>
+<identifier>http://eot.us.archive.org/eot08/20090507055842/giss.nasa.gov/</identifier>
+<provenance>http://www.giss.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-22</date>
+<description>Information about NASA Goddard Institute for Space Studies, including research descriptions and results, publications database, online datasets, etc.</description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>giss</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

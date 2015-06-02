@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NOAA Environmental Visualization Program</title>
+<identifier>http://eot.us.archive.org/eot08/20080916053449/nnvl.noaa.gov/</identifier>
+<provenance>http://www.nnvl.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-06</date>
+<description>Multi-Dimensional Imagery from polar orbiting and geostationary satellites operated by the National Oceanic and Atmospheric Administration-NOAA. This home page will offer enhanced NOAA Imagery and NOAA Imagery fused with other environmental data sets or modeled output.</description>
+<subject>Hurricane</subject>
+<subject>Cyclone</subject>
+<subject>Typhoon</subject>
+<subject>Visualization</subject>
+<subject>Satellite</subject>
+<subject>GOES</subject>
+<subject>Polar</subject>
+<subject>DMSP</subject>
+<subject>Imagery</subject>
+<subject>World</subject>
+<subject>North</subject>
+<subject>South</subject>
+<subject>East</subject>
+<subject>West</subject>
+<subject>Atlantic</subject>
+<subject>Pacific</subject>
+<subject>Caribbean</subject>
+<subject>Ocean</subject>
+<subject>Indian</subject>
+<subject>Antarctic</subject>
+<subject>Weather</subject>
+<subject>Storm</subject>
+<subject>NOAA</subject>
+<subject>Commerce</subject>
+<subject>FEMA</subject>
+<subject>Tropical</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>nnvl</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

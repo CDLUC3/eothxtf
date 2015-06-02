@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Home Page of the NIST Virtual Library (NVL) - National Institute of Standards and Technology</title>
+<identifier>http://eot.us.archive.org/eot08/20080916004158/nvl.nist.gov/</identifier>
+<provenance>http://nvl.nist.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>The National Institute of Standards and Technology Virtual Library is the online research library open containing collections of books, journals, reports, presentation videos, subject guides both on reserach and development work accomplished both within the National Institute of Standards and Technology and outside agencies and laboratories.</description>
+<subject>NIST</subject>
+<subject>research library</subject>
+<subject>online library</subject>
+<subject>virtual library</subject>
+<subject>science and technology</subject>
+<subject>research and development</subject>
+<subject>standards</subject>
+<subject>collection</subject>
+<subject>books</subject>
+<subject>journals</subject>
+<subject>publishing</subject>
+<subject>publishing guide</subject>
+<subject>electronic journals</subject>
+<subject>reports.</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>nvl</source>
+<source>nist</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

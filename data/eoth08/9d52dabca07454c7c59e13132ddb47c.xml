@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>U.S. Fish &amp; Wildlife Service Permits</title>
+<identifier>http://eot.us.archive.org/eot08/20080916065048/fws.gov/permits/</identifier>
+<provenance>http://www.fws.gov/permits/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-22</date>
+<description>The purpose of the Permits website is to provide customers quick and easy access to permit information without having to know how the Service is organized.   	It will act as a portal to other permit office websites.</description>
+<subject>animals</subject>
+<subject>applications</subject>
+<subject>birds</subject>
+<subject>eagles</subject>
+<subject>endangered</subject>
+<subject>enforcement</subject>
+<subject>fish</subject>
+<subject>international</subject>
+<subject>laws</subject>
+<subject>licenses</subject>
+<subject>mammals</subject>
+<subject>permits</subject>
+<subject>plants</subject>
+<subject>ports</subject>
+<subject>regulations</subject>
+<subject>species</subject>
+<subject>threatened</subject>
+<subject>treaties</subject>
+<subject>wildlife</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>fws</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

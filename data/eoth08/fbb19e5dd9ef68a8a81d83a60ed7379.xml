@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>CGRO Science Support Center</title>
+<identifier>http://eot.us.archive.org/eot08/20080920011452/heasarc.gsfc.nasa.gov/docs/cgro/index.html</identifier>
+<provenance>http://heasarc.gsfc.nasa.gov/docs/cgro/index.html</provenance>
+<date>2008-09-20</date>
+<date>2009-08-12</date>
+<description>The Gamma-ray Large Area Space Telescope (GLAST)</description>
+<subject>CGRO</subject>
+<subject>gamma-ray</subject>
+<subject>gamma ray</subject>
+<subject>BATSE</subject>
+<subject>EGRET</subject>
+<subject>COMPTEL</subject>
+<subject>EGRET</subject>
+<subject>astronomy</subject>
+<subject>satellite</subject>
+<subject>observatory</subject>
+<subject>Compton</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>heasarc</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

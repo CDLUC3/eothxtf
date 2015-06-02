@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<brand xmlns="http://www.w3.org/1999/xhtml">
+   
+   <links>
+      <link rel="stylesheet" href="css/default/results.css" type="text/css"/>
+   </links>
+   
+   <dynaxml.links>
+      <link rel="stylesheet" href="css/default/eoth08.css" type="text/css"/>
+   </dynaxml.links>
+   
+   <header>
+     <div class="header">
+     	<div class="header_logo"><img src="icons/default/eoth_banner.png" alt=""/></div>
+		<div class="header_help"><a href="contact.html">Contact Us</a> | <a href="help.html">Help</a></div>		
+      </div>
+	 <br class="clear" />
+   </header>
+   
+   <dynaxml.header>
+     <div class="header">
+     	<table>
+     		<tr valign="top">
+     			<td><img src="icons/default/eoth_banner.png" alt=""/></td>
+			    <td><a href="contact.html">Contact Us</a> | <a href="help.html">Help</a></td>
+			</tr>
+		</table>		<script type="text/javascript">
+<!--
+window.location = "http://www.google.com/"
+//-->
+</script>
+<script type="text/javascript">
+<!--
+window.location = "http://www.google.com/"
+//-->
+</script>
+<script type="text/javascript">
+<!--
+window.location = "http://www.google.com/"
+//-->
+</script>
+
+      </div>
+	 <br class="clear" />
+   </dynaxml.header>
+   
+   <footer>
+      <div class="footer">
+
+         <p>The End of Term Web Archive is hosted by the <a href="http://www.cdlib.org">California Digital Library</a> and the <a href="http://www.archive.org">Internet Archive</a>. <br/> 
+		 <a href="http://www.cdlib.org/about/privacy.html">Privacy Policy</a> | <a href="contact.html">Contact Us</a></p>
+		
+      </div>
+   </footer>
+   
+</brand>

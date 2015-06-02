@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>U.S. Bureau of Economic Analysis (BEA) - bea.gov Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003625/bea.gov/</identifier>
+<provenance>http://bea.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-22</date>
+<description>Official Bureau of Economic Analysis website. Source of US economic statistics including national income and product accounts (NIPAs), gross domestic product (GDP) and related measures of national, regional, industry and international accounts.</description>
+<subject>assets</subject>
+<subject>balance of payments</subject>
+<subject>commerce</subject>
+<subject>GDP</subject>
+<subject>goods and services</subject>
+<subject>gross domestic product</subject>
+<subject>gross state product</subject>
+<subject>GSP</subject>
+<subject>industry</subject>
+<subject>input-output</subject>
+<subject>investment</subject>
+<subject>outlays</subject>
+<subject>personal income</subject>
+<subject>profits</subject>
+<subject>statistics</subject>
+<subject>trade</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>bea</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

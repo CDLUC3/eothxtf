@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>PCMDI</title>
+<identifier>http://eot.us.archive.org/eot08/20080916020755/www-pcmdi.llnl.gov/</identifier>
+<provenance>http://www-pcmdi.llnl.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-14</date>
+<description></description>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>www-pcmdi</source>
+<source>llnl</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

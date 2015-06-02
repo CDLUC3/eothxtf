@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>PubMed Central Homepage</title>
+<identifier>http://eot.us.archive.org/eot08/20080916062936/pubmedcentral.nih.gov/</identifier>
+<provenance>http://www.pubmedcentral.nih.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>PubMed Central (PMC) is a free digital archive of biomedical and life sciences journal literature. It is developed and managed by the National Center for Biotechnology Information (NCBI) at the U.S. National Library of Medicine (NLM).</description>
+<subject>national center for biotechnology information</subject>
+<subject>ncbi</subject>
+<subject>national library of medicine</subject>
+<subject>nlm</subject>
+<subject>national institutes of health</subject>
+<subject>nih</subject>
+<subject>database</subject>
+<subject>archive</subject>
+<subject>bookshelf</subject>
+<subject>pubmed</subject>
+<subject>pubmed central</subject>
+<subject>bioinformatics</subject>
+<subject>biomedicine</subject>
+<subject>PMC</subject>
+<subject>free full text</subject>
+<subject>free journals</subject>
+<subject>digital archive</subject>
+<subject>back issue</subject>
+<subject>digitization</subject>
+<subject>scanning</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>pubmedcentral</source>
+<source>nih</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

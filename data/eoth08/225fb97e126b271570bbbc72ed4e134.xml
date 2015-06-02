@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS Western Region Geologic Information Server</title>
+<identifier>http://eot.us.archive.org/eot08/20081105025132/geology.wr.usgs.gov/</identifier>
+<provenance>http://geology.wr.usgs.gov/</provenance>
+<date>2008-11-05</date>
+<date>2009-08-25</date>
+<description></description>
+<subject>geology USGS United States Government GIS mapping volcano earthquake earth science</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>geology</source>
+<source>wr</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Science.gov : USA.gov for Science - Government Science Portal</title>
+<identifier>http://eot.us.archive.org/eot08/20080916005730/science.gov/</identifier>
+<provenance>http://science.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-25</date>
+<description>Science.gov is a gateway to government science information provided by U.S. Government science agencies, including research and development results.</description>
+<subject>government science</subject>
+<subject>U.S. government science </subject>
+<subject>science portal</subject>
+<subject>science gateway</subject>
+<subject>federal government</subject>
+<subject>technology</subject>
+<subject>government technology</subject>
+<subject>biology</subject>
+<subject>medicine</subject>
+<subject>agriculture</subject>
+<subject>energy</subject>
+<subject>environment</subject>
+<subject>defense</subject>
+<subject>astronomy</subject>
+<subject>chemistry</subject>
+<subject>physics</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>science</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

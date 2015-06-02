@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NOAA Webmail</title>
+<identifier>http://eot.us.archive.org/eot08/20080916131441/email.boulder.noaa.gov/</identifier>
+<provenance>https://email.boulder.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-27</date>
+<description></description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>email</source>
+<source>boulder</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

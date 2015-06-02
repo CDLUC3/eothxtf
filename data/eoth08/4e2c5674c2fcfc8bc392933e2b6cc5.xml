@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>BART - Bay Area Rapid Transit</title>
+<identifier>http://eot.us.archive.org/eot08/20080916023527/bart.gov/</identifier>
+<provenance>http://www.bart.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>Official information from the Bay Area Rapid Transit District (BART), providing train service throughout the San Francisco metropolitan area including the East Bay, Peninsula and SFO/OAK airports.</description>
+<subject>bart</subject>
+<subject>Bay Area Rapid Transit</subject>
+<subject>b.a.r.t.</subject>
+<subject>san francisco</subject>
+<subject>berkeley</subject>
+<subject>san francisco international airport</subject>
+<subject>san francisco airport</subject>
+<subject>sfo</subject>
+<subject>oakland international airport</subject>
+<subject>oakland airport</subject>
+<subject>oak</subject>
+<subject>schedule</subject>
+<subject>map</subject>
+<subject>station</subject>
+<subject>real time information</subject>
+<subject>quickplanner</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>bart</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

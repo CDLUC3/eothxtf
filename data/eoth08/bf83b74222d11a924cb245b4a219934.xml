@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>DOE - Fossil Energy: Office of Fossil Energy Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916032130/fe.doe.gov/</identifier>
+<provenance>http://www.fe.doe.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-22</date>
+<description>The public web site of the U.S. Department of Energy&apos;s Office of Fossil Energy</description>
+<subject>Fossil energy</subject>
+<subject>coal</subject>
+<subject>petroleum</subject>
+<subject>natural gas</subject>
+<subject>petroleum reserves</subject>
+<subject>strategic petroleum reserve</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>fe</source>
+<source>doe</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

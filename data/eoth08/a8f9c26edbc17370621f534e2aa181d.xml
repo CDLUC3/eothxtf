@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>National Weather Service Southern Region homepage</title>
+<identifier>http://eot.us.archive.org/eot08/20080916070443/srh.noaa.gov/</identifier>
+<provenance>http://www.srh.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-09</date>
+<description>NWS Southern Region is your best source for complete weather forecast and weather related information on the web!</description>
+<subject>weather</subject>
+<subject>local weather forecast</subject>
+<subject>local forecast</subject>
+<subject>weather forecasts</subject>
+<subject>local weather</subject>
+<subject>radar</subject>
+<subject>fire weather</subject>
+<subject>center weather service units</subject>
+<subject>JetStream</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>srh</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

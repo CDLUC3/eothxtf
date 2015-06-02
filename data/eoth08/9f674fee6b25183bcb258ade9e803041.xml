@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>The official US time</title>
+<identifier>http://eot.us.archive.org/eot08/20080916011240/time.gov/</identifier>
+<provenance>http://time.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>The official U.S. time. Public service cooperatively provided by the two time agencies of United States: a civilian agency, the National Institute of Standards and Technology (NIST), and its military counterpart, the U. S. Naval Observatory (USNO). Also historical and general interest exhibits.</description>
+<subject>time</subject>
+<subject>nist</subject>
+<subject>usno</subject>
+<subject>current</subject>
+<subject>current time</subject>
+<subject>clock</subject>
+<subject>java clock</subject>
+<subject>date</subject>
+<subject>atomic</subject>
+<subject>cesium</subject>
+<subject>official</subject>
+<subject>utc</subject>
+<subject>coordinated universal time</subject>
+<subject>time zone</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>time</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

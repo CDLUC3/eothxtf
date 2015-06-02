@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Personnel Profiles - THESE ELECTRONIC RECORDS ARE SUBJECT TO</title>
+<identifier>http://eot.us.archive.org/eot08/20080920044904/profiles.gsfc.nasa.gov/phaseii/login.cfm</identifier>
+<provenance>https://profiles.gsfc.nasa.gov/phaseii/login.cfm</provenance>
+<date>2008-09-20</date>
+<date>2009-08-25</date>
+<description>Personnel Profiles Web Application</description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>profiles</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

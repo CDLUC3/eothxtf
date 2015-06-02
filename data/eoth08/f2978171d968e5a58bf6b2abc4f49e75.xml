@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Central Energy Resources Team, USGS-ERP</title>
+<identifier>http://eot.us.archive.org/eot08/20081104204647/energy.cr.usgs.gov/</identifier>
+<provenance>http://energy.cr.usgs.gov/</provenance>
+<date>2008-11-04</date>
+<date>2009-08-25</date>
+<description>USGS (U.S. Geological Survey) Central Energy Resources Team Website</description>
+<subject>oil</subject>
+<subject>gas</subject>
+<subject>oil and gas</subject>
+<subject>coal</subject>
+<subject>gas hydrates</subject>
+<subject>geology</subject>
+<subject>energy resources</subject>
+<subject>energy</subject>
+<subject>energy assessments</subject>
+<subject>data</subject>
+<subject>gis</subject>
+<subject>publications</subject>
+<subject>geology</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>energy</source>
+<source>cr</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USDA Service Center Common Computing Environment</title>
+<identifier>http://eot.us.archive.org/eot08/20080920172444/sci.usda.gov/cce/</identifier>
+<provenance>http://www.sci.usda.gov/cce/</provenance>
+<date>2008-09-20</date>
+<date>2009-08-24</date>
+<description>A goal of USDA Service Center modernization is to provide a Common Computing Environment (CCE) for Farm Service Agency, Rural Development, and Natural Resource Conservation Service personnel in Service Centers. The CCE will be built on a common Information Technology (IT) investment strategy, common telecommunications capability, common office automation tools, common administrative applications, and a common IT support organization. </description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>sci</source>
+<source>usda</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

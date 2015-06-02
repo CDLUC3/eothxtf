@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Search USGS</title>
+<identifier>http://eot.us.archive.org/eot08/20080916005846/search.usgs.gov/</identifier>
+<provenance>http://search.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>Search tools and resources to quickly find USGS information.</description>
+<subject>search</subject>
+<subject>browse</subject>
+<subject>products</subject>
+<subject>places</subject>
+<subject>science topics</subject>
+<subject>real-time</subject>
+<subject>contacts</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>search</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

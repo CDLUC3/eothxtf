@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>TOXNET</title>
+<identifier>http://eot.us.archive.org/eot08/20080916012000/toxnet.nlm.nih.gov/</identifier>
+<provenance>http://toxnet.nlm.nih.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>Toxicology, environmental health, and chemical databases and other information resources from the Toxicology and Environmental Health Information Program, National Library of Medicine, National Institutes of Health</description>
+<subject>Environmental health</subject>
+<subject>environmental health information</subject>
+<subject>toxicology</subject>
+<subject>toxicology information</subject>
+<subject>toxicology databases</subject>
+<subject>chemical information</subject>
+<subject>environmental health databases</subject>
+<subject>chemical databases</subject>
+<subject>tehip</subject>
+<subject>environmental information</subject>
+<subject>environmental databases</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>toxnet</source>
+<source>nlm</source>
+<source>nih</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

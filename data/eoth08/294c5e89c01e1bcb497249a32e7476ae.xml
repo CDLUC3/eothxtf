@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>U.S. Geological Survey, Water Resources of Pennsylvania</title>
+<identifier>http://eot.us.archive.org/eot08/20080916004447/pa.water.usgs.gov/</identifier>
+<provenance>http://pa.water.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>Home page for Pennsylvania water resources information from the U.S. Geological Survey</description>
+<subject>Pennsylvania</subject>
+<subject>earthscience</subject>
+<subject>hydrology</subject>
+<subject>hydrologic</subject>
+<subject>data</subject>
+<subject>water</subject>
+<subject>streamflow</subject>
+<subject>stream</subject>
+<subject>river</subject>
+<subject>lake</subject>
+<subject>flood</subject>
+<subject>drought</subject>
+<subject>quality</subject>
+<subject>basin</subject>
+<subject>Susquehanna</subject>
+<subject>Ohio</subject>
+<subject>Delaware          watershed</subject>
+<subject>environment</subject>
+<subject>ground water</subject>
+<subject>groundwater</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>pa</source>
+<source>water</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

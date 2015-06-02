@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>blank site for testing and hosting HRD Surface Wind Analysis group projects</title>
+<identifier>http://eot.us.archive.org/eot08/20080916011240/storm.aoml.noaa.gov/</identifier>
+<provenance>http://storm.aoml.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description></description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>storm</source>
+<source>aoml</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

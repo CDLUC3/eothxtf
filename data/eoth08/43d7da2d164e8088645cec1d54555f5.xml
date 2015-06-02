@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>U.S. Geological Survey, Long Valley Observatory, California</title>
+<identifier>http://eot.us.archive.org/eot08/20081105025133/lvo.wr.usgs.gov/</identifier>
+<provenance>http://lvo.wr.usgs.gov/</provenance>
+<date>2008-11-05</date>
+<date>2009-08-25</date>
+<description>A site devoted to the studies being conducted by the U.S. Geological Survey at Long Valley Caldera and Mono-Inyo Volcanic Chain in eastern California. The site describes the monitoring effort and provides links to realtime monitoring data of the area, including earthquakes, ground deformation, and release of volcanic gas.</description>
+<subject>Long Valley Caldera</subject>
+<subject>Long Valley</subject>
+<subject>caldera</subject>
+<subject>calderas</subject>
+<subject>volcano</subject>
+<subject>Long Valley volcano</subject>
+<subject>Mammoth Mountain          Mono Lake area</subject>
+<subject>Mono Lake</subject>
+<subject>Mono craters</subject>
+<subject>Long Valley geology</subject>
+<subject>Inyo           chain</subject>
+<subject>Inyo craters</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>lvo</source>
+<source>wr</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>ATSDR - Agency for Toxic Substances and Disease Registry / U.S. Dept. of Health and Human Services</title>
+<identifier>http://eot.us.archive.org/eot08/20080916023548/atsdr.cdc.gov/</identifier>
+<provenance>http://www.atsdr.cdc.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>The Agency for Toxic Substances and Disease Registry (ATSDR) is an agency of the U.S. Department of Health and Human Services charged under the Superfund Act to assess the presence and nature of health hazards at specific Superfund sites and to help prevent or reduce further exposure and the illnesses that result from such exposures.</description>
+<subject>Toxic Substances</subject>
+<subject>Hazardous Substances</subject>
+<subject>Asbestos</subject>
+<subject>Mercury</subject>
+<subject>Dioxin</subject>
+<subject>Methyl Parathion</subject>
+<subject>Polychlorinated Biphenyl (PCB)</subject>
+<subject>Toxicological Profiles</subject>
+<subject>Interaction Profiles</subject>
+<subject>National Priorities List (NPL)</subject>
+<subject>Minimal Risk Levels (MRLs)</subject>
+<subject>ATSDR/EPA Priority List of Hazardous Substances</subject>
+<subject>Hazardous Substances Emergency Events Surveillance (HSEES)</subject>
+<subject>ToxFAQs</subject>
+<subject>Public Health Assessments</subject>
+<subject>Health Consultations</subject>
+<subject>Hazardous Waste Sites</subject>
+<subject>Case Studies in Environmental Medicine</subject>
+<subject>Chemical Agent Briefing Sheets</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>atsdr</source>
+<source>cdc</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

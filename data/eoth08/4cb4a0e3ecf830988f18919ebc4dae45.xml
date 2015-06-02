@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Space Science Data Operations Office</title>
+<identifier>http://eot.us.archive.org/eot08/20080920063952/ssdoo.gsfc.nasa.gov/public/</identifier>
+<provenance>http://ssdoo.gsfc.nasa.gov/public/</provenance>
+<date>2008-09-20</date>
+<date>2009-05-13</date>
+<description>Provides information on projects of the National Space Science Data Center and the NASA/Science Office of Standards and Technology (NOST) and continuing operations from the contract supporting the former Space Science Data Operations Office (SSDOO)</description>
+<subject>NASA Office of Standards and Technology</subject>
+<subject>NOST</subject>
+<subject>NSSDC</subject>
+<subject>Space Science Data Operations Offices</subject>
+<subject>SSDOO</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>ssdoo</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

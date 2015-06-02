@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Solve/Resolve: Automated structure determination for macromolecular crystallography</title>
+<identifier>http://eot.us.archive.org/eot08/20080916070054/solve.lanl.gov/</identifier>
+<provenance>http://www.solve.lanl.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-06</date>
+<description>SOLVE/RESOLVE website with documentation and software downloads</description>
+<subject>SOLVE</subject>
+<subject>RESOLVE</subject>
+<subject>macromolecular crystallography</subject>
+<subject>protein structure</subject>
+<subject>structure solution</subject>
+<subject>structure determination</subject>
+<subject>X-ray crystallography</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>solve</source>
+<source>lanl</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

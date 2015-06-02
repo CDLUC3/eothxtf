@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Health Services/Technology Assessment Text (HSTAT)</title>
+<identifier>http://eot.us.archive.org/eot08/20090115181234/ncbi.nlm.nih.gov/books/bv.fcgi?rid=hstat</identifier>
+<provenance>http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=hstat</provenance>
+<date>2009-01-15</date>
+<date>2009-08-25</date>
+<description>The Evidence-based Practice Centers develop evidence reports and technology assessments based on rigorous, comprehensive syntheses and analyses of relevant scientific literature, emphasizing explicit and detailed documentation of methods, rationale, and assumptions.</description>
+<subject>national center for biotechnology information</subject>
+<subject>ncbi</subject>
+<subject>national library of medicine</subject>
+<subject>nlm</subject>
+<subject>database</subject>
+<subject>bookshelf</subject>
+<subject>evidence report</subject>
+<subject>technical review</subject>
+<subject>consumer guide</subject>
+<subject>preventive services</subject>
+<subject>consensus development</subject>
+<subject>clinical practice guideline</subject>
+<subject>technology assessment</subject>
+<subject>surgeon general report</subject>
+<subject>healthcare</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>ncbi</source>
+<source>nlm</source>
+<source>nih</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

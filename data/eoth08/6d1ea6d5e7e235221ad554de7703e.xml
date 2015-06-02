@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Center for Operational Oceanographic Products and Services (CO-OPS) Backup Site</title>
+<identifier>http://eot.us.archive.org/eot08/20080916005356/ports-infohub.nos.noaa.gov/</identifier>
+<provenance>http://ports-infohub.nos.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>Center for Operational Oceanographic Products and Services (CO-OPS) current operational status.</description>
+<subject>tides</subject>
+<subject>tide predictions</subject>
+<subject>water level</subject>
+<subject>bench marks</subject>
+<subject>harmonic constants</subject>
+<subject>datum</subject>
+<subject>PORTS</subject>
+<subject>status</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>ports-infohub</source>
+<source>nos</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

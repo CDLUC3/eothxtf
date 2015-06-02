@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NASA&apos;s Space Physics Data Facility (SPDF)</title>
+<identifier>http://eot.us.archive.org/eot08/20080916010211/spdf.gsfc.nasa.gov/</identifier>
+<provenance>http://spdf.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>The Heliospheric Physics Laboratory (HPL), located at NASA&apos;s Goddard Space Flight Center in Suburban Maryland, USA, operates the Space Physics Data Facility (SPDF) and its S3C Active Archive. HPL is a component of Goddard&apos;s Heliophysics Division of the Sciences and Exploration Directorate.</description>
+<subject>science</subject>
+<subject>data</subject>
+<subject>SPDF</subject>
+<subject>HPL</subject>
+<subject>HSD</subject>
+<subject>CDAWeb</subject>
+<subject>SSCWeb</subject>
+<subject>NSSDC</subject>
+<subject>coordinated data analysis</subject>
+<subject>multi-mission</subject>
+<subject>multi-instrument</subject>
+<subject>space physics</subject>
+<subject>IMAGE</subject>
+<subject>Polar</subject>
+<subject>Wind</subject>
+<subject>Geotail</subject>
+<subject>FAST</subject>
+<subject>ACE</subject>
+<subject>Cluster</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>spdf</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NOAA Tides and Currents - Home</title>
+<identifier>http://eot.us.archive.org/eot08/20080916025339/co-ops.nos.noaa.gov/</identifier>
+<provenance>http://www.co-ops.nos.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-10-23</date>
+<description>Center for Operational Oceanographic Products and Services (CO-OPS) collects, analyzes and distributes historical and real-time observations and predictions of water levels, coastal currents and other meteorological and oceanographic data.</description>
+<subject>CO-OPS</subject>
+<subject>tides</subject>
+<subject>tide predictions</subject>
+<subject>currents</subject>
+<subject>current predictions</subject>
+<subject>water level</subject>
+<subject>bench marks</subject>
+<subject>benchmarks</subject>
+<subject>harmonic constants</subject>
+<subject>datum</subject>
+<subject>PORTS</subject>
+<subject>Tidesonline</subject>
+<subject>Great Lakes Online</subject>
+<subject>sea level trends</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>co-ops</source>
+<source>nos</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

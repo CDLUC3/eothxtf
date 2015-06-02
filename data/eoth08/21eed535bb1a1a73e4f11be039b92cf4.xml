@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Software Assurance Technology Center (SATC) - Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916005724/satc.gsfc.nasa.gov/</identifier>
+<provenance>http://satc.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-11</date>
+<description>The Software Assurance Technology Center (SATC) was established in 1992 in the Systems Reliability and Safety Office at NASA Goddard Space Flight Center (GSFC). The SATC was founded to become a NASA center of excellence in software assurance, dedicated to making measurable improvement in the quality and reliability of software developed for GSFC and NASA. Funding for the SATC comes from the NASA Software IV&amp;V Facility in Fairmont, WV for technical and research tasks, and from NASA software development projects for direct technical support.</description>
+<subject>Software Assurance</subject>
+<subject>Code Metrics</subject>
+<subject>Software Quality</subject>
+<subject>Software Quality Metrics</subject>
+<subject>Software Metrics</subject>
+<subject>Requirements</subject>
+<subject>Software Requirements</subject>
+<subject>Software Requirement Metrics</subject>
+<subject>Requirements Measurement</subject>
+<subject>Requirement Measurement Tool</subject>
+<subject>Software Tools</subject>
+<subject>Automated Requirement Measurement Tool</subject>
+<subject>ARM</subject>
+<subject>Software Reliability</subject>
+<subject>Software Metrics and Reliability</subject>
+<subject>metrics program</subject>
+<subject>Requirement Specifications</subject>
+<subject>Software Process Assessment</subject>
+<subject>Assessing Software Quality</subject>
+<subject>Software Reliability Models</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>satc</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

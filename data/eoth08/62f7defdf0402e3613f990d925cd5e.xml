@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>ESRL : PSD : Climate Analysis Branch</title>
+<identifier>http://eot.us.archive.org/eot08/20080916024627/cdc.noaa.gov/</identifier>
+<provenance>http://www.cdc.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>Earth System Research Laboratory</description>
+<subject>earth system research</subject>
+<subject>climate</subject>
+<subject>forecasts</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>cdc</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

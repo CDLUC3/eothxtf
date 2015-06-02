@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>US Court of Federal Claims</title>
+<identifier>http://eot.us.archive.org/eot08/20080916072139/uscfc.uscourts.gov/</identifier>
+<provenance>http://www.uscfc.uscourts.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-12</date>
+<description>USCFC Website</description>
+<subject>USCFC Website</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Judicial</coverage>
+<source>uscfc</source>
+<source>uscourts</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

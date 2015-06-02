@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>IVS Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003829/ivscc.gsfc.nasa.gov/</identifier>
+<provenance>http://ivscc.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-11</date>
+<description>The International VLBI Service for Geodesy and Astrometry (IVS)      provides a service to support geodetic, geophysical and astrometric research and operational 	 activities. It promotes research and development activities in all aspects of the geodetic 	 and astrometric VLBI technique.</description>
+<subject>Very Long Baseline Interferometry</subject>
+<subject>VLBI</subject>
+<subject>IVS</subject>
+<subject>National Earth Orientation      Service</subject>
+<subject>NEOS</subject>
+<subject>Earth science</subject>
+<subject>geodesy</subject>
+<subject>geophysics</subject>
+<subject>astrometry</subject>
+<subject>geometric space technique</subject>
+<subject>data</subject>
+<subject>	 products</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>ivscc</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

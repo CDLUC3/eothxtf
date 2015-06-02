@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>JPL&apos;s TRMM homepage</title>
+<identifier>http://eot.us.archive.org/eot08/20080916011241/trmm.jpl.nasa.gov/</identifier>
+<provenance>http://trmm.jpl.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>rain, TRMM, precipitation, GPM, remote sensing, radar, atmospheric radiation, DSD, drop size distribution</description>
+<subject>rain</subject>
+<subject>TRMM</subject>
+<subject>precipitation</subject>
+<subject>GPM</subject>
+<subject>remote sensing</subject>
+<subject>radar</subject>
+<subject>atmospheric radiation</subject>
+<subject>DSD</subject>
+<subject>drop size distribution</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>trmm</source>
+<source>jpl</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>EO-1 Home - Earth Observing Mission 1</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003657/eo1.gsfc.nasa.gov/</identifier>
+<provenance>http://eo1.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>Information about the Earth Observing One Mission, EO-1 Mission, EO-1 Extended Mission</description>
+<subject>Earth Science</subject>
+<subject>Earth Observing One</subject>
+<subject>EO-1 Mission</subject>
+<subject>EO-1 Extended Mission</subject>
+<subject>Landsat</subject>
+<subject>Formation Flying</subject>
+<subject>Sensor Webs</subject>
+<subject>Autonomous Spacecraft Experiment</subject>
+<subject>Ground Phased Array Antenna</subject>
+<subject>Spacecraft Bus Technology Overview</subject>
+<subject>ALI -Advanced Land Imager</subject>
+<subject>Hyperion</subject>
+<subject>LAC-LEISA Atmospheric Corrector</subject>
+<subject>XPAA - X-Band Phased Array Antenna</subject>
+<subject>WARP- Wideband Advanced Recorder Processor</subject>
+<subject>EFF-Enhanced Formation Flying (GSFC Algorithm)</subject>
+<subject>EFF-Enhanced Formation Flying (JPL Algorithm)</subject>
+<subject>PPT-Pulsed Plasma Thruster</subject>
+<subject>LFSA-Lightweight Flexible Solar Array</subject>
+<subject>CCR-Carbon-Carbon Radiator</subject>
+<subject>LA-II-Low Absorbtance Thermal Coating</subject>
+<subject></subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>eo1</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

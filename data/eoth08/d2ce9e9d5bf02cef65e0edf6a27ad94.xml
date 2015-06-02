@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>The Landsat Program</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003831/landsat.gsfc.nasa.gov/</identifier>
+<provenance>http://landsat.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>Landsat satellites provide repetitive coverage of continental  Earth surfaces in the visible, near-infrared, short-wave, and thermal infrared regions of the electromagnetic spectrum.</description>
+<subject>landsat</subject>
+<subject>landsat 7</subject>
+<subject>landsat home</subject>
+<subject>landsat project science office</subject>
+<subject>gateway</subject>
+<subject>nasa mission</subject>
+<subject>land remote sensing</subject>
+<subject>earth observing sensor</subject>
+<subject>etm+</subject>
+<subject>gsfc</subject>
+<subject>landsat data</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>landsat</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

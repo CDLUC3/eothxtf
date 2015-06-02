@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>State and County QuickFacts</title>
+<identifier>http://eot.us.archive.org/eot08/20080916005540/quickfacts.census.gov/qfd/index.html</identifier>
+<provenance>http://quickfacts.census.gov/qfd/index.html</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>QuickFacts provides easy access to facts about the people, business, and geography of the United States.</description>
+<subject>QuickFacts</subject>
+<subject>population</subject>
+<subject>business data</subject>
+<subject>state data</subject>
+<subject>county data</subject>
+<subject>census data</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>quickfacts</source>
+<source>census</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

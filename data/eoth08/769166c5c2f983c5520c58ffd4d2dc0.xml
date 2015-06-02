@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Welcome to the PLANTS Database | USDA PLANTS</title>
+<identifier>http://eot.us.archive.org/eot08/20080916005135/plants.usda.gov/</identifier>
+<provenance>http://plants.usda.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-25</date>
+<description>The home page for the United States Department of Agriculture PLANTS Database</description>
+<subject>USDA</subject>
+<subject>NRCS</subject>
+<subject>PLANTS</subject>
+<subject>Plant taxonomy</subject>
+<subject>Plant identification</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>plants</source>
+<source>usda</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

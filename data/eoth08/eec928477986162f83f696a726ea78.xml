@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NWSTC National Weather Service Training Center</title>
+<identifier>http://eot.us.archive.org/eot08/20080916053456/nwstc.noaa.gov/</identifier>
+<provenance>http://www.nwstc.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-06</date>
+<description></description>
+<subject>NWSTC NWS meterology hydrology maintenance weather training classes courses</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>nwstc</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

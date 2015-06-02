@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Landslide Hazards Program</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003831/landslides.usgs.gov/</identifier>
+<provenance>http://landslides.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>USGS Landslide Hazards Program, responsible for reporting and researching landslides and landslide hazards</description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>landslides</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

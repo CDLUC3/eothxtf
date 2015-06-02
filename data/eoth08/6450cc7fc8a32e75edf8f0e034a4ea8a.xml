@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS Northern Prairie Wildlife Research Center</title>
+<identifier>http://eot.us.archive.org/eot08/20080916053450/npwrc.usgs.gov/</identifier>
+<provenance>http://www.npwrc.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-06</date>
+<description>Information for wildlife managers, scientists, and the public on natural resource issues and biota of the North American Great Plains.</description>
+<subject>wildlife</subject>
+<subject>wetland</subject>
+<subject>grassland</subject>
+<subject>prairie pothole region</subject>
+<subject>waterfowl</subject>
+<subject>breeding duck</subject>
+<subject>breeding bird</subject>
+<subject>ecology</subject>
+<subject>research</subject>
+<subject>North Dakota</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>npwrc</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS Water Resources of New Hampshire and Vermont - Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916004156/nh.water.usgs.gov/</identifier>
+<provenance>http://nh.water.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>New Hampshire/Vermont District Home Page, USGS Water Resources</description>
+<subject>USGS</subject>
+<subject>New Hampshire</subject>
+<subject>Vermont</subject>
+<subject>NH</subject>
+<subject>VT</subject>
+<subject>Water Resources</subject>
+<subject>ground-water</subject>
+<subject>surface-water</subject>
+<subject>water quality</subject>
+<subject>streamflow</subject>
+<subject>New England</subject>
+<subject>flood</subject>
+<subject>drought</subject>
+<subject>drinking water</subject>
+<subject>private well</subject>
+<subject>geology</subject>
+<subject>hydrology</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>nh</source>
+<source>water</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

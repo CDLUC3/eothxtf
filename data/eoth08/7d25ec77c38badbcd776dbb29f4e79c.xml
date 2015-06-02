@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>THOMAS (Library of Congress)</title>
+<identifier>http://eot.us.archive.org/eot08/20080916011214/thomas.loc.gov/</identifier>
+<provenance>http://thomas.loc.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-14</date>
+<description>The Library of Congress THOMAS site is the source for federal legislative information.  THOMAS provides several options for finding bills, resolutions, and legislative histories from 1973 to the present.  Legislative information can be searched across multiple Congresses.  THOMAS is also the source for presidential nominations, treaties, committee reports, legislative resources for researchers and teachers.  THOMAS draws on the resources of the Library of Congress to provide users with valuable and historical information related to the legislative process.</description>
+<subject>bills</subject>
+<subject>resolutions</subject>
+<subject>legislative information</subject>
+<subject>congress</subject>
+<subject>laws</subject>
+<subject>legislative resources</subject>
+<subject>congressional resources</subject>
+<subject>how a bill becomes a law</subject>
+<subject>senators</subject>
+<subject>representatives</subject>
+<subject>members of congress</subject>
+<subject>appropriations</subject>
+<subject>public laws</subject>
+<subject>treaties</subject>
+<subject>nominations</subject>
+<subject>presidential nominations</subject>
+<subject>previous congresses</subject>
+<subject>multiple congresses</subject>
+<subject>multi-congress</subject>
+<subject>bill text</subject>
+<subject>bill summary</subject>
+<subject>legislative actions</subject>
+<subject>latest legislative action</subject>
+<subject>congressional record</subject>
+<subject>latest daily digest</subject>
+<subject>on the house floor</subject>
+<subject>house floor schedule</subject>
+<subject>senate floor schedule</subject>
+<subject>committee reports</subject>
+<subject>congressional committees</subject>
+<subject>senate nomination hearings</subject>
+<subject>government resources</subject>
+<subject>teachers</subject>
+<subject>congressional calendars</subject>
+<subject>roll call votes</subject>
+<subject>congressional voting</subject>
+<subject>u.s. congress</subject>
+<subject>us congress</subject>
+<subject>federal legislation</subject>
+<subject>conference reports</subject>
+<subject>us senate</subject>
+<subject>u.s. senate</subject>
+<subject>u.s. house of representatives</subject>
+<subject>us house of representatives</subject>
+<subject>house of reps</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Legislative</coverage>
+<source>thomas</source>
+<source>loc</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

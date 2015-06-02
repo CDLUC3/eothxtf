@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>DOE DATA EXPLORER</title>
+<identifier>http://eot.us.archive.org/eot08/20080916062315/osti.gov/dataexplorer/</identifier>
+<provenance>http://www.osti.gov/dataexplorer/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-25</date>
+<description>DOE Data Explorer includes a database of citations prepared by the Office of Scientific and Technical Information (OSTI) based on the information found at various data-hosting Web sites.</description>
+<subject>scientific</subject>
+<subject>research</subject>
+<subject>data</subject>
+<subject>figures</subject>
+<subject>plots</subject>
+<subject>interactive maps</subject>
+<subject>scientific images</subject>
+<subject>citations</subject>
+<subject>researchers</subject>
+<subject>numeric files</subject>
+<subject>computer simulations</subject>
+<subject>DOE Data Explorer</subject>
+<subject>DDE</subject>
+<subject>data centers</subject>
+<subject>Office of Scientific and Technical Information</subject>
+<subject>OSTI</subject>
+<subject>data collection</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>osti</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

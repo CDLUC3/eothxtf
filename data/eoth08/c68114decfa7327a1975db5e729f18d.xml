@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Institute of Museum and Library Services (IMLS)</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003726/imls.gov/</identifier>
+<provenance>http://imls.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-22</date>
+<description>The Institute of Museum and Library Services is a grant-making federal agency supporting museums and libraries of all types.</description>
+<subject>museums</subject>
+<subject>libraries</subject>
+<subject>museum grants</subject>
+<subject>library grants</subject>
+<subject>museum funding</subject>
+<subject>library funding</subject>
+<subject>public library funding</subject>
+<subject>library</subject>
+<subject>IMLS</subject>
+<subject>Institute of Museum and Library Services</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>imls</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

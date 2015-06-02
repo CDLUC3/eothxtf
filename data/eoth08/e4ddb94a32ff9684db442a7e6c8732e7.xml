@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>LANDFIRE Homepage</title>
+<identifier>http://eot.us.archive.org/eot08/20090117074402/landfire.gov/</identifier>
+<provenance>http://www.landfire.gov/</provenance>
+<date>2009-01-17</date>
+<date>2009-08-25</date>
+<description>LANDFIRE, also known as the Landscape Fire and Resource Management Planning Tools Project, is a five-year, multi-partner project producing consistent and comprehensive maps and data describing vegetation, wildland fuel, and fire regimes across the United States.</description>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>landfire</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

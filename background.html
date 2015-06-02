@@ -1,0 +1,137 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8; charset=UTF-8" />
+	  <meta name="description" content="The End of Term Web  Archive documents the United States government's World Wide Web presence during the transition between the administrations of President George W. Bush and President Barak Obama." />
+      <title>Project Background | End of Term Web Archive</title>
+      <link rel="stylesheet" href="css/default/eoth08.css" type="text/css" />
+	  
+	   <!-- files and script needed for jQuery twitter feed -->
+	   <script type="text/javascript" src="script/jquery-1.6.1.min.js"></script>
+	   <script language="javascript" src="script/jquery.tweet.js" type="text/javascript"></script> 
+	   <link rel="stylesheet" href="css/default/jquery.tweet.css" type="text/css" />
+	   <script type="text/javascript">
+	    jQuery(function($){
+      $("#filter").tweet({
+        count: 15,
+        fetch: 40,
+        filter: function(t){ return  /#pub/.test(t["tweet_raw_text"]); },
+        username: "eotarchive"
+      });
+    });
+	
+</script> 
+	   
+   </head>
+	  
+   <body>
+
+<div id="header"><!-- begin header -->
+
+<div class="header_wrapper">
+	<div class="header_logo"><img src="icons/default/eoth_banner.png" alt=""/></div>
+	<div class="header_help"><a href="contact.html">Contact Us</a> | <a href="help.html">Help</a></div>
+</div>
+<br class="clear"/>
+
+  <table class="navbar">
+    <tr>
+      <td class="tab-select"><a href="index.html">Home</a></td>
+      <td class="tab"><a href="search?smode=advanced">Search Full Text</a></td>
+      <td class="tab"><a href="search?browse-all=yes">Site List</a></td>
+      <td class="tab"><a href="search?smode=freeform">Explore Data</a></td>
+    </tr>
+  </table>
+</div><!-- end header -->
+
+
+<div id="wrapper1"><!-- sets background to white and creates full length leftcol-->
+	
+	<div id="wrapper2"><!-- sets background to white and creates full length rightcol-->
+	
+		<div id="maincol"><!-- begin main content area -->
+				
+			<div id="leftcol"><!-- begin leftcol -->
+
+                <ul class="home-menu">
+                   <li><a href="index.html">Overview</a></li>
+                   <li>Project Background</li>
+                   <li><a href="partners.html">Project Partners</a></li>
+                   <li><a href="2012.html">End of Term 2012</a></li>
+                 </ul>
+			</div><!-- end leftcol -->
+
+
+		<div id="rightcol"><!-- begin rightcol -->
+			<h2>Articles & Presentations</h2>
+			<div id='filter' class="query"></div>
+		</div><!-- end righttcol -->
+
+<div id="centercol"><!-- begin centercol -->
+		
+	 <h2>Project Background</h2>
+								 
+<ul>
+	
+	<li><a href="#building">Building the Collection</a></li>
+	<li><a href="#collab">Our Collaborative Approach</a></li>
+	<li><a href="#innov">Driving Technical Innovation</a></li>
+	
+</ul>
+
+<a name="building"></a><h3>Building the Collection</h3>
+                                 
+<p>The End of Term Web Archive collaboration began in the summer of 2008, when the <a href="partners.html">project partners</a>, all members of the <a href="http://www.netpreserve.org">International Internet Preservation Consortium</a> (IIPC) and partners in the <a href="http://www.digitalpreservation.gov">National Digital Infrastructure and Preservation Program</a> (NDIIPP), agreed to join forces to collaboratively archive the U.S. Government web at the end of the Bush administration. The goal of the project team was to execute a comprehensive harvest of the Federal Government domains (.gov, .mil, .org, etc.) in the final months of the Bush administration, and to document changes in the federal government websites as agencies transitioned to the Obama administration. The archive includes Federal Government websites in the Legislative, Executive, and Judicial branches of government.</p> 
+
+<p>A broad, comprehensive crawl of sites began in August 2008, and project participants crawled, at varying frequencies, areas of the government web of particular interest to their organizations. The project team also called upon government information specialists, including librarians, political and social science researchers, and academics, to assist in the selection and prioritization of selected websites to be included in a focused crawl. These included sites identified as being potentially greater at risk of rapid change or disappearance. The prioritized URLs were collected in December 2008, and again after the inauguration in January 2009. </p>
+
+<p>In Spring and Fall 2009 a final broad, comprehensive crawl was performed to document any final changes that had occurred. Each of the project partners then transferred the content they had collected to form a single consolidated archive.  The Internet Archive hosts the public access copy of this archive, the Library of Congress holds a preservation copy, and the University of North Texas holds an additional copy for data analysis.</p>
+
+<a name="collab"></a><h3>Our Collaborative Approach</h3>
+
+<p>By collaborating, the partners brought various skills and interests to the project. The Internet Archive performed the broad crawls and crawls of prioritized websites nominated by volunteers, and provides an access copy to the data for this site. UNT provided project management, created a Nomination Tool that allowed for a collaborative selection process and easily managed seeds, and provided subject expertise and performed some focused crawls. California Digital Library performed focused crawls based on interests of subject specialists, and has developed the front-end interface to the collection. Library of Congress coordinated volunteers, provided project management support, performed more focused crawls of the Legislative Branch, and supported transfer of data from one partner institution to another. The Government Printing Office administers the Federal Depository Library Program and has a strong interest in government publications so they joined project calls to stay informed about the work.</p>
+
+<a name="innov"></a><h3>Driving Technical Innovation</h3>
+
+<p>The scale of the collection and the scope of collaboration behind the End of Term Web Archive itself drove new developments in web harvesting and access technologies. Here are some of the tools that were used, modified, or created in the process of carrying out this work:</p>
+
+<ul>
+<li>To identify, prioritize and describe the thousands of U.S. Government web hosts, the University of North Texas built the <a href="http://digital2.library.unt.edu/nomination/">Nomination Tool</a>.  This tool enables collaborative collection development for web archiving, and has since been used in other archiving efforts.</li><br/>
+
+<li>All of the partners who collected content used the <a href="http://crawler.archive.org/">Heritrix web crawler</a>, developed by the Internet Archive  with support from  the IIPC.</li><br/>
+
+<li>To solve the challenges presented by transferring and aggregating the End of Term Content, the Library of Congress developed <a href="http://sourceforge.net/projects/loc-xferutils/">Bagit Library</a>,  an open source java library to support large-scale data transfer among many institutions.  The Library also released <a href="http://groups.google.com/group/digital-curation/browse_thread/thread/83a07b1ffd33ada3?pli=1">Bagger</a>, 
+ an open source desktop version of the Bagit Library. For further detail, see <a href="http://blogs.loc.gov/digitalpreservation/2011/07/the-end-of-term-was-only-the-beginning/">The End of Term was only the beginning</a>.</li><br/>
+ 
+<li>The Internet Archive reconfigured existing in-house tools to automatically generate metadata records for the over 3,000 websites in the End Of Term Web Archive.  With the California Digital Library providing input on the Dublin Core format, IA generated the records and thumbnail images you see when you <a href="search?browse-all=yes">browse the archive</a>.</li><br/>
+
+<li>The University of North Texas has used the End of Term  content as the data source for additional study of automatic classification of government agency web content.  For further information on UNT's work, see <a href="http://research.library.unt.edu/eotcd/wiki/Main_Page">Classification of the End of Term Archive: Extending Collection Development to Web Archives</a>.</li><br/>
+
+<li>The California Digital Library modified its open source <a href="http://xtf.cdlib.org/">eXtensible Text Framework</a> (XTF) +digital library access platform to provide a gateway to web-archived materials.  This work is part of broader analysis underway at CDL to more fully integrate discovery systems and formats.</li><br/>
+</ul>
+
+<p>The challenges posed by the scope and scale of this collaborative effort have been met with innovation at each of the partner institutions, and have resulted in considerably more than the archive alone.</p>
+
+
+</div><!-- end centercol -->
+				
+</div><!-- end main content area -->
+		
+	<div id="footer"><!-- begin footer -->
+
+
+
+                  <p>The End of Term Web Archive is hosted by the <a href="http://www.cdlib.org">California Digital Library</a> and the <a href="http://www.archive.org">Internet Archive</a>. <br/> 
+		 <a href="http://www.cdlib.org/about/privacy.html">Privacy Policy</a> | <a href="contact.html">Contact Us</a></p>
+         
+	</div><!-- end footer -->
+	
+	<br/>
+	<br/>
+	
+	</div><!-- end wrapper1 -->
+ 
+</div><!-- end wrapper2 -->
+   </body>
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NOAA Environmental Technology Laboratory</title>
+<identifier>http://eot.us.archive.org/eot08/20080916032122/etl.noaa.gov/</identifier>
+<provenance>http://www.etl.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-27</date>
+<description>ETL supports the strategic goals of NOAA  and NOAA Research through regionally specific research efforts in weather, climate,  and air quality that exploit the Laboratory&apos;s unique expertise in remote  sensing of the geophysical environment.</description>
+<subject>remote sensing</subject>
+<subject>radar</subject>
+<subject>lidar</subject>
+<subject>radiometer</subject>
+<subject>coastal modeling</subject>
+<subject>sea surface modeling</subject>
+<subject>environmental monitoring</subject>
+<subject>meteorology</subject>
+<subject>oceanography</subject>
+<subject>climate measurement</subject>
+<subject>environmental research</subject>
+<subject>regional climate</subject>
+<subject>climate weather connection</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>etl</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Home - National Toxicology Program</title>
+<identifier>http://eot.us.archive.org/eot08/20080916004158/ntp-server.niehs.nih.gov/</identifier>
+<provenance>http://ntp-server.niehs.nih.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description></description>
+<subject>NTP</subject>
+<subject>Toxicology</subject>
+<subject>Toxicity</subject>
+<subject>Testing</subject>
+<subject>Reproductive</subject>
+<subject>Immunotoxicity</subject>
+<subject>Teratology</subject>
+<subject>SNOMED</subject>
+<subject>Salmonella</subject>
+<subject>Bioassay</subject>
+<subject>Structure</subject>
+<subject>Transgenic</subject>
+<subject>TDMS</subject>
+<subject>Carcinogenicity</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>ntp-server</source>
+<source>niehs</source>
+<source>nih</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

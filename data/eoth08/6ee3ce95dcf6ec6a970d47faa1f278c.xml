@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USDOC/NOAA/NESDIS/National Geophysical Data Center (NGDC) Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916052628/ngdc.noaa.gov/</identifier>
+<provenance>http://www.ngdc.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-06</date>
+<description>The National Geophysical Data Center (NGDC) is part of the US Dept of Commerce, National Oceanic &amp; Atmospheric Administration, National Environmental Satellite, Data, &amp; Information Service</description>
+<subject>geophysical data</subject>
+<subject>glaciology</subject>
+<subject>DMSP</subject>
+<subject>marine geology</subject>
+<subject>marine geophysics</subject>
+<subject>solar-terrestrial physics</subject>
+<subject>solid earth geophysics</subject>
+<subject>World Data Centers</subject>
+<subject>snow and ice</subject>
+<subject>environmental satellite data and imagery</subject>
+<subject>Defense Meteorological Satellite Data Archive</subject>
+<subject>sunspots</subject>
+<subject>geomagnetism</subject>
+<subject>solar</subject>
+<subject>space weather</subject>
+<subject>ionosphere</subject>
+<subject>upper atmosphere</subject>
+<subject>GOES</subject>
+<subject>POES</subject>
+<subject>SPIDR</subject>
+<subject>bathymetry</subject>
+<subject>coastal relief</subject>
+<subject>Great Lakes geomorphology</subject>
+<subject>trackline geophysics</subject>
+<subject>gravity</subject>
+<subject>magnetics</subject>
+<subject>global relief models</subject>
+<subject>marine sediments</subject>
+<subject>seafloor sediments</subject>
+<subject>tree ring data</subject>
+<subject>ice core data</subject>
+<subject>paleoceanography</subject>
+<subject>lake sediments</subject>
+<subject>climate modelling</subject>
+<subject>global change</subject>
+<subject>hazards</subject>
+<subject>volcanoes</subject>
+<subject>tsunamis</subject>
+<subject>earthquakes</subject>
+<subject>aeromagnetics</subject>
+<subject>topography</subject>
+<subject>IAGA</subject>
+<subject>IHODCDB</subject>
+<subject>GLOBE</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>ngdc</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

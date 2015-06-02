@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS National Geomagnetism Program | Home</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003722/geomag.usgs.gov/</identifier>
+<provenance>http://geomag.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>National Geomagnetism Program, Real-time monitoring of the Earth&apos;s magnetic field, Data for research and practical application.</description>
+<subject>spaceweather</subject>
+<subject>space-weather</subject>
+<subject>geomagnetism</subject>
+<subject>dynamo</subject>
+<subject>paleomagnetism</subject>
+<subject>palaeomagnetism</subject>
+<subject>magnetic</subject>
+<subject>magnetism</subject>
+<subject>geomagnetic</subject>
+<subject>declination</subject>
+<subject>magnetosphere</subject>
+<subject>ionosphere</subject>
+<subject>magnetospheric</subject>
+<subject>ionospheric</subject>
+<subject>geophysics</subject>
+<subject>post-doc</subject>
+<subject>postdoc</subject>
+<subject>post-doctoral</subject>
+<subject>postdoctoral</subject>
+<subject>job</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>geomag</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NASA: TERRA (EOS AM-1)</title>
+<identifier>http://eot.us.archive.org/eot08/20080916011241/terra.nasa.gov/</identifier>
+<provenance>http://terra.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>TERRA Mission Public Outreach Portal</description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>terra</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

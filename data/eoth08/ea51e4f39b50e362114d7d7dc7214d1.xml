@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Bay Area Regional Database home page</title>
+<identifier>http://eot.us.archive.org/eot08/20081105025132/bard.wr.usgs.gov/</identifier>
+<provenance>http://bard.wr.usgs.gov/</provenance>
+<date>2008-11-05</date>
+<date>2009-08-25</date>
+<description>Home Page of BARD--San Francisco Bay Area Regional Database</description>
+<subject>USGS</subject>
+<subject>Access USGS</subject>
+<subject>San Francisco</subject>
+<subject>San Francisco Bay</subject>
+<subject>maps</subject>
+<subject>digital maps</subject>
+<subject>digital database</subject>
+<subject>dem</subject>
+<subject>dlg</subject>
+<subject>doq</subject>
+<subject>drg</subject>
+<subject>06053 = Monterey</subject>
+<subject>06055 = Napa</subject>
+<subject>06067 = Sacramento</subject>
+<subject>06075 = San Francisco</subject>
+<subject>06081 = San Mateo</subject>
+<subject>06085 = Santa Clara</subject>
+<subject>06087 = Santa Cruz</subject>
+<subject>06097 = Sonoma</subject>
+<subject>06113 = Yolo</subject>
+<subject>06001 = Alameda</subject>
+<subject>OC41 = Northeast Pacific</subject>
+<subject>cartography</subject>
+<subject>Digital Elevation Models (DEMs)</subject>
+<subject>Digital Line Graphs (DLGs)</subject>
+<subject>Digital Orthophoto Quadrangles (DOQs)</subject>
+<subject>Digital Raster Graphics (DRGs)</subject>
+<subject>digital image format</subject>
+<subject>GIS datasets</subject>
+<subject>downloading data</subject>
+<subject>map servers</subject>
+<subject>base maps</subject>
+<subject>thematic maps</subject>
+<subject>hydrologic maps</subject>
+<subject>topographic maps</subject>
+<subject>transportation features</subject>
+<subject>pipelines</subject>
+<subject>railroad features</subject>
+<subject>roadways</subject>
+<subject>datasets</subject>
+<subject>cartography</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>bard</source>
+<source>wr</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

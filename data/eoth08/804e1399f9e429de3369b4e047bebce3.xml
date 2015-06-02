@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Court of Appeals PACER Welcome Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916004447/pacer.cafc.uscourts.gov/</identifier>
+<provenance>http://pacer.cafc.uscourts.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>U.S. Court of Appeals for the Federal Circuit, public court records search</description>
+<subject>docket</subject>
+<subject>federal case</subject>
+<subject>search</subject>
+<subject>PACER</subject>
+<subject>court</subject>
+<subject>mccracken</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Judicial</coverage>
+<source>pacer</source>
+<source>cafc</source>
+<source>uscourts</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

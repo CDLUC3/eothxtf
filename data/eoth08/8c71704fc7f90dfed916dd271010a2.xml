@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Computational Biology at Oak Ridge National Laboratory</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003722/genome.ornl.gov/</identifier>
+<provenance>http://genome.ornl.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>We conduct research and resource development in computational  biology and bioinformatics. There are analysis resources and links for the biological research  community; especially in genome research, genome annotation, gene identification, and protein  structure analysis.</description>
+<subject>computational biology</subject>
+<subject>genome informatics</subject>
+<subject>bioinformatics</subject>
+<subject>bioinformation</subject>
+<subject>genome information</subject>
+<subject>protein structure</subject>
+<subject>protein threading</subject>
+<subject>functional genomics</subject>
+<subject>gene identification</subject>
+<subject>genes</subject>
+<subject>genomes</subject>
+<subject>DNA sequence</subject>
+<subject>genome project</subject>
+<subject>genome sequencing</subject>
+<subject>GRAIL(tm)</subject>
+<subject>genome annotation</subject>
+<subject>genetics</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>genome</source>
+<source>ornl</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

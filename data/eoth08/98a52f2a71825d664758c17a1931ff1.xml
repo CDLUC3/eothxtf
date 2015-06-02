@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NCI-Frederick Scientific Library Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916020108/www-library.ncifcrf.gov/</identifier>
+<provenance>http://www-library.ncifcrf.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-22</date>
+<description>NCI-Frederick Scientific Library Website</description>
+<subject>Catalog</subject>
+<subject>Electronic Resources</subject>
+<subject>Information</subject>
+<subject>Services</subject>
+<subject>Training</subject>
+<subject>Programs</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>www-library</source>
+<source>ncifcrf</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>CGAP</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003636/cgap.nci.nih.gov/</identifier>
+<provenance>http://cgap.nci.nih.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-05</date>
+<description></description>
+<subject>cancer</subject>
+<subject>gene</subject>
+<subject>chromosome</subject>
+<subject>pathway</subject>
+<subject>tissue</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>cgap</source>
+<source>nci</source>
+<source>nih</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

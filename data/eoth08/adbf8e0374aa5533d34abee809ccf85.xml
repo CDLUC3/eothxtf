@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Specialized Information Services - Information resources and services in toxicology, environmental health, chemistry, HIV/AIDS, and specialized topics in minority health</title>
+<identifier>http://eot.us.archive.org/eot08/20080916010210/sis.nlm.nih.gov/</identifier>
+<provenance>http://sis.nlm.nih.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>Information resources and services in toxicology, environmental health, chemistry, HIV/AIDS, and specialized topics in minority health</description>
+<subject>toxicology</subject>
+<subject>environmental health</subject>
+<subject>chemistry</subject>
+<subject>HIV/AIDS</subject>
+<subject>minority health</subject>
+<subject>toxnet</subject>
+<subject>hpd</subject>
+<subject>Household products</subject>
+<subject>chemid</subject>
+<subject>toxline</subject>
+<subject>aidsline</subject>
+<subject>hsdb</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>sis</source>
+<source>nlm</source>
+<source>nih</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

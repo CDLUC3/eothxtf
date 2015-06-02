@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>California NRCS</title>
+<identifier>http://eot.us.archive.org/eot08/20090109015735/ca.nrcs.usda.gov/</identifier>
+<provenance>http://www.ca.nrcs.usda.gov/</provenance>
+<date>2009-01-09</date>
+<date>2009-01-16</date>
+<description></description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>ca</source>
+<source>nrcs</source>
+<source>usda</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

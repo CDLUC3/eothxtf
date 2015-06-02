@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>U.S. Congressman Artur Davis - 7th Congressional District of Alabama</title>
+<identifier>http://eot.us.archive.org/eot08/20080915221200/house.gov/arturdavis/</identifier>
+<provenance>http://www.house.gov/arturdavis/</provenance>
+<date>2008-09-15</date>
+<date>2009-08-22</date>
+<description>representative firstname lastname of the xth district of yourstate</description>
+<subject>statename</subject>
+<subject>representative</subject>
+<subject>congress</subject>
+<subject>congressman</subject>
+<subject>districtnumber</subject>
+<subject>xth</subject>
+<subject>district</subject>
+<subject>firstname</subject>
+<subject>lastname</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Legislative</coverage>
+<source>house</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

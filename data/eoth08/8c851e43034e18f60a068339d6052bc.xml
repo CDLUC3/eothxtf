@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>U.S. DoC / NOAA / NOS / National Geodetic Survey</title>
+<identifier>http://eot.us.archive.org/eot08/20080916052628/ngs.noaa.gov/</identifier>
+<provenance>http://www.ngs.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-11</date>
+<description></description>
+<subject>NGS</subject>
+<subject>geodetic</subject>
+<subject>geodesy</subject>
+<subject>geoid</subject>
+<subject>GPS</subject>
+<subject>survey</subject>
+<subject>surveying</subject>
+<subject>photogrammetry</subject>
+<subject>spatial reference</subject>
+<subject>datum</subject>
+<subject>coordinates</subject>
+<subject>aeronautical</subject>
+<subject>gravimetry</subject>
+<subject>benchmark</subject>
+<subject>C&amp;GS</subject>
+<subject>Coast Survey</subject>
+<subject>horizontal</subject>
+<subject>vertical</subject>
+<subject>leveling</subject>
+<subject>CORS</subject>
+<subject>SWaPS</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>ngs</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NOAA SARSAT</title>
+<identifier>http://eot.us.archive.org/eot08/20080916070041/sarsat.noaa.gov/</identifier>
+<provenance>http://www.sarsat.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-05</date>
+<description>The purpose of the SARSAT program is to provide distress alert and location information to search and rescue authorities anywhere in the world for maritime, aviation and land-based users. The SARSAT program is part of the international Cospas-Sarsat System.</description>
+<subject>SARSAT</subject>
+<subject>NOAA</subject>
+<subject>Cospas-Sarsat</subject>
+<subject>Search and    Rescue</subject>
+<subject>EPIRB</subject>
+<subject>ELT</subject>
+<subject>PLB</subject>
+<subject>epirb</subject>
+<subject>elt</subject>
+<subject>plb</subject>
+<subject>distress beacon</subject>
+<subject>beacon</subject>
+<subject>USMCC</subject>
+<subject>GOES</subject>
+<subject>POES</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>sarsat</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

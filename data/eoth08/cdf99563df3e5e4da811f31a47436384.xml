@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Visualization of Remote Sensing Data</title>
+<identifier>http://eot.us.archive.org/eot08/20080916005400/rsd.gsfc.nasa.gov/</identifier>
+<provenance>http://rsd.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>The Vis/RSD website is a showcase for stunning visualizations of satellite  data by NASA&apos;s Goddard Laboratory for Atmospheres.</description>
+<subject>remote sensing</subject>
+<subject>data</subject>
+<subject>satellite</subject>
+<subject>radar</subject>
+<subject>telescope</subject>
+<subject>earth</subject>
+<subject>space</subject>
+<subject>land</subject>
+<subject>oceans</subject>
+<subject>science education</subject>
+<subject>land use</subject>
+<subject>NASA</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>rsd</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>U.S. Board on Geographic Names (BGN)</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003721/geonames.usgs.gov/</identifier>
+<provenance>http://geonames.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>Information related to the U.S. Board on Geographic Names, Domestic Names, Foreign Names, Antarctic Names, and Undersea Features.</description>
+<subject>USGS</subject>
+<subject>U.S. Geological Survey</subject>
+<subject>USA</subject>
+<subject>United States</subject>
+<subject>Territories</subject>
+<subject>Antarctica</subject>
+<subject>antarctic</subject>
+<subject>GNIS</subject>
+<subject>database</subject>
+<subject>geographic</subject>
+<subject>geography</subject>
+<subject>geospatial</subject>
+<subject>geographi cal</subject>
+<subject>feature</subject>
+<subject>place</subject>
+<subject>placename</subject>
+<subject>name</subject>
+<subject>gazetteer</subject>
+<subject>toponymy</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>geonames</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

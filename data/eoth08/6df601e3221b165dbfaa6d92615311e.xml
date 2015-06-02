@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Clinical Trials Home Page - National Cancer Institute</title>
+<identifier>http://eot.us.archive.org/eot08/20080916024627/cancer.gov/clinicaltrials</identifier>
+<provenance>http://www.cancer.gov/clinicaltrials</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>Information from the National Cancer Institute on how to find cancer clinical trials, what clinical trials are, recent research, resources for researchers.</description>
+<subject>cancer</subject>
+<subject>clinical trials</subject>
+<subject>cancer trials</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>cancer</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

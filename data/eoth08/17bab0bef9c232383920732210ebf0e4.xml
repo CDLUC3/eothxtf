@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>SPDF - Coordinated Data Analysis Web (CDAWeb)</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003635/cdaweb.gsfc.nasa.gov/</identifier>
+<provenance>http://cdaweb.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>The Space Physics Data Facility (SPDF) hosts the S3C Active Archive, which consists of web services for survey and high resolution data, trajectories, and scientific models.</description>
+<subject>ace</subject>
+<subject>cluster</subject>
+<subject>equator-s</subject>
+<subject>fast</subject>
+<subject>geotail</subject>
+<subject>image</subject>
+<subject>imp-8</subject>
+<subject>istp</subject>
+<subject>polar</subject>
+<subject>wind</subject>
+<subject>interball</subject>
+<subject>interball tail</subject>
+<subject>interball aurora</subject>
+<subject>sampex</subject>
+<subject>soho</subject>
+<subject>ulysses</subject>
+<subject>goes 6</subject>
+<subject>goes 7</subject>
+<subject>goes 8</subject>
+<subject>goes 9</subject>
+<subject>goes 10</subject>
+<subject>lanl</subject>
+<subject>canopus</subject>
+<subject>darn</subject>
+<subject>finnish meteorological institute</subject>
+<subject>sesame</subject>
+<subject>de-1</subject>
+<subject>de-2</subject>
+<subject>dynamics explorer</subject>
+<subject>hawkeye</subject>
+<subject>isis</subject>
+<subject>cluster prime parameters</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>cdaweb</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

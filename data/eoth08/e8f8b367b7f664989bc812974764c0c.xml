@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>National Nuclear Data Center</title>
+<identifier>http://eot.us.archive.org/eot08/20080916053449/nndc.bnl.gov/</identifier>
+<provenance>http://www.nndc.bnl.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-03-13</date>
+<description>National Nuclear Data Center Web Site</description>
+<subject>Nuclear data</subject>
+<subject>nuclear physics data</subject>
+<subject>nuclear technology data</subject>
+<subject>	nuclear science data</subject>
+<subject>nuclear data web services</subject>
+<subject>nuclear databases</subject>
+<subject>	ENSDF</subject>
+<subject>NSR</subject>
+<subject>NuDat</subject>
+<subject>MIRD</subject>
+<subject>CINDA</subject>
+<subject>CSISRS</subject>
+<subject>ENDF</subject>
+<subject>EXFOR</subject>
+<subject>Nuclear Wallet Cards</subject>
+<subject>Nuclear Data Sheets 	  </subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>nndc</source>
+<source>bnl</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

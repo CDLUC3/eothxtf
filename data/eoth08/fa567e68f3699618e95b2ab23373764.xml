@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Beacon eSpace</title>
+<identifier>http://eot.us.archive.org/eot08/20080916104807/techreports.jpl.nasa.gov/</identifier>
+<provenance>http://techreports.jpl.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description></description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>techreports</source>
+<source>jpl</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

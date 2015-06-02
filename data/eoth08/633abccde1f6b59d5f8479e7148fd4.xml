@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NOAA&apos;s National Ocean Service: NOS Data Explorer</title>
+<identifier>http://eot.us.archive.org/eot08/20080916081506/oceanservice.noaa.gov/dataexplorer/</identifier>
+<provenance>http://oceanservice.noaa.gov/dataexplorer/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-25</date>
+<description></description>
+<subject>Ocean Service</subject>
+<subject>ocean</subject>
+<subject>oceans</subject>
+<subject>coast</subject>
+<subject>chart</subject>
+<subject>navigation</subject>
+<subject>NOAA</subject>
+<subject>National Oceanic and Atmospheric Administration</subject>
+<subject>nautical charting</subject>
+<subject>geodetic/global positioning</subject>
+<subject>remotely sensed imagery/photos</subject>
+<subject>bathymetry/topography</subject>
+<subject>tides and currents</subject>
+<subject>shoreline</subject>
+<subject>marine boundaries</subject>
+<subject>environmental monitoring</subject>
+<subject>environment</subject>
+<subject>biota</subject>
+<subject>transportation</subject>
+<subject>NOS Data Explorer</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>oceanservice</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

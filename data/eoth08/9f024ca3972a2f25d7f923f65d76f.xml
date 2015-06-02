@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Medical Expenditure Panel Survey Home</title>
+<identifier>http://eot.us.archive.org/eot08/20080920024836/meps.ahrq.gov/mepsweb/</identifier>
+<provenance>http://meps.ahrq.gov/mepsweb/</provenance>
+<date>2008-09-20</date>
+<date>2009-08-12</date>
+<description>The Medical Expenditure Panel Survey is a set of large-scale surveys of families and individuals, their medical providers, and employers across the United States.</description>
+<subject>Survey</subject>
+<subject>Expenses</subject>
+<subject>Medical Expenditures</subject>
+<subject>Data</subject>
+<subject>Expenditures</subject>
+<subject>Health Care Costs</subject>
+<subject>Household Surveys</subject>
+<subject>Insurance</subject>
+<subject>Health Insurance</subject>
+<subject>Health Care Coverage</subject>
+<subject>Public Use Files</subject>
+<subject>Acess to Care</subject>
+<subject>Diabetes</subject>
+<subject>Asthma</subject>
+<subject>Prescription Drugs</subject>
+<subject>Obesity</subject>
+<subject>Uninsured.</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>meps</source>
+<source>ahrq</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

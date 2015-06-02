@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Montana NRCS</title>
+<identifier>http://eot.us.archive.org/eot08/20080922204521/mt.nrcs.usda.gov/</identifier>
+<provenance>http://www.mt.nrcs.usda.gov/</provenance>
+<date>2008-09-22</date>
+<date>2009-08-25</date>
+<description></description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>mt</source>
+<source>nrcs</source>
+<source>usda</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Northern Plains Agricultural Research Lab (NPARL)</title>
+<identifier>http://eot.us.archive.org/eot08/20080916070054/sidney.ars.usda.gov/</identifier>
+<provenance>http://www.sidney.ars.usda.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-07</date>
+<description>The USDA Agricultural Research Service's Northern Plains Agricultural Research Laboratory is located in Sidney, Montana and is made up of two research units studying irrigated and dryland cropping systems in the northern Great Plains; the ecology and management of grasshoppers and Mormon crickets, and the biological control of invasive weeds and insect pests.</description>
+<subject>nitrate</subject>
+<subject>leaching</subject>
+<subject>crop rotations</subject>
+<subject>seedbank</subject>
+<subject>nitrogen</subject>
+<subject>carbon</subject>
+<subject>malting barley</subject>
+<subject>center pivot</subject>
+<subject>linear move</subject>
+<subject>Cercospora leaf spot</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>sidney</source>
+<source>ars</source>
+<source>usda</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

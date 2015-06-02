@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>CDC WONDER</title>
+<identifier>http://eot.us.archive.org/eot08/20080916014650/wonder.cdc.gov/</identifier>
+<provenance>http://wonder.cdc.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>CDC WONDER is a system for diseminating Public Health data and information</description>
+<subject>CDC WONDER Public Health Query</subject>
+<subject>CDC/ATSDR Scientific Data Repository</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>wonder</source>
+<source>cdc</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

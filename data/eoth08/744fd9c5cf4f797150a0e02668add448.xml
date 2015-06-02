@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS FSC: What We Do</title>
+<identifier>http://eot.us.archive.org/eot08/20081109022543/arizona.usgs.gov/flagstaff/moved.html</identifier>
+<provenance>http://arizona.usgs.gov/Flagstaff/moved.html</provenance>
+<date>2008-11-09</date>
+<date>2009-08-25</date>
+<description>The USGS Flagstaff Science Center web site has moved to arizona.usgs.gov/Flagstaff</description>
+<subject>USGS</subject>
+<subject>United States Geological Survey</subject>
+<subject>Flagstaff</subject>
+<subject>Arizona</subject>
+<subject>biology</subject>
+<subject>biological resources</subject>
+<subject>mineral resources</subject>
+<subject>geology</subject>
+<subject>water resources</subject>
+<subject>mapping</subject>
+<subject>cartography</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>arizona</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

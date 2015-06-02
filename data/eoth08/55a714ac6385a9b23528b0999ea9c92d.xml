@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Fishing</title>
+<identifier>http://eot.us.archive.org/eot08/20080916035356/fws.gov/fishing/</identifier>
+<provenance>http://www.fws.gov/fishing/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-22</date>
+<description>Information related to hunting, from the U.S. Fish and  Wildlife  Service.</description>
+<subject>fishing</subject>
+<subject>fish</subject>
+<subject>wildlife</subject>
+<subject>animals</subject>
+<subject>birds</subject>
+<subject>habitat</subject>
+<subject>endangered</subject>
+<subject>species</subject>
+<subject>wetland</subject>
+<subject>refuge</subject>
+<subject>migratory</subject>
+<subject>conservation</subject>
+<subject>environment</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>fws</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

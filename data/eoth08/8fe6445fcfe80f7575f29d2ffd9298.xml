@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>National Cancer Institute - Comprehensive Cancer Information</title>
+<identifier>http://eot.us.archive.org/eot08/20090113185419/nci.nih.gov/</identifier>
+<provenance>http://nci.nih.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-13</date>
+<description>Accurate, up-to-date, comprehensive cancer information from the U.S. government&apos;s principal agency for cancer research.</description>
+<subject>cancer</subject>
+<subject>NCI</subject>
+<subject>National Cancer Institute</subject>
+<subject>cancer information</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>nci</source>
+<source>nih</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,10 @@
+title
+subject
+description
+date
+type
+format
+identifier
+provenance
+relation
+year

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>HEASARC: ASCA X-ray Astronomy Data - Guest Observer Facility</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003814/heasarc.gsfc.nasa.gov/docs/asca/ascagof.html</identifier>
+<provenance>http://heasarc.gsfc.nasa.gov/docs/asca/ascagof.html</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>The primary responsibility of the  ASCA Guest Observer Facility is to enable U.S. astronomers to make the best use of the ASCA x-ray mission,  in close collaboration with the Japanese ASCA team.</description>
+<subject>ASCA</subject>
+<subject>asca</subject>
+<subject>ASCA GOF</subject>
+<subject>science</subject>
+<subject>x-ray</subject>
+<subject>astronomy</subject>
+<subject>Japan</subject>
+<subject>observatory</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>heasarc</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

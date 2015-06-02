@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>National Library of Medicine - National Institutes of Health</title>
+<identifier>http://eot.us.archive.org/eot08/20080916081056/nlm.nih.gov/</identifier>
+<provenance>http://www.nlm.nih.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-25</date>
+<description>The National Library of Medicine (NLM), on the campus of NIH in Bethesda, Maryland, is the world&apos;s largest medical library. It collects materials in all major areas of the health sciences and to a lesser degree in such areas as chemistry, physics, botany and zoology. The collections stand at 5 million items--books, journals, technical reports, manuscripts, microfilms, photographs and images.  Housed within the Library is one of the world&apos;s finest medical history collections of old (pre-1914) and rare medical texts, manuscripts, and incunabula.</description>
+<subject>National Library of Medicine</subject>
+<subject>MEDLINE</subject>
+<subject>MEDLARS</subject>
+<subject>LocatorPlus</subject>
+<subject>MedlinePlus</subject>
+<subject>NLM</subject>
+<subject>Grateful Med</subject>
+<subject>Index Medicus</subject>
+<subject>UMLS</subject>
+<subject>Unified Medical Language System</subject>
+<subject>Metathesaurus</subject>
+<subject>Mesh</subject>
+<subject>Medical Subject Headings</subject>
+<subject>AIDSLINE</subject>
+<subject>Healthstar</subject>
+<subject>Visible Human</subject>
+<subject>PubMed</subject>
+<subject>ClinicalTrials</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>nlm</source>
+<source>nih</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

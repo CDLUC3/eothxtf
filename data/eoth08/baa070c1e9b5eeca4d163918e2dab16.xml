@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>CoastWatch Caribbean/Gulf of Mexico Regional Node</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003639/cwcaribbean.aoml.noaa.gov/</identifier>
+<provenance>http://cwcaribbean.aoml.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>CoastWatch Caribbean/Gulf of Mexico Regional Node: Supplies users with free near real-time satellite derived oceanographic data for the Caribbean, Gulf of Mexico, and Eastern Tropical Pacific.</description>
+<subject>sea surface temperature</subject>
+<subject>HRPT</subject>
+<subject>AVHRR</subject>
+<subject>oceanographic</subject>
+<subject>fishing information</subject>
+<subject>wind</subject>
+<subject>QuikSCAT</subject>
+<subject>altimetry</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>cwcaribbean</source>
+<source>aoml</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

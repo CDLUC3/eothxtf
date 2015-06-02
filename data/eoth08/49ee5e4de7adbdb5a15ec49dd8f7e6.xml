@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>The Remote Sensing Tutorial</title>
+<identifier>http://eot.us.archive.org/eot08/20080916005401/rst.gsfc.nasa.gov/</identifier>
+<provenance>http://rst.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>The Remote Sensing Tutorial explains what you can learn from sensors on saellites and spacecraft that look inward at the Earth and outward at the planets, the galaxies and, going back in time, the entire universe - the cosmos.</description>
+<subject>landsat</subject>
+<subject>remote sensing</subject>
+<subject>remote sensing tutorial</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>rst</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

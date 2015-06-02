@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Census Bureau Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916025309/census.gov/</identifier>
+<provenance>http://www.census.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description></description>
+<subject>Census 2000</subject>
+<subject>2010 Census</subject>
+<subject>population data</subject>
+<subject>government data</subject>
+<subject>county business patterns</subject>
+<subject>historical data</subject>
+<subject>manufacturing</subject>
+<subject>transportation</subject>
+<subject>international trade</subject>
+<subject>homeownership</subject>
+<subject>American Housing Survey</subject>
+<subject>TIGER/Line</subject>
+<subject>NAICS</subject>
+<subject>population estimates</subject>
+<subject>us statistics</subject>
+<subject>American Factfinder</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>census</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

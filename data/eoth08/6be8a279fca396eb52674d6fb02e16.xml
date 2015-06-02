@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>AIRS</title>
+<identifier>http://eot.us.archive.org/eot08/20080916014650/www-airs.jpl.nasa.gov/</identifier>
+<provenance>http://www-airs.jpl.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>.UpdateTitle { color: 07338A; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; margin-bottom : 7px; margin-top : 0px; } p { margin-bottom : 7px; margin-top : 0px; } a { color : B78900; text-decoration : none; } Hurricane Gustav Over Louisiana The infrared, microwave, and visible light sensors of the AIRS instrument capture Gustav, now a category 1 hurricane. Read More...</description>
+<subject>mars</subject>
+<subject>saturn</subject>
+<subject>solar system</subject>
+<subject>universe</subject>
+<subject>rover</subject>
+<subject>rovers</subject>
+<subject>robot</subject>
+<subject>robotics</subject>
+<subject>spacecraft</subject>
+<subject>deep space</subject>
+<subject>probe</subject>
+<subject>deep space exploration</subject>
+<subject>extrasolar</subject>
+<subject>Jet Propulsion Laboratory</subject>
+<subject>JPL</subject>
+<subject>NASA</subject>
+<subject>National Aeronautics and Space Administration</subject>
+<subject>Caltech</subject>
+<subject>California Institute of Technology</subject>
+<subject>www.jpl.nasa.gov</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>www-airs</source>
+<source>jpl</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

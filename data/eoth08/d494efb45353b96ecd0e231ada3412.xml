@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Landsat Missions</title>
+<identifier>http://eot.us.archive.org/eot08/20080916083245/landsat.usgs.gov/</identifier>
+<provenance>http://landsat.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-07</date>
+<description>The Landsat Project is a major mission within the USGS Land Remote Sensing (LRS) Program. The LRS Program encompasses three major components: Remote Sensing Missions and Data Acquisition, Long-term Data Preservation and Access, and Remote Sensing Research and Data Utilization.</description>
+<subject>Landsat</subject>
+<subject>LDCM</subject>
+<subject>Landsat Missions</subject>
+<subject>Data Access</subject>
+<subject>SLC-off Data Products</subject>
+<subject>Sample Products</subject>
+<subject>No Charge Data</subject>
+<subject>Image Processing</subject>
+<subject>Landsat Science Team</subject>
+<subject>Calibration</subject>
+<subject>Global Land Survey</subject>
+<subject>Converters</subject>
+<subject>Shape Files</subject>
+<subject>Acquisition</subject>
+<subject>gallery</subject>
+<subject>Landsat Ground Stations</subject>
+<subject>Standard Level 1 Terrain Corrected</subject>
+<subject>Standard L1T</subject>
+<subject>and L1T</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>landsat</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

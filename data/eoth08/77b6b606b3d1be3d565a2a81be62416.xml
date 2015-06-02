@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>FBI: Federal Bureau of Investigation Homepage</title>
+<identifier>http://eot.us.archive.org/eot08/20080916032206/fbi.gov/</identifier>
+<provenance>http://www.fbi.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-22</date>
+<description>the FBI home page.</description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>fbi</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>HEASARC: NASA&apos;s Archive of Data on Energetic Phenomena</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003731/heasarc.gsfc.nasa.gov/</identifier>
+<provenance>http://heasarc.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>NASA&apos;s High Energy Astrophysics Science Archive Research Center  is for scientists and astronomy enthusiasts seeking actual data from a multitude of space-based  observatories. HEASARC is the primary archive for high-energy astronomy missions, in the extreme  ultraviolet, X-ray and gamma-ray wavelengths. On this site, you&apos;ll find archival data, multi-mission  software and analysis tools, and information about current and past observatory missions. These are  all available freely for your use.</description>
+<subject>high-energy</subject>
+<subject>archive</subject>
+<subject>data</subject>
+<subject>astronomy data</subject>
+<subject>x-ray astronomy</subject>
+<subject>gamma-ray astronomy</subject>
+<subject>instrument</subject>
+<subject>mission</subject>
+<subject>observatory</subject>
+<subject>software</subject>
+<subject>high energy</subject>
+<subject>science</subject>
+<subject>xray</subject>
+<subject>x-ray</subject>
+<subject>gamma ray</subject>
+<subject>gamma-ray</subject>
+<subject>ultraviolet</subject>
+<subject>astrophysics</subject>
+<subject>astronomy</subject>
+<subject>analysis</subject>
+<subject>research</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>heasarc</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

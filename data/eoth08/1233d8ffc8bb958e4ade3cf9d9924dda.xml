@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS Oregon Water Science Center</title>
+<identifier>http://eot.us.archive.org/eot08/20080920040642/or.water.usgs.gov/</identifier>
+<provenance>http://or.water.usgs.gov/</provenance>
+<date>2008-09-20</date>
+<date>2009-08-13</date>
+<description>Home page for the USGS Oregon Water Science Center</description>
+<subject>river</subject>
+<subject>stream</subject>
+<subject>creek</subject>
+<subject>hydrology</subject>
+<subject>water</subject>
+<subject>quality</subject>
+<subject>surface</subject>
+<subject>streamflow</subject>
+<subject>discharge</subject>
+<subject>ground</subject>
+<subject>aquifer</subject>
+<subject>gage</subject>
+<subject>gauge</subject>
+<subject>Willamette</subject>
+<subject>Columbia</subject>
+<subject>Klamath</subject>
+<subject>Deschutes</subject>
+<subject>Day</subject>
+<subject>John</subject>
+<subject>Grande</subject>
+<subject>Ronde</subject>
+<subject>Snake</subject>
+<subject>Santiam</subject>
+<subject>McKenzie</subject>
+<subject>pesticide</subject>
+<subject>nutrient</subject>
+<subject>nitrogen</subject>
+<subject>phosphorus</subject>
+<subject>DDT</subject>
+<subject>sediment</subject>
+<subject>turbidity</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>or</source>
+<source>water</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

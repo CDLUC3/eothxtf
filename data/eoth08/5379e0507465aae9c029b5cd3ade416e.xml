@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Official NASA Swift Homepage</title>
+<identifier>http://eot.us.archive.org/eot08/20080916012804/swift.gsfc.nasa.gov/docs/swift/swiftsc.html</identifier>
+<provenance>http://swift.gsfc.nasa.gov/docs/swift/swiftsc.html</provenance>
+<date>2008-09-16</date>
+<date>2009-05-13</date>
+<description>The Swift Gamma-ray Burst Telescope</description>
+<subject>Swift</subject>
+<subject>gamma-ray</subject>
+<subject>gamma ray</subject>
+<subject>burst</subject>
+<subject>BAT</subject>
+<subject>UVOT</subject>
+<subject>XRT</subject>
+<subject>astronomy</subject>
+<subject>satellite</subject>
+<subject>observatory</subject>
+<subject>GRB</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>swift</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

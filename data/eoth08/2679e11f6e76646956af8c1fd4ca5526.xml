@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USDC - District of New Hampshire - General Information</title>
+<identifier>http://eot.us.archive.org/eot08/20090109025640/nhd.uscourts.gov/ci/default.asp</identifier>
+<provenance>http://www.nhd.uscourts.gov/ci/default.asp</provenance>
+<date>2009-01-09</date>
+<date>2009-05-12</date>
+<description></description>
+<type>web site</type>
+<format>text</format>
+<coverage>Judicial</coverage>
+<source>nhd</source>
+<source>uscourts</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

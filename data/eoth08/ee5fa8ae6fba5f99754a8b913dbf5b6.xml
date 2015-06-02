@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NOAA Home Page - NOAA Hurricanes Portal</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003725/hurricanes.noaa.gov/</identifier>
+<provenance>http://hurricanes.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description></description>
+<subject>coastal and marine ecosystems</subject>
+<subject>fisheries</subject>
+<subject>climate</subject>
+<subject>el nino</subject>
+<subject>data and forecasts for weather and water cycle  events</subject>
+<subject>including storms</subject>
+<subject>hurricanes</subject>
+<subject>tornadoes</subject>
+<subject>droughts</subject>
+<subject>floods</subject>
+<subject>commerce</subject>
+<subject>transportation</subject>
+<subject>research</subject>
+<subject>nautical charts</subject>
+<subject>air quality</subject>
+<subject>fire weather</subject>
+<subject>diving</subject>
+<subject>satellites</subject>
+<subject>coral reef</subject>
+<subject>whales</subject>
+<subject>turtles</subject>
+<subject>tsunamis</subject>
+<subject>volcanoes</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>hurricanes</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

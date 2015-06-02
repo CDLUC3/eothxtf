@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NCBI HomePage</title>
+<identifier>http://eot.us.archive.org/eot08/20080916072459/ncbi.nlm.nih.gov/</identifier>
+<provenance>http://www.ncbi.nlm.nih.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-25</date>
+<description>The National Center for Biotechnology Information (NCBI) provides an integrated approach to the use of gene and protein sequence information, the scientific literature (MEDLINE), molecular structures, and related resources, in biomedicine.</description>
+<subject>NCBI GenBank BLAST PubMed MEDLINE Bioinformatics</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>ncbi</source>
+<source>nlm</source>
+<source>nih</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

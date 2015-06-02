@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>U.S. Party/Case Index - PACER Service Center</title>
+<identifier>http://eot.us.archive.org/eot08/20080916004540/pacer.uspci.uscourts.gov/</identifier>
+<provenance>http://pacer.uspci.uscourts.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description></description>
+<type>web site</type>
+<format>text</format>
+<coverage>Judicial</coverage>
+<source>pacer</source>
+<source>uspci</source>
+<source>uscourts</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

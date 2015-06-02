@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS - Water Resources in Kansas</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003830/ks.water.usgs.gov/</identifier>
+<provenance>http://ks.water.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-26</date>
+<description>Water Resources in Kansas</description>
+<subject>Kansas</subject>
+<subject>USGS</subject>
+<subject>water resources</subject>
+<subject>hydrology</subject>
+<subject>surface          water</subject>
+<subject>streamflow</subject>
+<subject>real-time</subject>
+<subject>stream</subject>
+<subject>river</subject>
+<subject>lake</subject>
+<subject>flood</subject>
+<subject>drought</subject>
+<subject>water quality</subject>
+<subject>pollution</subject>
+<subject>ground water</subject>
+<subject>climate</subject>
+<subject>watershed</subject>
+<subject>environment</subject>
+<subject>geochemistry</subject>
+<subject>highlights</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>ks</source>
+<source>water</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

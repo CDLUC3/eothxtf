@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Welcome to the NIST WebBook</title>
+<identifier>http://eot.us.archive.org/eot08/20080916014142/webbook.nist.gov/</identifier>
+<provenance>http://webbook.nist.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>NIST site provides chemical and physical property data on over 40,000 compounds.</description>
+<subject>chemical data</subject>
+<subject>thermochemical data</subject>
+<subject>thermodynamic data</subject>
+<subject>enthalpy</subject>
+<subject>entropy</subject>
+<subject>heat capacity</subject>
+<subject>heat of formation</subject>
+<subject>chemical structure</subject>
+<subject>ionization potential</subject>
+<subject>thermochemistry</subject>
+<subject>boiling point</subject>
+<subject>vapor pressure</subject>
+<subject>IR spectrum</subject>
+<subject>mass spectrum</subject>
+<subject>UV/Vis spectrum</subject>
+<subject>retention index</subject>
+<subject>NIST</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>webbook</source>
+<source>nist</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

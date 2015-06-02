@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS Planetary GIS Web Server - PIGWAD</title>
+<identifier>http://eot.us.archive.org/eot08/20081105194341/webgis.wr.usgs.gov/</identifier>
+<provenance>http://webgis.wr.usgs.gov/</provenance>
+<date>2008-11-05</date>
+<date>2009-05-07</date>
+<description></description>
+<subject>Planetary</subject>
+<subject>GIS</subject>
+<subject>Mars</subject>
+<subject>Venus</subject>
+<subject>Moon</subject>
+<subject>Mapping</subject>
+<subject>On-line</subject>
+<subject>PDS</subject>
+<subject>ISIS</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>webgis</source>
+<source>wr</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

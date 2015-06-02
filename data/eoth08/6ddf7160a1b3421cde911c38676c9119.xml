@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NASA&apos;s Earth Observing System</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003708/eospso.gsfc.nasa.gov/</identifier>
+<provenance>http://eospso.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>The Earth Observing System (EOS) is a coordinated series of polar-orbiting and low inclination satellites for long-term global observations of the land surface, biosphere, solid Earth, atmosphere, and oceans. EOS is a major component of the Earth Science Division of NASA&apos;s Science Mission Directorate. EOS enables an improved understanding of the Earth as an integrated system. The EOS Project Science Office (EOSPSO) is committed to bringing program information and resources to program scientists and the general public alike.</description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>eospso</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

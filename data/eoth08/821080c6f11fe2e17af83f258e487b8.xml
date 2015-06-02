@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NASA Earth Observatory</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003652/earthobservatory.nasa.gov/</identifier>
+<provenance>http://earthobservatory.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-25</date>
+<description>Welcome to NASA&apos;s Earth Observatory, where you can monitor regional and global changes on our planet almost as they happen. Here you can explore with NASA scientists the causes and effects of climatic and environmental change through the use of real satellite data.</description>
+<subject>earth observatory</subject>
+<subject>earth science</subject>
+<subject>satellite data image</subject>
+<subject>science news</subject>
+<subject>science education</subject>
+<subject>environment</subject>
+<subject>global change</subject>
+<subject>earth observing system</subject>
+<subject>picture</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>earthobservatory</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

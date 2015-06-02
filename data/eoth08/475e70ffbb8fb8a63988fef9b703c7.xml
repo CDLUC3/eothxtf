@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>ORNL DAAC for Biogeochemical Dynamics</title>
+<identifier>http://eot.us.archive.org/eot08/20080920100138/daac.ornl.gov/</identifier>
+<provenance>http://daac.ornl.gov/</provenance>
+<date>2008-09-20</date>
+<date>2009-08-25</date>
+<description>The ORNL DAAC offers Earth science data for global change research and Earth systems studies.  Sponsored by NASA, the archive includes field data, remote-sensing data, imagery, and the results of ecosystems modeling. The ORNL DAAC archives regional and global data about climate , environmental processes, nutrient cycles, stream and river discharge, soil properties, canopy chemistry, net primary productivity, land use change, and vegetation. Such data are vital to understanding and predicting how Earth systems function. The data can be used to validate remotely sensed information, as well as to improve and validate the output of ecosystem models.</description>
+<subject>earth science data</subject>
+<subject>global change data</subject>
+<subject>earth systems</subject>
+<subject>ecosystems modeling</subject>
+<subject>environmental</subject>
+<subject>biosphere</subject>
+<subject>remote sensing</subject>
+<subject>satellite images</subject>
+<subject>climatology</subject>
+<subject>terrestrial ecology</subject>
+<subject>hydrology</subject>
+<subject>meteorology</subject>
+<subject>data center</subject>
+<subject>ornl daac</subject>
+<subject>nasa</subject>
+<subject>greenhouse gases</subject>
+<subject>net primary production</subject>
+<subject>nutrient cycles</subject>
+<subject>net primary productivity</subject>
+<subject>carbon dioxide</subject>
+<subject>co2</subject>
+<subject>carbon cycle</subject>
+<subject>trace gases</subject>
+<subject>air temperature</subject>
+<subject>precipitation</subject>
+<subject>heat fluxes</subject>
+<subject>energy exchange</subject>
+<subject>meteorological data</subject>
+<subject>respiration</subject>
+<subject>reflectance</subject>
+<subject>forests</subject>
+<subject>grasslands</subject>
+<subject>wetlands</subject>
+<subject>river discharge</subject>
+<subject>land use change</subject>
+<subject>methane</subject>
+<subject>ch4</subject>
+<subject>vegetation</subject>
+<subject>leaf area index</subject>
+<subject>lai</subject>
+<subject>solar radiation</subject>
+<subject>surface radiation</subject>
+<subject>wind direction</subject>
+<subject>snow cover</subject>
+<subject>soil moisture</subject>
+<subject>upper air</subject>
+<subject>atmospheric</subject>
+<subject>boundary layer</subject>
+<subject>wind speed</subject>
+<subject>tree height</subject>
+<subject>canopy chemistry</subject>
+<subject>leaf litter</subject>
+<subject>throughfall</subject>
+<subject>stream flow</subject>
+<subject>streamflow</subject>
+<subject>forest cover</subject>
+<subject>fire history</subject>
+<subject>gas flux</subject>
+<subject>surface flux</subject>
+<subject>stem growth</subject>
+<subject>soil emissions</subject>
+<subject>biomass</subject>
+<subject>field experiments</subject>
+<subject>Amazonia</subject>
+<subject>Brazil</subject>
+<subject>US</subject>
+<subject>Canada</subject>
+<subject>North American</subject>
+<subject>South American</subject>
+<subject>African</subject>
+<subject>European</subject>
+<subject>Asian</subject>
+<subject>CO2</subject>
+<subject>DOE</subject>
+<subject>EOS</subject>
+<subject>ORNL DAAC</subject>
+<subject>NASA</subject>
+<subject>NPP</subject>
+<subject>npp</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>daac</source>
+<source>ornl</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

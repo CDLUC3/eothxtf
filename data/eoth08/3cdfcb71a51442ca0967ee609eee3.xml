@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Interagency Contract Directory Portal</title>
+<identifier>http://eot.us.archive.org/eot08/20080920010243/contractdirectory.gov/contractdirectory/</identifier>
+<provenance>https://contractdirectory.gov/contractdirectory/</provenance>
+<date>2008-09-20</date>
+<date>2009-08-25</date>
+<description>Welcome to the Interagency Contract Directory Portal</description>
+<subject>Interagency Contract Directory</subject>
+<subject>Federal spending</subject>
+<subject>Search Federal Procurement Data</subject>
+<subject>Search Government</subject>
+<subject>Search Government Contracts</subject>
+<subject>FPDS</subject>
+<subject>Federal Procurement Data System</subject>
+<subject>Transparency in Government</subject>
+<subject>Contract Spending</subject>
+<subject>Government Contracts</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>contractdirectory</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

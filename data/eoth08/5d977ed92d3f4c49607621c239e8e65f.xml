@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS, Geologic Discipline, Central Region</title>
+<identifier>http://eot.us.archive.org/eot08/20081104204648/greenwood.cr.usgs.gov/</identifier>
+<provenance>http://greenwood.cr.usgs.gov/</provenance>
+<date>2008-11-04</date>
+<date>2009-05-06</date>
+<description>Geologic Information about the Central Region states: Arkansas, Colorado, Iowa, Kansas, Louisiana, Missouri, Montana, South Dakota, North Dakota, Wyoming, Minnesota, Nebraska, New Mexico, Oklahoma, and Texas</description>
+<subject>USGS</subject>
+<subject>Arkansas</subject>
+<subject>Colorado</subject>
+<subject>Iowa</subject>
+<subject>Kansas</subject>
+<subject>Louisiana</subject>
+<subject>Missouri</subject>
+<subject>Montana</subject>
+<subject>South Dakota</subject>
+<subject>North Dakota</subject>
+<subject>Wyoming</subject>
+<subject>Minnesota</subject>
+<subject>Nebraska</subject>
+<subject>New Mexico</subject>
+<subject>Oklahoma</subject>
+<subject>Texas</subject>
+<subject>geologic</subject>
+<subject>thematic</subject>
+<subject>rock</subject>
+<subject>geology</subject>
+<subject>maps</subject>
+<subject>water</subject>
+<subject>resources</subject>
+<subject>climate</subject>
+<subject>global</subject>
+<subject>earthquakes</subject>
+<subject>hazards</subject>
+<subject>landslides</subject>
+<subject>energy</subject>
+<subject>coal</subject>
+<subject>oil</subject>
+<subject>gas</subject>
+<subject>minerals</subject>
+<subject>core</subject>
+<subject>volcanoes</subject>
+<subject>reactor</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>greenwood</source>
+<source>cr</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

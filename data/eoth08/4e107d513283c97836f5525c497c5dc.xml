@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Operational Significant Event Imagery</title>
+<identifier>http://eot.us.archive.org/eot08/20080916061438/osei.noaa.gov/</identifier>
+<provenance>http://www.osei.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-06</date>
+<description></description>
+<subject>NOAA</subject>
+<subject>hurricane</subject>
+<subject>imagery</subject>
+<subject>volcano</subject>
+<subject>fire</subject>
+<subject>dust</subject>
+<subject>flood</subject>
+<subject>iceberg</subject>
+<subject>ice</subject>
+<subject>snow</subject>
+<subject>tropical</subject>
+<subject>storm</subject>
+<subject>typhoon</subject>
+<subject>ocean</subject>
+<subject>severe</subject>
+<subject>weather</subject>
+<subject>OSEI</subject>
+<subject>satellite</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>osei</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

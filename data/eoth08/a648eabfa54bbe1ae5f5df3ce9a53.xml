@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS Toxic Substances Hydrology Program</title>
+<identifier>http://eot.us.archive.org/eot08/20080916011240/toxics.usgs.gov/</identifier>
+<provenance>http://toxics.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>The Toxic Substances Hydrology Program provides science information needed to improve characterization and management of contaminated sites, to protect human and environmental health, and to reduce potential future contamination problems.</description>
+<subject>toxic substances</subject>
+<subject>pollution</subject>
+<subject>substances</subject>
+<subject>contamination</subject>
+<subject>environment</subject>
+<subject>toxic</subject>
+<subject>fact sheets</subject>
+<subject>chemicals</subject>
+<subject>natural attenuation</subject>
+<subject>models and applications</subject>
+<subject>environmental measurements</subject>
+<subject>scientific information</subject>
+<subject>contaminated sites</subject>
+<subject>contaminated</subject>
+<subject>contamination</subject>
+<subject>abandoned mine lands</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>toxics</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

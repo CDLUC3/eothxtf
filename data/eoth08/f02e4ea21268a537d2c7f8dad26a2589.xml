@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS GEO-DATA Explorer</title>
+<identifier>http://eot.us.archive.org/eot08/20081104204701/dss1.er.usgs.gov/</identifier>
+<provenance>http://dss1.er.usgs.gov/</provenance>
+<date>2008-11-04</date>
+<date>2009-05-06</date>
+<description>Geode continues to display all types of geologic data including data sets from each of the Geologic Discipline&apos;s programs including Coastal and Marine Geology, Earth Surface Dynamics, Earthquake Hazards, Integrated Natural Resource Sciences, Mineral Resources, National Cooperative Geologic Mapping, Volcano Hazards.</description>
+<subject>GEO-DATA Explorer</subject>
+<subject>GEODE</subject>
+<subject>geo-spatial</subject>
+<subject>databases</subject>
+<subject>data</subject>
+<subject>USGS</subject>
+<subject>download</subject>
+<subject>government agencies</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>dss1</source>
+<source>er</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

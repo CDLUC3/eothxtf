@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>US CMS</title>
+<identifier>http://eot.us.archive.org/eot08/20080916011509/uscms.fnal.gov/</identifier>
+<provenance>http://uscms.fnal.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description></description>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>uscms</source>
+<source>fnal</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

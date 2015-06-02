@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>National Cooperative Geologic Mapping Program</title>
+<identifier>http://eot.us.archive.org/eot08/20080916004157/ncgmp.usgs.gov/</identifier>
+<provenance>http://ncgmp.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>Homepage linking to National Cooperative Geologic Mapping Program (NCGMP) components: FEDMAP for federal mapping projects, STATEMAP for state geological survey projects, and EDMAP for geologic mapping education projects.</description>
+<subject>USGS contracts and grants</subject>
+<subject>USGS partnerships</subject>
+<subject>USGS science programs</subject>
+<subject>cartography</subject>
+<subject>geologic history</subject>
+<subject>geologic structure</subject>
+<subject>geology</subject>
+<subject>maps and atlases</subject>
+<subject>surficial geologic units</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>ncgmp</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS EarthExplorer: Satellite Images, Aerial Photographs and Maps</title>
+<identifier>http://eot.us.archive.org/eot08/20080916081620/edcsns17.cr.usgs.gov/earthexplorer/</identifier>
+<provenance>http://edcsns17.cr.usgs.gov/EarthExplorer/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>Query and order satellite images, aerial photographs, and cartographic products through the U.S. Geological Survey</description>
+<subject>U.S. Geological Survey</subject>
+<subject>USGS</subject>
+<subject>National Mapping Division</subject>
+<subject>NMD</subject>
+<subject>USA</subject>
+<subject>United States</subject>
+<subject>Territories</subject>
+<subject>Antarctica</subject>
+<subject>cartographic</subject>
+<subject>cartography</subject>
+<subject>geographic</subject>
+<subject>geography</subject>
+<subject>geospatial data</subject>
+<subject>geographic information system</subject>
+<subject>GIS</subject>
+<subject>mapping</subject>
+<subject>maps</subject>
+<subject>aerial photographs</subject>
+<subject>satellite imagery</subject>
+<subject>digital elevation model</subject>
+<subject>digital raster graphic</subject>
+<subject>digital orthophoto</subject>
+<subject>topographic</subject>
+<subject>topography</subject>
+<subject>geographic names</subject>
+<subject>earthscience</subject>
+<subject>data</subject>
+<subject>geospatial metadata</subject>
+<subject>geospatial data standards</subject>
+<subject>landsat</subject>
+<subject>GNIS</subject>
+<subject>NAPP</subject>
+<subject>DEM</subject>
+<subject>DRG</subject>
+<subject>DOQ</subject>
+<subject>NSDI</subject>
+<subject>Earth Explorer</subject>
+<subject>EarthExplorer</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>edcsns17</source>
+<source>cr</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

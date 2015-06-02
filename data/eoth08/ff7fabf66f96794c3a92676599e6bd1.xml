@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>IGS -- International GNSS Service, formerly the International GPS Service</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003725/igscb.jpl.nasa.gov/</identifier>
+<provenance>http://igscb.jpl.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>The International GNSS Service (IGS), formerly the International GPS Service, is a  federation of over 200 worldwide agencies collaborating to form a global network of over 300 permanent, continuous GPS and GLONASS tracking sites, and to analyze this data set to form precise products, and to make the data and products available.</description>
+<subject>GPS</subject>
+<subject>GNSS</subject>
+<subject>GLONASS</subject>
+<subject>Galileo</subject>
+<subject>Network</subject>
+<subject>Geodesy</subject>
+<subject>Earth Science</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>igscb</source>
+<source>jpl</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

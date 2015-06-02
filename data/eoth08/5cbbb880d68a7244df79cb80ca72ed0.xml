@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NASA Goddard IEEE Workshop on Formal Approaches to Agent-Based Systems</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003721/fmw.gsfc.nasa.gov/</identifier>
+<provenance>http://fmw.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>The NASA Goddard Space Flight Center in Greenbelt, Maryland, sponsors a workshop on the theory and practice of formal methods applied to agent-based systems.</description>
+<subject>formal methods</subject>
+<subject>agent</subject>
+<subject>agents</subject>
+<subject>software engineering</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>fmw</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

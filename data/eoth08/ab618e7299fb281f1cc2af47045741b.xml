@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>U.S. Geological Survey Massachusetts-Rhode Island Water Science Center - Information</title>
+<identifier>http://eot.us.archive.org/eot08/20080916004150/ma.water.usgs.gov/</identifier>
+<provenance>http://ma.water.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>Massachusetts (MA) and Rhode Island (RI) Water Resources</description>
+<subject>MA</subject>
+<subject>RI</subject>
+<subject>Massachusetts</subject>
+<subject>Rhode Island</subject>
+<subject>New England</subject>
+<subject>hydrology</subject>
+<subject>hydrologic monitoring</subject>
+<subject>water</subject>
+<subject>streamflow</subject>
+<subject>stream</subject>
+<subject>river</subject>
+<subject>lake</subject>
+<subject>drainage</subject>
+<subject>basin</subject>
+<subject>water data</subject>
+<subject>real-time</subject>
+<subject>stream gages</subject>
+<subject>watershed</subject>
+<subject>environment</subject>
+<subject>surface water</subject>
+<subject>water quality</subject>
+<subject>runoff</subject>
+<subject>sediment</subject>
+<subject>stormwater</subject>
+<subject>wastewater</subject>
+<subject>map</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>ma</source>
+<source>water</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

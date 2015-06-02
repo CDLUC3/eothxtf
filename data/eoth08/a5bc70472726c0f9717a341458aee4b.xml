@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USITC Interactive Tariff and Trade Database</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003641/dataweb.usitc.gov/</identifier>
+<provenance>http://dataweb.usitc.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-26</date>
+<description></description>
+<subject>Antidumping</subject>
+<subject>Antidumping duty</subject>
+<subject>Byrd Amendment</subject>
+<subject>Countervailing duty</subject>
+<subject>Dumped</subject>
+<subject>Dumping</subject>
+<subject>Imports</subject>
+<subject>Subsidies</subject>
+<subject>Subsidized</subject>
+<subject>Subsidizing</subject>
+<subject>Subsidy</subject>
+<subject>Sunset</subject>
+<subject>Tariff Act of 1930</subject>
+<subject>Title VII</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>dataweb</source>
+<source>usitc</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

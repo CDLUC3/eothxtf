@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NRIS Search by location</title>
+<identifier>http://eot.us.archive.org/eot08/20090109013320/nr.nps.gov/</identifier>
+<provenance>http://www.nr.nps.gov/</provenance>
+<date>2009-01-09</date>
+<date>2009-08-25</date>
+<description></description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>nr</source>
+<source>nps</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

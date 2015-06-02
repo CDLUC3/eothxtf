@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Search Home</title>
+<identifier>http://eot.us.archive.org/eot08/20080920052242/search.nist.gov/search?site=default_collection&amp;client=default_frontend&amp;output=xml_no_dtd&amp;proxystylesheet=default_frontend&amp;proxycustom=%3Chome/%3E</identifier>
+<provenance>http://search.nist.gov/search?site=default_collection&amp;client=default_frontend&amp;output=xml_no_dtd&amp;proxystylesheet=default_frontend&amp;proxycustom=%3CHOME/%3E</provenance>
+<date>2008-09-20</date>
+<date>2008-09-20</date>
+<description></description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>search</source>
+<source>nist</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NASA Goddard Scientific Visualization Studio</title>
+<identifier>http://eot.us.archive.org/eot08/20080916011240/svs.gsfc.nasa.gov/</identifier>
+<provenance>http://svs.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>NASA GSFC Scientific Visualization Server</description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>svs</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>U.S. District Court - Northern District of New York</title>
+<identifier>http://eot.us.archive.org/eot08/20090109013328/nynd.uscourts.gov/</identifier>
+<provenance>http://www.nynd.uscourts.gov/</provenance>
+<date>2009-01-09</date>
+<date>2009-08-25</date>
+<description>Federal District Court website for the Northern District of New York</description>
+<subject>Northern District</subject>
+<subject>New York</subject>
+<subject>District Court</subject>
+<subject>Federal</subject>
+<subject>NY</subject>
+<subject>Syracuse</subject>
+<subject>Albany</subject>
+<subject>Utica</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Judicial</coverage>
+<source>nynd</source>
+<source>uscourts</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

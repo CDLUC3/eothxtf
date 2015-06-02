@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>RITA | National Transportation Library</title>
+<identifier>http://eot.us.archive.org/eot08/20080916004157/ntl.bts.gov/</identifier>
+<provenance>http://ntl.bts.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>homepage for the National Transporation Library</description>
+<subject>National Transportation Library</subject>
+<subject>NTL</subject>
+<subject>TRISOnline</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>ntl</source>
+<source>bts</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

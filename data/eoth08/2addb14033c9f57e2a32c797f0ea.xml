@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Office of Satellite Operation Website</title>
+<identifier>http://eot.us.archive.org/eot08/20080916061541/oso.noaa.gov/</identifier>
+<provenance>http://www.oso.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-06</date>
+<description></description>
+<subject>Satellites</subject>
+<subject>NOAA</subject>
+<subject>OSO</subject>
+<subject>GOES</subject>
+<subject>POES</subject>
+<subject>DMSP</subject>
+<subject>GOES Status</subject>
+<subject>Imagery</subject>
+<subject>Spacecraft</subject>
+<subject>Geostationary Spacecraft</subject>
+<subject>Polar-orbiting</subject>
+<subject>National Environmental Satellite</subject>
+<subject>National Oceanic and Atmospheric Administration</subject>
+<subject>Environmental Satellites</subject>
+<subject>Imager</subject>
+<subject>Sounder</subject>
+<subject>Schedules and Sectors</subject>
+<subject>GOES Calibration</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>oso</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

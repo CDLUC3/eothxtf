@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>American FactFinder</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003714/factfinder.census.gov/home/saff/main.html?_lang=en</identifier>
+<provenance>http://factfinder.census.gov/home/saff/main.html?_lang=en</provenance>
+<date>2008-09-16</date>
+<date>2009-10-23</date>
+<description>American FactFinder is your source for population, housing, economic and geographic data from Census 2000, the 1990 Decennial Census, the 1997 and 2002 Economic Censuses, the American Community Survey, and the Population Estimates Program</description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>factfinder</source>
+<source>census</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

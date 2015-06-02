@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Storm Prediction Center</title>
+<identifier>http://eot.us.archive.org/eot08/20080916070443/spc.noaa.gov/</identifier>
+<provenance>http://www.spc.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-09</date>
+<description>Severe weather information from the Storm Prediction Center.</description>
+<subject>severe weather</subject>
+<subject>watches</subject>
+<subject>warnings</subject>
+<subject>meteorology</subject>
+<subject>outlooks</subject>
+<subject>storm reports</subject>
+<subject>SPC</subject>
+<subject>Storm Prediction Center</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>spc</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

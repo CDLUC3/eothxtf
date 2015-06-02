@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NAIS Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080920045454/prod.nais.nasa.gov/cgi-bin/nais/index.cgi</identifier>
+<provenance>http://prod.nais.nasa.gov/cgi-bin/nais/index.cgi</provenance>
+<date>2008-09-20</date>
+<date>2009-05-13</date>
+<description></description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>prod</source>
+<source>nais</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

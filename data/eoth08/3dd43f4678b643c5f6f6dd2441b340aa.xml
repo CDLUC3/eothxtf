@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>ICESAT Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003725/icesat.gsfc.nasa.gov/</identifier>
+<provenance>http://icesat.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>ICESat (Ice, Cloud,and land Elevation Satellite) is the benchmark Earth Observing System mission for measuring ice sheet mass balance, cloud and aerosol heights, as well as land topography and vegetation characteristics. The ICESat mission will provide multi-year elevation data needed to determine ice sheet mass balance as well as cloud property information, especially for stratospheric clouds common over polar areas. It will also provide topography and vegetation data around the globe, in addition to the polar-specific coverage over the Greenland and Antarctic ice sheets.</description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>icesat</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

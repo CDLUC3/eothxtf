@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NCDC: * National Climatic Data Center (NCDC) *</title>
+<identifier>http://eot.us.archive.org/eot08/20080916053006/ncdc.noaa.gov/oa/ncdc.html</identifier>
+<provenance>http://www.ncdc.noaa.gov/oa/ncdc.html</provenance>
+<date>2008-09-16</date>
+<date>2009-08-25</date>
+<description>The National Climatic Data Center (NCDC) is the world&apos;s largest active archive of weather data. NCDC produces numerous climate publications and responds to data requests from all over the world.</description>
+<subject>climate data climatological data weather data temperature precipitation drought wind dewpoint satellite hurricane storm snow climate center climate research NCDC National Climatic Data Center</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>ncdc</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

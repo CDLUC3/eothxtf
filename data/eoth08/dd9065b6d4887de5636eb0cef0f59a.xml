@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>HEASARC: XMM-Newton Guest Observer Facility</title>
+<identifier>http://eot.us.archive.org/eot08/20080916010159/heasarc.gsfc.nasa.gov/docs/xmm/xmmgof.html</identifier>
+<provenance>http://heasarc.gsfc.nasa.gov/docs/xmm/xmmgof.html</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>XMM-Newton Guest Observer Facility (GOF). The GOF provides a clearing house for project-generated technical information and analysis software as well as user and proposal support on the U.S. side of the Atlantic.</description>
+<subject>XMM</subject>
+<subject>XMM GOF</subject>
+<subject>XMM-Newton</subject>
+<subject>XMM-Newton GOF</subject>
+<subject>science</subject>
+<subject>x-ray</subject>
+<subject>astronomy</subject>
+<subject>ESA</subject>
+<subject>UK</subject>
+<subject>observatory</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>heasarc</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

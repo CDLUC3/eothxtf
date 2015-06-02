@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Los Alamos: T-10</title>
+<identifier>http://eot.us.archive.org/eot08/20080916072138/t10.lanl.gov/</identifier>
+<provenance>http://www.t10.lanl.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-06</date>
+<description>Los Alamos National Laboratory is a DOE national laboratory that applies science and technology to solve problems in national security and defense.</description>
+<subject>DOE</subject>
+<subject>laboratory</subject>
+<subject>national security</subject>
+<subject>nuclear weapons</subject>
+<subject>stockpile</subject>
+<subject>defense</subject>
+<subject>science</subject>
+<subject>technology</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>t10</source>
+<source>lanl</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

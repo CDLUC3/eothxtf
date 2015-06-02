@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Lake Tahoe Data Clearinghouse</title>
+<identifier>http://eot.us.archive.org/eot08/20080916011245/tahoe.usgs.gov/</identifier>
+<provenance>http://tahoe.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>Lake Tahoe Data Clearinghouse for geographic data.</description>
+<subject>Lake Tahoe</subject>
+<subject>Tahoe</subject>
+<subject>geographic data</subject>
+<subject>GIS</subject>
+<subject>gis</subject>
+<subject>US Geological Survey</subject>
+<subject>USGS</subject>
+<subject>Department of Interior</subject>
+<subject>mapping</subject>
+<subject>maps</subject>
+<subject>cartography</subject>
+<subject>cartographic</subject>
+<subject>topography</subject>
+<subject>topographic</subject>
+<subject>Digital Line Graph</subject>
+<subject>DLG</subject>
+<subject>Digital Elevation Model</subject>
+<subject>DEM</subject>
+<subject>Digital Orthophoto Quadrangle</subject>
+<subject>DOQ</subject>
+<subject>Digital Raster Graphic</subject>
+<subject>DRG</subject>
+<subject>ecology</subject>
+<subject>biology</subject>
+<subject>bathymetry</subject>
+<subject>geography</subject>
+<subject>geographic</subject>
+<subject>geology</subject>
+<subject>geologic</subject>
+<subject>earth science</subject>
+<subject>geospatial data</subject>
+<subject>pictures</subject>
+<subject>scenic photos</subject>
+<subject>photographs</subject>
+<subject>dem viewer</subject>
+<subject>dem3d</subject>
+<subject>dlgv32</subject>
+<subject>film strip.</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>tahoe</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

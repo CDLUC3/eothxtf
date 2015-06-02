@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>MISR Home</title>
+<identifier>http://eot.us.archive.org/eot08/20080916020755/www-misr.jpl.nasa.gov/</identifier>
+<provenance>http://www-misr.jpl.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-11</date>
+<description>MISR -- the Multiangle Imaging SpectroRadiometer -- is an instrument that will image Earth&apos;s climate system simultaneously at 9 different angles.  MISR was built for NASA by the Jet Propulsion Laboratory in Pasadena, California. It is part of NASA&apos;s Terra spacecraft.</description>
+<subject>MISR</subject>
+<subject>Multi-Angle Imaging Spetrometer</subject>
+<subject>Earth</subject>
+<subject>Atmosphere</subject>
+<subject>statellite</subject>
+<subject>NASA</subject>
+<subject>Jet Propulsion Laboratory</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>www-misr</source>
+<source>jpl</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

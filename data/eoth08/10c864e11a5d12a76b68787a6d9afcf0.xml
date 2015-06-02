@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>RUC - NOAA/ESRL/GSD</title>
+<identifier>http://eot.us.archive.org/eot08/20080916004155/maps.fsl.noaa.gov/</identifier>
+<provenance>http://maps.fsl.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>The Rapid Update Cycle (RUC)   is a high-frequency weather forecast (numerical weather prediction)   and data assimilation system.   This page has real-time products from   different versions of the RUC and a wealth of information on it.</description>
+<subject>RUC</subject>
+<subject>MAPS</subject>
+<subject>aviation</subject>
+<subject>weather</subject>
+<subject>data asssimilation</subject>
+<subject>ceiling</subject>
+<subject>visibility</subject>
+<subject>Rapid Refresh</subject>
+<subject>severe weather</subject>
+<subject>numerical weather prediction</subject>
+<subject>NWP</subject>
+<subject>computer model</subject>
+<subject>MDCRS</subject>
+<subject>ACARS</subject>
+<subject>radiosonde</subject>
+<subject>rawinsonde</subject>
+<subject>isentropic</subject>
+<subject>precipitation</subject>
+<subject>snow</subject>
+<subject>Rapid Refresh</subject>
+<subject>TAMDAR</subject>
+<subject>thunderstorm</subject>
+<subject>wind</subject>
+<subject>temperature</subject>
+<subject>cloud</subject>
+<subject>sounding</subject>
+<subject>microphysics</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>maps</source>
+<source>fsl</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>The WGA Catalogue of ROSAT Point Sources</title>
+<identifier>http://eot.us.archive.org/eot08/20080916014154/wgacat.gsfc.nasa.gov/wgacat/wgacat.html</identifier>
+<provenance>http://wgacat.gsfc.nasa.gov/wgacat/wgacat.html</provenance>
+<date>2008-09-16</date>
+<date>2009-05-12</date>
+<description>The WGA Catalogue of ROSAT Point Sources</description>
+<subject>X-RAY ASTRONOMY ASTROPHYSICS HEASARC CATALOG CATALOGUE ROSAT SOURCES WGA WGACAT</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>wgacat</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

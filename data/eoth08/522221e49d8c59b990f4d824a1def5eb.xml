@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Receiving Inspection and Test System</title>
+<identifier>http://eot.us.archive.org/eot08/20080920045522/gprs.gsfc.nasa.gov/rits/frontmenu_dsp.cfm?dttm=20080915205359&amp;requesttimeout=5000</identifier>
+<provenance>https://gprs.gsfc.nasa.gov/rits/frontmenu_dsp.cfm?DTTM=20080915205359&amp;RequestTimeout=5000</provenance>
+<date>2008-09-20</date>
+<date>2008-09-20</date>
+<description>Receiving Inspection and Test System</description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>gprs</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

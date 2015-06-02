@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>International Laser Ranging Service Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003726/ilrs.gsfc.nasa.gov/</identifier>
+<provenance>http://ilrs.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>The International Laser Ranging Service (ILRS) Home Page</description>
+<subject>International Laser Ranging Service</subject>
+<subject>ILRS</subject>
+<subject>satellite laser ranging</subject>
+<subject>SLR</subject>
+<subject>LLR</subject>
+<subject>precision orbit determination</subject>
+<subject>POD</subject>
+<subject>retro-reflectors</subject>
+<subject>retro reflectors</subject>
+<subject>lunar laser ranging Terrestrial Reference Frame</subject>
+<subject>ITRF</subject>
+<subject>ITRF2000</subject>
+<subject>gravity field</subject>
+<subject>gravity model</subject>
+<subject>space geodetic technique</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>ilrs</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

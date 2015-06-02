@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS Water Resources of Michigan - Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916004154/mi.water.usgs.gov/</identifier>
+<provenance>http://mi.water.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>U.S. Geological Survey, Water Resources Division, Michigan</description>
+<subject>Michigan</subject>
+<subject>Water</subject>
+<subject>Great Lakes</subject>
+<subject>USGS</subject>
+<subject>Data</subject>
+<subject>Realtime</subject>
+<subject>Water Resources</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>mi</source>
+<source>water</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

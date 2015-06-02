@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NASA - Ames Exploration Technology Directorate - Home</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003727/infotech.arc.nasa.gov/</identifier>
+<provenance>http://infotech.arc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>NASA Ames Exploration Technology Directorate Website</description>
+<subject>NASA</subject>
+<subject>Ames</subject>
+<subject>Exploration</subject>
+<subject>Technology</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>infotech</source>
+<source>arc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

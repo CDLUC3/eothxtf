@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>www.health.gov</title>
+<identifier>http://eot.us.archive.org/eot08/20080916014016/web.health.gov/</identifier>
+<provenance>http://web.health.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>This site is a key portal to health information from the U.S. government.</description>
+<subject>health</subject>
+<subject>government</subject>
+<subject>healthfinder</subject>
+<subject>Healthy People</subject>
+<subject>Public Health</subject>
+<subject>dietary guidelines</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>web</source>
+<source>health</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

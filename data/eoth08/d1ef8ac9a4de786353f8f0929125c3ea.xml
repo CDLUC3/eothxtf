@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>HIV Databases</title>
+<identifier>http://eot.us.archive.org/eot08/20080916083608/hiv.lanl.gov/content/index</identifier>
+<provenance>http://www.hiv.lanl.gov/content/index</provenance>
+<date>2008-09-16</date>
+<date>2009-08-22</date>
+<description>The HIV Databases cover HIV sequences, HIV molecular immunology, HIV drug resistance mutations and nonhuman primate HIV/SIV vaccine trials. Each of these topics are available through a dedicated database, extensively annotated and with many specialized search and analysis tools. The HIV databases are supported by the NIH and DOE and maintained at the Los Alamos National Laboratory.</description>
+<subject>cite</subject>
+<subject>reference</subject>
+<subject>DMID</subject>
+<subject>HIV</subject>
+<subject>SIV</subject>
+<subject>CTL</subject>
+<subject>CD4</subject>
+<subject>CD8</subject>
+<subject>epitope</subject>
+<subject>antibody</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>hiv</source>
+<source>lanl</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

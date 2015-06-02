@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS Publications Warehouse</title>
+<identifier>http://eot.us.archive.org/eot08/20080920050201/infotrek.er.usgs.gov/pubs/</identifier>
+<provenance>http://infotrek.er.usgs.gov/pubs/</provenance>
+<date>2008-09-20</date>
+<date>2009-08-12</date>
+<description>USGS Publications Warehouse is a digital data warehouse containing citations and electronic versions of the entire report if available of USGS published reports and thematic maps.</description>
+<subject>USGS</subject>
+<subject>reports</subject>
+<subject>thematic maps</subject>
+<subject>water</subject>
+<subject>geology</subject>
+<subject>mapping</subject>
+<subject>biology</subject>
+<subject>publication</subject>
+<subject>document</subject>
+<subject>electronic version</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>infotrek</source>
+<source>er</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

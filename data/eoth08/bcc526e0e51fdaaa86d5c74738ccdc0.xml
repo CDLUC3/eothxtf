@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government</title>
+<identifier>http://eot.us.archive.org/eot08/20080916032154/eia.doe.gov/</identifier>
+<provenance>http://www.eia.doe.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-25</date>
+<description>Energy Information Administration - EIA - Official Energy Statistics from the U.S. Government</description>
+<subject>energy</subject>
+<subject>statistics</subject>
+<subject>oil</subject>
+<subject>natural gas</subject>
+<subject>coal</subject>
+<subject>nuclear</subject>
+<subject>renewable</subject>
+<subject>solar</subject>
+<subject>geothermal</subject>
+<subject>petroleum</subject>
+<subject>gasoline</subject>
+<subject>diesel</subject>
+<subject>crude oil</subject>
+<subject>fuel oil</subject>
+<subject>heating oil</subject>
+<subject>fuel</subject>
+<subject>electric</subject>
+<subject>propane</subject>
+<subject>hydroelectricity</subject>
+<subject>refining</subject>
+<subject>refineries</subject>
+<subject>pipeline</subject>
+<subject>power</subject>
+<subject>electricity</subject>
+<subject>residential</subject>
+<subject>commercial</subject>
+<subject>industrial</subject>
+<subject>transportation</subject>
+<subject>data</subject>
+<subject>analysis</subject>
+<subject>supply</subject>
+<subject>demand</subject>
+<subject>production</subject>
+<subject>consumption</subject>
+<subject>forecasting</subject>
+<subject>prices</subject>
+<subject>greenhouse gases</subject>
+<subject>alternative transportation fuels</subject>
+<subject>reserves</subject>
+<subject>drilling</subject>
+<subject>imports</subject>
+<subject>exports</subject>
+<subject>underground storage</subject>
+<subject>transmission</subject>
+<subject>distribution</subject>
+<subject>liquefied natural gas</subject>
+<subject>synthetic natural gas</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>eia</source>
+<source>doe</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

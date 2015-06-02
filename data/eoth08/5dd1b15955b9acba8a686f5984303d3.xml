@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NWS Internet Weather Source</title>
+<identifier>http://eot.us.archive.org/eot08/20080916014019/weather.noaa.gov/</identifier>
+<provenance>http://weather.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>Government Internet Service Home page. The starting point for official governemnt weather forecasts, warning, and meteorological products for forecasting the weather.</description>
+<subject>Weather</subject>
+<subject>Weather Warnings</subject>
+<subject>Radar Graphics</subject>
+<subject>Weather Forecasts</subject>
+<subject>Model Products</subject>
+<subject>Meteorological data</subject>
+<subject>Facsimile Charts</subject>
+<subject>Observations</subject>
+<subject>Text Forecast Products</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>weather</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

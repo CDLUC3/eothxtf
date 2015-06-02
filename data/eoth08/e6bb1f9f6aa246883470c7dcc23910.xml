@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NASA MSFC Earth Science Office</title>
+<identifier>http://eot.us.archive.org/eot08/20080916014015/weather.msfc.nasa.gov/</identifier>
+<provenance>http://weather.msfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>The NASA MSFC Earth Science Office Homepage</description>
+<subject>forecasts</subject>
+<subject>forecaster</subject>
+<subject>model</subject>
+<subject>observations</subject>
+<subject>weather</subject>
+<subject>research</subject>
+<subject>prediction</subject>
+<subject>remote sensing</subject>
+<subject>lightning</subject>
+<subject>rain</subject>
+<subject>snow</subject>
+<subject>short-term</subject>
+<subject>small-scale</subject>
+<subject>regional</subject>
+<subject>QPE</subject>
+<subject>convective</subject>
+<subject>radars</subject>
+<subject>temperature</subject>
+<subject>precipitation</subject>
+<subject>NASA</subject>
+<subject>NWS</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>weather</source>
+<source>msfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

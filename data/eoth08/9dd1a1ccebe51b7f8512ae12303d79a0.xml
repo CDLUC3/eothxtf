@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NCI/CADD Group Chemoinformatics Tools and User Services</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003633/cactus.nci.nih.gov/</identifier>
+<provenance>http://cactus.nci.nih.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>ncidb2,NCI database,gifcreator,vrmlcreator,SMILES translator,SDF toolkit,PROSIT,Pseudorotation Tool,SOM QSAR Map,Cancer Screening 3DMiner,Chemical Structure Lookup Service, CSLS, NCICADD Structure Identifiers</description>
+<subject>CACTVS</subject>
+<subject>chemical</subject>
+<subject>structures</subject>
+<subject>SMILES</subject>
+<subject>USMILES</subject>
+<subject>NCI/CADD Structure Identifier</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>cactus</source>
+<source>nci</source>
+<source>nih</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

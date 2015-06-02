@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NIH Library</title>
+<identifier>http://eot.us.archive.org/eot08/20080916005019/nihlibrary.nih.gov/</identifier>
+<provenance>http://nihlibrary.nih.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description></description>
+<subject>book</subject>
+<subject>books</subject>
+<subject>databases</subject>
+<subject>journal</subject>
+<subject>journals</subject>
+<subject>library</subject>
+<subject>libraries</subject>
+<subject>resource</subject>
+<subject>resources</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>nihlibrary</source>
+<source>nih</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

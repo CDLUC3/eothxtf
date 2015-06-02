@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>National Center for Education Statistics (NCES) Home Page, a part of the U.S. Department of Education</title>
+<identifier>http://eot.us.archive.org/eot08/20080916000245/nces.ed.gov/</identifier>
+<provenance>http://www.nces.ed.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-25</date>
+<description>The National Center for Education Statistics (NCES) collects, analyzes and makes available data related to education in the U.S. and other nations.</description>
+<subject>Education</subject>
+<subject>statistics</subject>
+<subject>data access tools</subject>
+<subject>surveys</subject>
+<subject>education information and indicators</subject>
+<subject>elementary and secondary education</subject>
+<subject>postsecondary education</subject>
+<subject>libraries</subject>
+<subject>school and college locators</subject>
+<subject>assessments</subject>
+<subject>education finance</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>nces</source>
+<source>ed</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>SAMHSA Access to Recovery (ATR)</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003628/atr.samhsa.gov/</identifier>
+<provenance>http://atr.samhsa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-25</date>
+<description>SAMHSA Access to Recovery Web</description>
+<subject>samhsa</subject>
+<subject>access</subject>
+<subject>recovery</subject>
+<subject>atr</subject>
+<subject>treatment</subject>
+<subject>mental health</subject>
+<subject>rfa</subject>
+<subject>grant</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>atr</source>
+<source>samhsa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

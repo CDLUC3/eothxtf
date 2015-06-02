@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>SDAC Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916011246/umbra.nascom.nasa.gov/</identifier>
+<provenance>http://umbra.nascom.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>Solar images, solar news, eclipse information, solar data, Sun pictures, NASA solar physics programs</description>
+<subject>Sun</subject>
+<subject>NASA</subject>
+<subject>eclipse</subject>
+<subject>SOHO</subject>
+<subject>STEREO</subject>
+<subject>Hinode</subject>
+<subject>EIT</subject>
+<subject>XRT</subject>
+<subject>spectrum</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>umbra</source>
+<source>nascom</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

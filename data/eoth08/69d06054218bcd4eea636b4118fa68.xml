@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NASA Goddard Space Flight Center</title>
+<identifier>http://eot.us.archive.org/eot08/20080916041111/gsfc.nasa.gov/</identifier>
+<provenance>http://www.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-22</date>
+<description>NASA Goddard Space Flight Center, located in a Maryland suburb outside of Washington, DC, is home to the Nation&apos;s largest organization of combined scientists and engineers dedicated to learning and sharing their knowledge of the Earth, solar system, and Universe.</description>
+<subject>NASA</subject>
+<subject>Earth Science</subject>
+<subject>Space Science</subject>
+<subject>Technology</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

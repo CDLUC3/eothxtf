@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Astromaterials Curation at NASA JSC</title>
+<identifier>http://eot.us.archive.org/eot08/20080922222402/www-curator.jsc.nasa.gov/</identifier>
+<provenance>http://www-curator.jsc.nasa.gov/</provenance>
+<date>2008-09-22</date>
+<date>2009-10-23</date>
+<description></description>
+<subject>astromaterials</subject>
+<subject>curation</subject>
+<subject>JSC</subject>
+<subject>NASA</subject>
+<subject>curator</subject>
+<subject>moon rocks</subject>
+<subject>moon</subject>
+<subject>Antarctica</subject>
+<subject>meteorites</subject>
+<subject>Antarctic meteorites</subject>
+<subject>stratospheric dust</subject>
+<subject>cosmic dust</subject>
+<subject>space-exposed hardware</subject>
+<subject>LDEF</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>www-curator</source>
+<source>jsc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NASA SEWP</title>
+<identifier>http://eot.us.archive.org/eot08/20080916070055/sewp.nasa.gov/</identifier>
+<provenance>http://www.sewp.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2008-09-16</date>
+<description>The official NASA SEWP WWW resource.</description>
+<subject>procurement</subject>
+<subject>sewp</subject>
+<subject>hardware</subject>
+<subject>computers</subject>
+<subject>purchase</subject>
+<subject>order</subject>
+<subject>software</subject>
+<subject>periferals</subject>
+<subject>gwac</subject>
+<subject>contract</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>sewp</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

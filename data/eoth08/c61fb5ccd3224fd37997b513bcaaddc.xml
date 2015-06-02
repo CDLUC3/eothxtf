@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>PubMed Home</title>
+<identifier>http://eot.us.archive.org/eot08/20090114034119/ncbi.nlm.nih.gov/sites/entrez/</identifier>
+<provenance>http://www.ncbi.nlm.nih.gov/sites/entrez/</provenance>
+<date>2009-01-14</date>
+<date>2009-01-14</date>
+<description> PubMed is a service of the U.S. National Library of Medicine that includes over 18 million citations from MEDLINE and other life science journals for biomedical articles back to the 1950s. PubMed includes links to full text articles and other related resources.</description>
+<subject>PubMed</subject>
+<subject>National Center for Biotechnology Information</subject>
+<subject>NCBI</subject>
+<subject>United States National Library of Medicine</subject>
+<subject>NLM</subject>
+<subject>MEDLINE</subject>
+<subject>Medical Journals</subject>
+<subject>pub med</subject>
+<subject>Entrez</subject>
+<subject>Journal Articles</subject>
+<subject>Citation search</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>ncbi</source>
+<source>nlm</source>
+<source>nih</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

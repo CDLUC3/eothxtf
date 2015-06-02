@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NOAA - AMDAR</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003615/acweb.fsl.noaa.gov/</identifier>
+<provenance>http://acweb.fsl.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description></description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>acweb</source>
+<source>fsl</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

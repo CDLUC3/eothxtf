@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NASS - National Agricultural Statistics Service</title>
+<identifier>http://eot.us.archive.org/eot08/20080916052419/nass.usda.gov/</identifier>
+<provenance>http://www.nass.usda.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-14</date>
+<description>USDA National Agricultural Statistics Service Information. NASS publications cover a wide range of subjects, from traditional crops, such as corn and wheat, to specialties, such as mushrooms and flowers; from calves born to hogs slaughtered; from agricultural prices to land in farms. The agency has the distinction of being known as The Fact Finders of U.S. Agriculture due to the abundance of information we produce. The National Agricultural Statistics Service&apos;s mission is to serve the United States, its agriculture, and its rural communities by providing meaningful, accurate, and objective statistical information and services.</description>
+<subject>Statistics</subject>
+<subject>Agriculture</subject>
+<subject>Farm</subject>
+<subject>Information</subject>
+<subject>USDA</subject>
+<subject>Government</subject>
+<subject>agricultural</subject>
+<subject>NASS</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>nass</source>
+<source>usda</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

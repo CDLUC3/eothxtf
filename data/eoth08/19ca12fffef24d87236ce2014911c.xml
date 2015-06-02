@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Photojournal: NASA&apos;s Image Access Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20090511165459/photojournal.jpl.nasa.gov/</identifier>
+<provenance>http://photojournal.jpl.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>publicly released images from various   Solar System exploration programs</description>
+<subject>images</subject>
+<subject>photos</subject>
+<subject>pictures</subject>
+<subject>space</subject>
+<subject>planets</subject>
+<subject>solar system</subject>
+<subject>Mercury</subject>
+<subject>Venus</subject>
+<subject>Earth</subject>
+<subject>Moon</subject>
+<subject>Mars</subject>
+<subject>Jupiter</subject>
+<subject>Saturn</subject>
+<subject>Neptune</subject>
+<subject>Uranus</subject>
+<subject>Pluto</subject>
+<subject>dwarf planets</subject>
+<subject>satellites</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>photojournal</source>
+<source>jpl</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

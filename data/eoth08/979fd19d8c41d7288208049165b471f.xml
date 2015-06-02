@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Mojave Desert Ecosystem Program - a GIS data clearing house</title>
+<identifier>http://eot.us.archive.org/eot08/20080916004153/mojavedata.gov/</identifier>
+<provenance>http://mojavedata.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>A wide variety of data and geographical information for mapping the Mojave Desert Ecosystem</description>
+<subject>Mojave Desert</subject>
+<subject>desert</subject>
+<subject>mojave</subject>
+<subject>ecosystem</subject>
+<subject>MDEP</subject>
+<subject>mojave ecoregion</subject>
+<subject>data</subject>
+<subject>GIS data</subject>
+<subject>geographic information systems</subject>
+<subject>ESRI</subject>
+<subject>ARC Info</subject>
+<subject>ARC view</subject>
+<subject>mapping</subject>
+<subject>Geospatial data</subject>
+<subject>ecology</subject>
+<subject>geology</subject>
+<subject>cartography</subject>
+<subject>satellite imagery</subject>
+<subject>climate</subject>
+<subject>culture</subject>
+<subject>hydrology</subject>
+<subject>vegetation</subject>
+<subject>preservation</subject>
+<subject>awareness</subject>
+<subject>DOD</subject>
+<subject>DOI</subject>
+<subject>Department of Defense</subject>
+<subject>Department of the Interior</subject>
+<subject>California</subject>
+<subject>Nevada</subject>
+<subject>Arizona</subject>
+<subject>Utah</subject>
+<subject>BLM</subject>
+<subject>MDEI</subject>
+<subject>Fort Irwin</subject>
+<subject>Edwards AFB</subject>
+<subject>Nellis AFB</subject>
+<subject>China Lake NAS</subject>
+<subject>Twenty Nine Palms Marine Base</subject>
+<subject>Marine Corp Logistics Base</subject>
+<subject>Barstow</subject>
+<subject>Mojave National Preserve</subject>
+<subject>Death Valley National Park</subject>
+<subject>Joshua Tree National Park</subject>
+<subject>Lake Mead National Recreation Area</subject>
+<subject>DEM</subject>
+<subject>DLG</subject>
+<subject>DRG</subject>
+<subject>DOQ</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>mojavedata</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

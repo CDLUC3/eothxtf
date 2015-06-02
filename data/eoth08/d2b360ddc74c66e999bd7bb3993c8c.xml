@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NOAA Marine Operations</title>
+<identifier>http://eot.us.archive.org/eot08/20080916050814/moc.noaa.gov/</identifier>
+<provenance>http://www.moc.noaa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-06</date>
+<description>NOAA Marine Operations Home Page</description>
+<subject>NOAA</subject>
+<subject>Marine Operations</subject>
+<subject>Oceanographic Research</subject>
+<subject>Fisheries Research</subject>
+<subject>Nautical Charting</subject>
+<subject>Research Ship</subject>
+<subject>Ship Schedule</subject>
+<subject>Ship Location</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>moc</source>
+<source>noaa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Visible Earth: Home</title>
+<identifier>http://eot.us.archive.org/eot08/20080916013913/visibleearth.nasa.gov/</identifier>
+<provenance>http://visibleearth.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>NASA&apos;s Visible Earth catalog of NASA images and animations of our home planet</description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>visibleearth</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

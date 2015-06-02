@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>DOE: Building Energy Codes - Home</title>
+<identifier>http://eot.us.archive.org/eot08/20090116190846/energycodes.gov/</identifier>
+<provenance>http://www.energycodes.gov/</provenance>
+<date>2009-01-16</date>
+<date>2009-08-25</date>
+<description>Tools to facilitate energy code compliance, development, adoption, implementation, and enforcement.</description>
+<subject>building energy codes</subject>
+<subject>codes</subject>
+<subject>energy</subject>
+<subject>residential energy codes</subject>
+<subject>commercial energy codes</subject>
+<subject>MECcheck</subject>
+<subject>REScheck</subject>
+<subject>COMcheck</subject>
+<subject>COMcheck-EZ</subject>
+<subject>COMcheck-Plus</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>energycodes</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

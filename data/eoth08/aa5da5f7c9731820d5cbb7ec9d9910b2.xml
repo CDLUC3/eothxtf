@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>AFTAC TT Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20090109022906/tt.aftac.gov/</identifier>
+<provenance>http://www.tt.aftac.gov/</provenance>
+<date>2009-01-09</date>
+<date>2009-08-25</date>
+<description>Top page for the AFTAC TT Web</description>
+<subject>AFTAC</subject>
+<subject>TT</subject>
+<subject>seismic</subject>
+<subject>NDC</subject>
+<subject>CTBT</subject>
+<subject>nuclear explosions</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>tt</source>
+<source>aftac</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Library of Congress Online Catalogs (Upgraded May 19, 2008)</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003635/catalog.loc.gov/</identifier>
+<provenance>http://catalog.loc.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-05-08</date>
+<description>The Library of Congress collections include over 110 million  items in a variety of formats and languages. The catalog information for many of these items has appeared in a number of traditional card catalogs located in the Library. Much of the information  in these catalogs is also searchable over the Internet. This page links to the two methods for search the main Library of Congress Online Catalog and to several specialized catalogs for prints and photographs (PPOC), for sound recordings (SONIC) and a Z39.50 gateway to the main catalog data.</description>
+<subject>library congress online catalog catalogs research bibliographic records MARC search browse keyword books serials maps music sound recordings prints photographs  microforms computer files maps</subject>
+<subject>library congress online catalog catalogs research bibliographic records MARC search browse keyword books serials maps music sound recordings prints photographs microforms computer files maps</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Legislative</coverage>
+<source>catalog</source>
+<source>loc</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

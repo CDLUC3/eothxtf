@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Global Positioning System</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003723/gps.gov/</identifier>
+<provenance>http://gps.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>Public information about the Global Positioning System (GPS) and other space-based positioning, navigation, and timing (PNT) systems</description>
+<subject>Global Positioning System</subject>
+<subject>GPS</subject>
+<subject>Space-Based Positioning</subject>
+<subject>Navigation</subject>
+<subject>and Timing</subject>
+<subject>PNT</subject>
+<subject>National Space-Based PNT Executive Committee</subject>
+<subject>Global Satellite Navigation System</subject>
+<subject>GNSS</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>gps</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

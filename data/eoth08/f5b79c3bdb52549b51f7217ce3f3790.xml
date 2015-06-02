@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>NIH Data Center, Center for Information Technology, NIH</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003640/datacenter.cit.nih.gov/</identifier>
+<provenance>http://datacenter.cit.nih.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>Description of the platforms and services available at CIT's NIH Data Center</description>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>datacenter</source>
+<source>cit</source>
+<source>nih</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

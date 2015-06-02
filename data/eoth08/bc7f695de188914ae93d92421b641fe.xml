@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Renewable Resource Data Center (RReDC) Home Page</title>
+<identifier>http://eot.us.archive.org/eot08/20080916005359/rredc.nrel.gov/</identifier>
+<provenance>http://rredc.nrel.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-13</date>
+<description>The Renewable Resource Data Center Web (RReDC) site provides publications, data, and maps on biomass, geothermal, solar radiation, and wind resources in the United States.</description>
+<subject>renewable resource data center</subject>
+<subject>rredc</subject>
+<subject>RReDC</subject>
+<subject>biomass resources</subject>
+<subject>biomass energy resources</subject>
+<subject>geothermal resources</subject>
+<subject>geothermal energy resources</subject>
+<subject>solar radiation resources</subject>
+<subject>solar resources</subject>
+<subject>solar energy resources</subject>
+<subject>wind energy resources</subject>
+<subject>wind resources</subject>
+<subject>publications</subject>
+<subject>data</subject>
+<subject>maps</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>rredc</source>
+<source>nrel</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

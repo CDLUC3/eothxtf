@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>MODIS Website</title>
+<identifier>http://eot.us.archive.org/eot08/20080916004156/modis.gsfc.nasa.gov/</identifier>
+<provenance>http://modis.gsfc.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>The Moderate Resolution Imaging Spectroradiometer website that houses all central information on the MODIS project</description>
+<subject>NASA</subject>
+<subject>Earth Science</subject>
+<subject>Space Science</subject>
+<subject>Technology</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>modis</source>
+<source>gsfc</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

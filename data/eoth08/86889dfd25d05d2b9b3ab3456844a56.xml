@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>United States National Seismic Hazard Maps</title>
+<identifier>http://eot.us.archive.org/eot08/20080916005023/earthquake.usgs.gov/research/hazmaps/</identifier>
+<provenance>http://earthquake.usgs.gov/research/hazmaps/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>USGS Earthquake Hazards Program, responsible for monitoring, reporting, and researching earthquakes and earthquake hazards</description>
+<subject>aftershock</subject>
+<subject>earthquake</subject>
+<subject>epicenter</subject>
+<subject>fault</subject>
+<subject>foreshock</subject>
+<subject>geologist</subject>
+<subject>geophysics</subject>
+<subject>hazard</subject>
+<subject>hypocenter</subject>
+<subject>intensity</subject>
+<subject>intensity scale</subject>
+<subject>magnitude</subject>
+<subject>magnitude scale</subject>
+<subject>mercalli</subject>
+<subject>plate</subject>
+<subject>richter</subject>
+<subject>seismic</subject>
+<subject>seismicity</subject>
+<subject>seismogram</subject>
+<subject>seismograph</subject>
+<subject>seismologist</subject>
+<subject>seismology</subject>
+<subject>subduction</subject>
+<subject>tectonics</subject>
+<subject>tsunami</subject>
+<subject>quake</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>earthquake</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

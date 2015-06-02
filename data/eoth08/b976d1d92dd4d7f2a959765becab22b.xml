@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>GOS - Geospatial One Stop</title>
+<identifier>http://eot.us.archive.org/eot08/20080916083244/gos2.geodata.gov/wps/portal/gos</identifier>
+<provenance>http://gos2.geodata.gov/wps/portal/gos</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>geodata.gov is a web-based portal for one-stop access to maps, data and other geospatial services   	that will simplify the ability of all levels of government and citizens to find geospatial data and learn more   	about geospatial projects underway.  This is part of the Geospatial One-Stop initiative, one of the 24 OMB   	electronic-government initiatives that will enhance government efficiency. The geodata.gov portal will   	accelerate the development and implementation of the National Spatial Data Infrastructure (NSDI) and includes   	state, local and tribal governments along with the private sector and academia as participants.</description>
+<subject>geodata</subject>
+<subject>geodata.gov</subject>
+<subject>Geospatial One-Stop</subject>
+<subject>gos</subject>
+<subject>map services</subject>
+<subject>geography</subject>
+<subject>standards</subject>
+<subject>metadata</subject>
+<subject>framework</subject>
+<subject>clearinghouse</subject>
+<subject>fgdc</subject>
+<subject>geospatial data</subject>
+<subject>nsdi</subject>
+<subject>portal</subject>
+<subject>National Spatial Data Infrastructure</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>gos2</source>
+<source>geodata</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

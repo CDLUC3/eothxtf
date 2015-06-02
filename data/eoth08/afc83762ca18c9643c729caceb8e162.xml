@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS - Rolla Center</title>
+<identifier>http://eot.us.archive.org/eot08/20081104204708/mcmcweb.er.usgs.gov/</identifier>
+<provenance>http://mcmcweb.er.usgs.gov/</provenance>
+<date>2008-11-04</date>
+<date>2009-08-25</date>
+<description>Home page for the U.S. Geological Survey Center in Rolla, Missouri</description>
+<subject>U.S. Geological Survey</subject>
+<subject>USGS Geography</subject>
+<subject>The National Map</subject>
+<subject>USA</subject>
+<subject>United States</subject>
+<subject>cartographic</subject>
+<subject>cartography</subject>
+<subject>geographic</subject>
+<subject>geography</subject>
+<subject>geospatial data</subject>
+<subject>geographic information system</subject>
+<subject>GIS</subject>
+<subject>mapping</subject>
+<subject>maps</subject>
+<subject>aerial photographs</subject>
+<subject>satellite imagery</subject>
+<subject>digital elevation model</subject>
+<subject>digital raster graphic</subject>
+<subject>digital orthophoto</subject>
+<subject>topographic</subject>
+<subject>topography</subject>
+<subject>geographic names</subject>
+<subject>earth science</subject>
+<subject>geospatial metadata</subject>
+<subject>geospatial data standards</subject>
+<subject>partnerships</subject>
+<subject>remote sensing</subject>
+<subject>geographic analysis</subject>
+<subject>cooperative mapping</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>mcmcweb</source>
+<source>er</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

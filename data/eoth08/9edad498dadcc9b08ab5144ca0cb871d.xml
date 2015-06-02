@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS Rocky Mountain Mapping Center</title>
+<identifier>http://eot.us.archive.org/eot08/20081104204649/rmmcweb.cr.usgs.gov/</identifier>
+<provenance>http://rmmcweb.cr.usgs.gov/</provenance>
+<date>2008-11-04</date>
+<date>2009-08-25</date>
+<description>Home Page for the USGS Rocky Mountain Mapping Center in Denver, Colorado</description>
+<subject>USGS</subject>
+<subject>USA</subject>
+<subject>United States</subject>
+<subject>U.S. Geological Survey</subject>
+<subject>	cartographic</subject>
+<subject>cartography</subject>
+<subject>geographic</subject>
+<subject>geography</subject>
+<subject>geospatial</subject>
+<subject>geospatial data</subject>
+<subject>spatial data</subject>
+<subject>geographic information 	system</subject>
+<subject>GIS</subject>
+<subject>gis</subject>
+<subject>information</subject>
+<subject>mapping</subject>
+<subject>maps</subject>
+<subject>topographic</subject>
+<subject>topography</subject>
+<subject>earthscience</subject>
+<subject>earth science</subject>
+<subject>data</subject>
+<subject>metadata</subject>
+<subject>standards</subject>
+<subject>	hydrology</subject>
+<subject>hydrologic</subject>
+<subject>water</subject>
+<subject>streamflow</subject>
+<subject>stream</subject>
+<subject>river</subject>
+<subject>lake</subject>
+<subject>flood</subject>
+<subject>drought</subject>
+<subject>quality</subject>
+<subject>basin</subject>
+<subject>watershed</subject>
+<subject>environment</subject>
+<subject>ground 	water</subject>
+<subject>groundwater</subject>
+<subject>geology</subject>
+<subject>biology</subject>
+<subject>rocks</subject>
+<subject>mineral</subject>
+<subject>oil</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>rmmcweb</source>
+<source>cr</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

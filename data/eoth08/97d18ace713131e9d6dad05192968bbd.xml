@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>WFF TOPEX</title>
+<identifier>http://eot.us.archive.org/eot08/20080916011241/topex.wff.nasa.gov/</identifier>
+<provenance>http://topex.wff.nasa.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description></description>
+<subject>phpwebsite</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>topex</source>
+<source>wff</source>
+<source>nasa</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

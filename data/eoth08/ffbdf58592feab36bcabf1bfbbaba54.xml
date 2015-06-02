@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>USGS (U.S. Geological Survey) EROS, Sioux Falls, SD</title>
+<identifier>http://eot.us.archive.org/eot08/20080916003648/edc.usgs.gov/</identifier>
+<provenance>http://edc.usgs.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-12</date>
+<description>EROS</description>
+<subject>EROS</subject>
+<subject>Landsat</subject>
+<subject>Aerial Photos</subject>
+<subject>Earth Images</subject>
+<subject>Historical Photography</subject>
+<subject>Satellite Imagery</subject>
+<subject>Satellite Pictures</subject>
+<subject>Earth as Art</subject>
+<subject>Elevation Data</subject>
+<subject>Digital Mapping Data</subject>
+<subject>Geography</subject>
+<subject>GIS Data</subject>
+<subject>USGS</subject>
+<subject>Remote Sensing</subject>
+<subject>Land Cover</subject>
+<subject>Land Use</subject>
+<subject>Seamless Data</subject>
+<subject>Satellite Data</subject>
+<subject>Imagery</subject>
+<type>web site</type>
+<format>text</format>
+<coverage>Executive</coverage>
+<source>edc</source>
+<source>usgs</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

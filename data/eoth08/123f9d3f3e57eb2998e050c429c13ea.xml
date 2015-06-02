@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>BLIS Portal Login</title>
+<identifier>http://eot.us.archive.org/eot08/20080920035208/myblis.lbl.gov/uportal/simple_channels/login/login.htm</identifier>
+<provenance>https://myblis.lbl.gov/uPortal/simple_channels/login/login.htm</provenance>
+<date>2008-09-20</date>
+<date>2009-08-13</date>
+<description></description>
+<subject>Central Authentication Service</subject>
+<subject>JA-SIG</subject>
+<subject>CAS</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>myblis</source>
+<source>lbl</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>

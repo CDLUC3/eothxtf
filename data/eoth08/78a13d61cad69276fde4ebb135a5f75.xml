@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dc>
+<title>Recdata.gov</title>
+<identifier>http://eot.us.archive.org/eot08/20090813162323/recdata.gov/</identifier>
+<provenance>http://recdata.gov/</provenance>
+<date>2008-09-16</date>
+<date>2009-08-14</date>
+<description>Recdata.gov is the public website for The Recreation Information Database (RIDB), a warehouse of information about Federal recreation sites.</description>
+<subject>Data</subject>
+<subject>Datasets</subject>
+<subject>Data Sets</subject>
+<subject>US Federal Government</subject>
+<subject>Open Government</subject>
+<subject>Transparent Government</subject>
+<subject>Transparency</subject>
+<subject>Government Datasets</subject>
+<subject>Government Data Sets</subject>
+<subject>Government 2.0</subject>
+<subject>Open Government Directive</subject>
+<subject>Data Tool</subject>
+<subject>Data Extraction Tool</subject>
+<subject>Data Widget</subject>
+<subject>Data Gadget</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>recdata</source>
+<relation>http://crawls.archive.org/collections/eot08/</relation>
+</dc>
