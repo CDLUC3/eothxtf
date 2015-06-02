@@ -1,0 +1,11 @@
+# Emacs files
+
+.#*
+*~
+\#*
+
+# IntelliJ IDEA files
+
+*.iml
+*.ipr
+*.iws
