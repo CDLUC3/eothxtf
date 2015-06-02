@@ -164,7 +164,7 @@
                         <td class="tab"><a href="index.html">Home</a></td>
                         <td class="tab"><a href="search?smode=advanced">Search Full Text</a></td>
                         <td class="tab-select"><a href="{$xtfURL}{$crossqueryPath}?browse-all=yes">Site List</a></td>
-                        <td class="tab"><a href="search?smode=freeform">Explore Data</a></td>
+                        <!-- <td class="tab"><a href="search?smode=freeform">Explore Data</a></td> -->
                      </tr>
                      </table>
             
@@ -431,7 +431,7 @@ Item number <xsl:value-of select="$num"/>:
                         <td class="tab"><a href="index.html">Home</a></td>
                         <td class="tab"><a href="search?smode=advanced">Search Full Text</a></td>
                         <td class="tab-select"><a href="{$xtfURL}{$crossqueryPath}?browse-all=yes">Site List</a></td>
-                        <td class="tab"><a href="search?smode=freeform">Explore Data</a></td>
+                        <!-- <td class="tab"><a href="search?smode=freeform">Explore Data</a></td> -->
                      </tr>
                      </table>
             
