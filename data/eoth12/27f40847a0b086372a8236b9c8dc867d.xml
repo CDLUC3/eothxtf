@@ -1,0 +1,41 @@
+<dc collection="eot2012">
+<title>AWC - Aviation Weather Center</title>
+<identifier>http://crawls-wm.us.archive.org/eot-2012/20130215135759/http://www.aviationweather.gov/</identifier>
+<provenance>http://www.aviationweather.gov/</provenance>
+<date>20120913073821</date>
+<date>20130215135759</date>
+<description>Aviation Weather Center Homepage provides comprehensive user-friendly aviation weather Text products and graphics.</description>
+<subject>aviation</subject>
+<subject>weather</subject>
+<subject>icing</subject>
+<subject>turbulence</subject>
+<subject>convection</subject>
+<subject>pirep</subject>
+<subject>metar</subject>
+<subject>taf</subject>
+<subject>airmet</subject>
+<subject>sigmet</subject>
+<subject>satellite</subject>
+<subject>radar</subject>
+<subject>surface</subject>
+<subject>wind</subject>
+<subject>temperature</subject>
+<subject>aloft</subject>
+<subject>airplane</subject>
+<subject>NEXRAD</subject>
+<subject>GOES</subject>
+<subject>WSR-88D</subject>
+<subject>precipitation</subject>
+<subject>rain</subject>
+<subject>snow</subject>
+<subject>sleet</subject>
+<subject>thunderstorm</subject>
+<subject>en-route</subject>
+<subject>prognosis</subject>
+<subject>chart</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>aviationweather</source>
+<relation>http://crawls.archive.org/collections/eot2012/</relation>
+</dc>

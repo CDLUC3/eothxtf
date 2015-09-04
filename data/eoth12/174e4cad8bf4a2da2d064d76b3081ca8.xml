@@ -1,0 +1,25 @@
+<dc collection="eot2012">
+<title>Time Service Dept., United States Naval Observatory</title>
+<identifier>http://crawls-wm.us.archive.org/eot-2012/20130213202507/http://tycho.usno.navy.mil/</identifier>
+<provenance>http://tycho.usno.navy.mil/</provenance>
+<date>20120913074859</date>
+<date>20130213202507</date>
+<description> The Master Clock for the United States.</description>
+<subject>Precise Time</subject>
+<subject>Atomic Clocks</subject>
+<subject>Global Positioning System</subject>
+<subject>GPS</subject>
+<subject>Two-Way Satellite Time Transfer</subject>
+<subject>TWSTT</subject>
+<subject>Navy</subject>
+<subject>Department of Defense</subject>
+<subject>DoD</subject>
+<subject>U.S. Government</subject>
+<type>web site</type>
+<format>text</format>
+<coverage></coverage>
+<source>tycho</source>
+<source>usno</source>
+<source>navy</source>
+<relation>http://crawls.archive.org/collections/eot2012/</relation>
+</dc>
