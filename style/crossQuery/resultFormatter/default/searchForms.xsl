@@ -129,10 +129,10 @@ This file provides full text search and integrates search results via the intern
                         <td class="{if(matches($smode,'simple')) then 'tab-select' else 'tab'}"><a href="index.html">Home</a></td>
                         <td class="{if(matches($smode,'advanced')) then 'tab-select' else 'tab'}"><a href="search?smode=advanced">Search Full Text</a></td>
                         <td class="{if(matches($smode,'browse')) then 'tab-select' else 'tab'}"><a href="{$xtfURL}{$crossqueryPath}?browse-all=yes">Site List</a></td>
-                        <td class="{if(matches($smode,'freeform')) then 'tab-select' else 'tab'}"><a href="search?smode=freeform">Explore Data</a></td>
+<!--                        <td class="{if(matches($smode,'freeform')) then 'tab-select' else 'tab'}"><a href="search?smode=freeform">Explore Data</a></td> -->
                      </tr>
                      <tr>
-                        <td colspan="4">
+                        <td colspan="3">
                            <div class="form">
                               <xsl:choose>
                                  <xsl:when test="matches($smode,'simple')">
