@@ -53,9 +53,7 @@
    
  <xsl:template name="advancedForm" exclude-result-prefixes="#all">
  
-  <p>Note: the full text results screen does not yet contain the End of Term Archive site banner and navigation.</p>
-  
- 
+<!--  <p>Note: the full text results screen does not yet contain the End of Term Archive site banner and navigation.</p> -->
 
         <form action="http://eot.us.archive.org/search" method="get">
           <div class="mainBody">
