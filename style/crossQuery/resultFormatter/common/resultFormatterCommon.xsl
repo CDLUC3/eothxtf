@@ -1227,15 +1227,17 @@
    <xsl:template match="facet" mode="facetName" priority="-1">
       <xsl:variable name="rawName" select="replace(@field, '^facet-', '')"/>
       <xsl:choose>
+ 		 <xsl:when test="$rawName='administration'">
+            <xsl:text>Administration</xsl:text>
+         </xsl:when>
          <xsl:when test="$rawName='source'">
             <xsl:text>URL segment</xsl:text><br/>
             <span class="helpText"><xsl:text>The following text appears in a section of the site's URL.  This can help you narrow results to particular agencies.</xsl:text></span>
          </xsl:when>
-		 		 
-         <xsl:when test="$rawName='coverage'">
+<!--         <xsl:when test="$rawName='coverage'">
             <xsl:text>Government branch</xsl:text>
          </xsl:when>
-         <xsl:otherwise>
+-->         <xsl:otherwise>
             <xsl:value-of select="concat(upper-case(substring($rawName, 1, 1)), substring($rawName, 2))"/>            
          </xsl:otherwise>
      </xsl:choose>

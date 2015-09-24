@@ -118,12 +118,17 @@
          </xsl:call-template>
          
          <!-- facet of government branches -->
-         <xsl:call-template name="facet">
+<!--         <xsl:call-template name="facet">
             <xsl:with-param name="field" select="'facet-coverage'"/>
             <xsl:with-param name="topGroups" select="'*'"/>
             <xsl:with-param name="sort" select="'totalDocs'"/>
          </xsl:call-template>
-         
+-->         
+		 <xsl:call-template name="facet">
+            <xsl:with-param name="field" select="'facet-administration'"/>
+            <xsl:with-param name="topGroups" select="'*[1-15]'"/>
+            <xsl:with-param name="sort" select="'totalDocs'"/>
+         </xsl:call-template>
 		 
 		 <!-- facet of subject -->
        <!--  <xsl:call-template name="facet">

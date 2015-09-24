@@ -248,16 +248,16 @@
                             <div class="facetName">Site Lookup:</div>
                             <form method="get" action="{$xtfURL}{$crossqueryPath}">
                                   <input type="text" name="keyword" size="25" value="{$keyword}"/><br/>
-                                  <input type="reset" onclick="location.href='{$xtfURL}search?browse-all=yes'" value="Clear"/>
-                                  <xsl:text>&#160;&#160;&#160;</xsl:text>
-								  <input type="submit" value="Go"/><br/>
+								  <input type="submit" value="Go"/>
+								  <xsl:text>&#160;&#160;&#160;</xsl:text>
+                                  <input type="reset" onclick="location.href='{$xtfURL}search?browse-all=yes'" value="Clear"/><br/>
                                   <span class="helpText">Look up a site by keywords in the title, description or URL.</span><br/>
 								  
                              </form>
                              
                              <br/>
-
-                                 <xsl:apply-templates select="facet[@field='facet-coverage']"/>
+								 <xsl:apply-templates select="facet[@field='facet-administration']"/>
+								 <xsl:apply-templates select="facet[@field='facet-coverage']"/>
                                  <xsl:apply-templates select="facet[@field='facet-source']"/>
 
                               </td>
@@ -689,10 +689,8 @@ Item number <xsl:value-of select="$num"/>:
 			
 			
    <!-- try to derive site value for full text search -->
-		
-				  
-				              
-              <tr>
+<!--
+			<tr>
                <td class="col1">
                   <xsl:text>&#160;</xsl:text>
                </td>
@@ -703,8 +701,9 @@ Item number <xsl:value-of select="$num"/>:
                <td class="col3">
                      <xsl:choose>
                         <xsl:when test="meta/provenance">
-                         <xsl:variable name="siteUrl" select="meta/provenance"/>
-                             <xsl:value-of select="siteUrl"/>
+-->
+<!--                         <xsl:variable name="siteUrl" select="meta/provenance"/> -->
+<!--                             <xsl:value-of select="meta/provenance"/>
                         </xsl:when>
                         <xsl:otherwise>none</xsl:otherwise>
                      </xsl:choose>
@@ -713,7 +712,7 @@ Item number <xsl:value-of select="$num"/>:
                   <xsl:text>&#160;</xsl:text>
                </td>
             </tr>
-            
+-->            
 
             
    <!-- show the live url -->
@@ -745,7 +744,6 @@ Item number <xsl:value-of select="$num"/>:
             <!-- show the date of capture -->
             
             <tr>
-
                <td class="col1">
                   <xsl:text>&#160;</xsl:text>
                </td>
@@ -753,14 +751,26 @@ Item number <xsl:value-of select="$num"/>:
                   <b>Coverage:&#160;&#160;</b>
                </td>
                <td class="col3">
-                  <xsl:choose>
-                     <xsl:when test="meta/date">
-                        <xsl:value-of select="format-date(meta/date[1], '[MNn] [D], [Y]')"/>
-                        -
-                        <xsl:value-of select="format-date(meta/date[2], '[MNn] [D], [Y]')"/>
+			     <xsl:choose>
+					<xsl:when test="meta/date">
+						<xsl:choose>
+							<xsl:when test="meta/sort-year='2008'">
+								<xsl:value-of select="format-date(meta/date[1], '[MNn] [D], [Y]')"/>
+								-
+								<xsl:value-of select="format-date(meta/date[2], '[MNn] [D], [Y]')"/>
+							</xsl:when>
+							<xsl:when test="meta/sort-year='2012'">
+								<xsl:call-template name="DateFormat2012">
+									<xsl:with-param name="coverage-date" select="meta/date[1]"/>
+								</xsl:call-template>
+								<xsl:text> - </xsl:text>
+								<xsl:call-template name="DateFormat2012">
+									<xsl:with-param name="coverage-date" select="meta/date[2]"/>
+								</xsl:call-template>
+							</xsl:when>
+						</xsl:choose>
                      </xsl:when>
                      <xsl:otherwise>
-                        
                         <xsl:apply-templates select="meta/date"/>
                      </xsl:otherwise>
                   </xsl:choose>
@@ -792,21 +802,23 @@ Item number <xsl:value-of select="$num"/>:
 			
             
             <!-- show the abstract if there is one -->        
-            <xsl:if test="string-length(meta/description)>0">    
-               <tr>
-                  <td class="col1">
-                     <xsl:text>&#160;</xsl:text>
-                  </td>
-                  <td class="col2">
-                     <b>Description:&#160;&#160;</b>
-                  </td>
-                  <td class="col3">
-                     <xsl:apply-templates select="meta/description"/>
-                  </td>
-                  <td class="col4">
-                     <xsl:text>&#160;</xsl:text>
-                  </td>
-               </tr>
+			<xsl:if test="string-length(meta/description)>0">
+				<xsl:if test="meta/description!='...'">
+					<tr>
+						<td class="col1">
+							<xsl:text>&#160;</xsl:text>
+						</td>
+						<td class="col2">
+							<b>Description:&#160;&#160;</b>
+						</td>
+						<td class="col3">
+							<xsl:apply-templates select="meta/description"/>
+						</td>
+						<td class="col4">
+							<xsl:text>&#160;</xsl:text>
+						</td>
+					</tr>
+				</xsl:if>
             </xsl:if>
             
                   
@@ -947,6 +959,51 @@ Item number <xsl:value-of select="$num"/>:
          <xsl:text>. </xsl:text>
       </li>
       
+   </xsl:template>
+   <xsl:template name="DateFormat2012">
+		<xsl:param name="coverage-date"/>
+		<xsl:choose>
+			<xsl:when test="substring($coverage-date,5,2)='01'">
+				<xsl:text>January</xsl:text>
+			</xsl:when>
+			<xsl:when test="substring($coverage-date,5,2)='02'">
+				<xsl:text>February</xsl:text>
+			</xsl:when>
+			<xsl:when test="substring($coverage-date,5,2)='03'">
+				<xsl:text>March</xsl:text>
+			</xsl:when>
+			<xsl:when test="substring($coverage-date,5,2)='04'">
+				<xsl:text>April</xsl:text>
+			</xsl:when>
+			<xsl:when test="substring($coverage-date,5,2)='05'">
+				<xsl:text>May</xsl:text>
+			</xsl:when>
+			<xsl:when test="substring($coverage-date,5,2)='06'">
+				<xsl:text>June</xsl:text>
+			</xsl:when>
+			<xsl:when test="substring($coverage-date,5,2)='07'">
+				<xsl:text>July</xsl:text>
+			</xsl:when>
+			<xsl:when test="substring($coverage-date,5,2)='08'">
+				<xsl:text>August</xsl:text>
+			</xsl:when>
+			<xsl:when test="substring($coverage-date,5,2)='09'">
+				<xsl:text>September</xsl:text>
+			</xsl:when>
+			<xsl:when test="substring($coverage-date,5,2)='10'">
+				<xsl:text>October</xsl:text>
+			</xsl:when>
+			<xsl:when test="substring($coverage-date,5,2)='11'">
+				<xsl:text>November</xsl:text>
+			</xsl:when>
+			<xsl:when test="substring($coverage-date,5,2)='12'">
+				<xsl:text>December</xsl:text>
+			</xsl:when>
+		</xsl:choose>
+		<xsl:text> </xsl:text>
+		<xsl:value-of select="substring($coverage-date,7,2)"/>
+		<xsl:text>, </xsl:text>
+		<xsl:value-of select="substring($coverage-date,1,4)"/>
    </xsl:template>
    
 </xsl:stylesheet>

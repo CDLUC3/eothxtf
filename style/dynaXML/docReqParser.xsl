@@ -92,7 +92,7 @@
          "for-each" is a bit of a misnomer, since the stub is a single document
          so the code below runs only once.
       -->
-      <xsl:variable name="file" select="concat('../../data/',$docId)"/>
+      <xsl:variable name="file" select="concat('data/',$docId)"/>
       <xsl:variable name="fileType">
          <xsl:for-each select="FileUtils:readXMLStub($file)">
             

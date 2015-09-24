@@ -125,14 +125,14 @@
          <!-- Create facets -->
          <xsl:apply-templates select="$meta/*[matches(local-name(),'^date$')]" mode="facet"/>
          <xsl:apply-templates select="$meta/*[matches(local-name(),'^subject$')]" mode="facet"/>
-         
+         <xsl:apply-templates select="$meta/*[matches(local-name(),'^administration$')][1]" mode="facet"/>
+		 
          <xsl:apply-templates select="$meta/*[matches(local-name(),'^title$')][1]" mode="browse"/>    
          <xsl:apply-templates select="$meta/*[matches(local-name(),'^creator$')][1]" mode="browse"/>
 		 
 		 <!-- additional eoth facets -->
 		 <xsl:apply-templates select="$meta/*[matches(local-name(),'^source$')][1]" mode="browse"/>    
-         <xsl:apply-templates select="$meta/*[matches(local-name(),'^coverage$')][1]" mode="browse"/>
-         
+<!--         <xsl:apply-templates select="$meta/*[matches(local-name(),'^coverage$')][1]" mode="browse"/> -->
       </xtf:meta>
    </xsl:template>
    
@@ -195,14 +195,14 @@
    </xsl:template>
    
    <!-- Generate facet-coverage -->
-   <xsl:template match="*[matches(local-name(),'^coverage$')]" mode="facet">
+<!--   <xsl:template match="*[matches(local-name(),'^coverage$')]" mode="facet">
       <facet-coverage>
          <xsl:attribute name="xtf:meta" select="'true'"/>
          <xsl:attribute name="xtf:facet" select="'yes'"/>
          <xsl:value-of select="string(.)"/>
       </facet-coverage>
    </xsl:template>
-   
+-->   
    <!-- Generate facet-source -->
    <xsl:template match="*[matches(local-name(),'^source$')]" mode="facet">
       <facet-source>
@@ -212,6 +212,13 @@
       </facet-source>
    </xsl:template>
    
+   <xsl:template match="*[matches(local-name(),'^administration$')]" mode="facet">
+	  <facet-administration>
+           <xsl:attribute name="xtf:meta" select="'true'"/>
+           <xsl:attribute name="xtf:facet" select="'yes'"/>
+           <xsl:value-of select="parse:year(string(.))[1]"/>
+	  </facet-administration>
+   </xsl:template>
    
    <!-- Generate browse-title -->
    <xsl:template match="*[matches(local-name(),'^title$')]" mode="browse">
