@@ -154,6 +154,16 @@
                               preFilter="style/textIndexer/eoth08/eoth08PreFilter.xsl"
                               displayStyle="style/dynaXML/docFormatter/eoth08/eoth08DocFormatter.xsl"/>
                         </xsl:when>
+                        <xsl:when test="matches($root-element-name,'^eoth12$') or
+                                        matches($pid,'eoth12') or 
+                                        matches($uri,'eoth12\.dtd') or 
+                                        matches($ns,'eoth12') or
+										matches($dirPath,'eoth12')">
+                           <indexFile fileName="{$fileName}"
+                              preFilter="style/textIndexer/eoth12/eoth12PreFilter.xsl"
+                              displayStyle="style/dynaXML/docFormatter/eoth12/eoth12DocFormatter.xsl"/>
+                        </xsl:when>
+
 						
                         <!-- Look for EAD XML files -->
                         <xsl:when test="matches($root-element-name,'^ead$') or

@@ -85,14 +85,14 @@
                <xsl:call-template name="get-provenance"/>
                <xsl:call-template name="get-source"/>
                <xsl:call-template name="get-relation"/>
-<!--               <xsl:call-template name="get-coverage"/>    -->
+               <xsl:call-template name="get-coverage"/>   
+               <xsl:call-template name="get-administration-facet"/>   
 			   <xsl:call-template name="get-domain-facet"/>  
-<!--               <xsl:call-template name="get-branch-facet"/>  -->
-			   <xsl:call-template name="get-administration-facet"/>
+               <xsl:call-template name="get-branch-facet"/> 
          <!--  <xsl:call-template name="get-subject-facet"/> -->
       </xsl:variable>
-     
- <!--<xsl:message>metadata is: 
+<!--    
+ <xsl:message>metadata is: 
     <xsl:copy-of select="$meta">
     
     </xsl:copy-of>
@@ -254,23 +254,25 @@
    </xsl:template>
    
    <!-- coverage -->
-<!--   <xsl:template name="get-coverage">
+   <xsl:template name="get-coverage">
       <xsl:if test="/*:dc/*:coverage">
          <coverage xtf:meta="true" xtf:tokenize="no" xtf:facet="yes">
             <xsl:value-of select="/*:dc/*:coverage"/>
          </coverage>       
       </xsl:if>
    </xsl:template>
--->
+
+   <!-- administration -->
    <xsl:template name="get-administration-facet">
       <facet-administration xtf:meta="true" xtf:tokenize="no" xtf:indexOnly="yes">
-      2008
+      2012
 	  </facet-administration>
    </xsl:template> 
+
    <!-- get facets -->
    
    <!-- govt. branch facet (coverage) -->
-<!--   <xsl:template name="get-branch-facet">
+   <xsl:template name="get-branch-facet">
       <xsl:choose>
          <xsl:when test="/*:dc/*:coverage">
             <facet-coverage xtf:meta="true" xtf:indexOnly="yes" xtf:tokenize="no">
@@ -279,7 +281,8 @@
          </xsl:when>
       </xsl:choose>
       </xsl:template> 
--->   
+   
+   
    
     <!-- domain facet (source) -->
    <xsl:template name="get-domain-facet">
