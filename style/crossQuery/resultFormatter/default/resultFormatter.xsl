@@ -68,6 +68,7 @@
    <xsl:param name="css.path" select="concat($xtfURL, 'css/default/')"/>
    <xsl:param name="icon.path" select="concat($xtfURL, 'icons/default/')"/>
    <xsl:param name="eoth08Thumb.path" select="concat($xtfURL, 'media/eoth08/screens_thumb/')"/>
+   <xsl:param name="eoth12Thumb.path" select="concat($xtfURL, 'media/eoth12/screens_thumb/')"/>
    <xsl:param name="docHits" select="/crossQueryResult/docHit"/>
    <xsl:param name="email"/>
    
@@ -617,13 +618,29 @@ Item number <xsl:value-of select="$num"/>:
          
 
       <xsl:variable name="thumbFilename1" select="replace($path, 'xml', 'png')"/>
-      <xsl:variable name="thumbFilename2" select="replace($thumbFilename1, 'default:eoth08/', '')"/>
-      <xsl:variable name="thumbURL" select="concat($eoth08Thumb.path, $thumbFilename2)"/>
       <xsl:variable name="thumbLink" select="meta/identifier"/>
 	  <xsl:variable name="liveLink" select="meta/provenance"/>
-
-
-
+	  <xsl:variable name="thumbFilename2">
+		<xsl:choose>
+			<xsl:when test="meta/sort-year='2008'">
+				<xsl:value-of select="replace($thumbFilename1, 'default:eoth08/', '')"/>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:value-of select="replace($thumbFilename1, 'default:eoth12/', '')"/>
+			</xsl:otherwise>
+		</xsl:choose>
+	  </xsl:variable>
+	  <xsl:variable name="thumbURL">
+		<xsl:choose>
+			<xsl:when test="meta/sort-year='2008'">
+				<xsl:value-of select="concat($eoth08Thumb.path, $thumbFilename2)"/>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:value-of select="concat($eoth12Thumb.path, $thumbFilename2)"/>
+			</xsl:otherwise>
+		</xsl:choose>
+	  </xsl:variable>
+	
          <table>
          	<tr valign="top">
          		<td width="140px"><a href="{$thumbLink}" target="new"><img src="{$thumbURL}" class="eoth08Thumb" border="0"/></a>
