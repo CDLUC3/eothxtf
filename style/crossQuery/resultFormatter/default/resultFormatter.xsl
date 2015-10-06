@@ -133,7 +133,7 @@
       
       <html xml:lang="en" lang="en">
          <head>
-            <title>XTF: Search Results</title>
+            <title>End of Term Archive: Search Results</title>
             <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
             <xsl:copy-of select="$brand.links"/>
             <!-- AJAX support -->
@@ -413,7 +413,7 @@ Item number <xsl:value-of select="$num"/>:
       
       <html xml:lang="en" lang="en">
          <head>
-            <title>XTF: Search Results</title>
+            <title>End of Term Archive: Search Results</title>
             <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
             <xsl:copy-of select="$brand.links"/>
             <!-- AJAX support -->
