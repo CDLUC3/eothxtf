@@ -1231,8 +1231,8 @@
             <xsl:text>Administration</xsl:text>
          </xsl:when>
          <xsl:when test="$rawName='source'">
-            <xsl:text>URL segment</xsl:text><br/>
-            <span class="helpText"><xsl:text>The following text appears in a section of the site's URL.  This can help you narrow results to particular agencies.</xsl:text></span>
+            <xsl:text>Government Agency Domains</xsl:text><br/>
+            <span class="helpText"><xsl:text>Select domain(s) that contain a specific agency name(s) in the URL</xsl:text></span>
          </xsl:when>
 <!--         <xsl:when test="$rawName='coverage'">
             <xsl:text>Government branch</xsl:text>

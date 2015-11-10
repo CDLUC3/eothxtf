@@ -164,7 +164,7 @@
                      <tr>
                         <td class="tab"><a href="index.html">Home</a></td>
                         <td class="tab"><a href="search?smode=advanced">Search Full Text</a></td>
-                        <td class="tab-select"><a href="{$xtfURL}{$crossqueryPath}?browse-all=yes">Site List</a></td>
+                        <td class="tab-select"><a href="{$xtfURL}{$crossqueryPath}?browse-all=yes">Browse Web Archive</a></td>
                         <!-- <td class="tab"><a href="search?smode=freeform">Explore Data</a></td> -->
                      </tr>
                      </table>
@@ -207,7 +207,7 @@
                         </xsl:choose>
                      </td>
                      
-                     <td rowspan="3" align="center" width="34%"><h2>Site List</h2></td>
+                     <td rowspan="3" align="center" width="34%"><h2>Browse Web Archive</h2></td>
                         
                      <td class="right">
                        <!-- turn off other browse options for now
@@ -431,7 +431,7 @@ Item number <xsl:value-of select="$num"/>:
                      <tr>
                         <td class="tab"><a href="index.html">Home</a></td>
                         <td class="tab"><a href="search?smode=advanced">Search Full Text</a></td>
-                        <td class="tab-select"><a href="{$xtfURL}{$crossqueryPath}?browse-all=yes">Site List</a></td>
+                        <td class="tab-select"><a href="{$xtfURL}{$crossqueryPath}?browse-all=yes">Browse Web Archive</a></td>
                         <!-- <td class="tab"><a href="search?smode=freeform">Explore Data</a></td> -->
                      </tr>
                      </table>
@@ -840,8 +840,8 @@ Item number <xsl:value-of select="$num"/>:
             
                   
             <!-- show where hits on search terms appeared -->
-            
-            <xsl:if test="snippet">
+<!-- removing per request --> 
+<!--            <xsl:if test="snippet">
                <tr>
                   <td class="col1">
                      <br/>
@@ -860,7 +860,7 @@ Item number <xsl:value-of select="$num"/>:
                   </td>
                </tr>
             </xsl:if>
-            
+-->            
             
          </table>
 		 </td>
