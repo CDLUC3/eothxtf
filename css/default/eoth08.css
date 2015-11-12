@@ -14,7 +14,15 @@ a {
 	
 h2 {
   color: #222;
-  font-weight: normal;
+  font-size: 10pt;
+  font-weight: bold;
+  margin-top: 0px;
+}
+
+h3 {
+  color: #222;
+  font-size: 10pt;
+  font-weight: bold;
   margin-top: 0px;
 }
 
@@ -161,13 +169,19 @@ div.header_help {
 	padding:0px;
 	padding-left: 10px;
 	z-index:99;
-   font-size: 85%;
+   font-size: 10pt;
 
 	}
 	
 #rightcol a {
   text-decoration: none;
   color: #0000FF;
+}
+
+#rightcol .stats_subheader {
+  text-decoration: none;
+  font-weight: bold;
+  color: #00F;
 }
 
 	
