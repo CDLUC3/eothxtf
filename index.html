@@ -6,6 +6,21 @@
 	  <meta name="description" content="The End of Term Web Archive documents the United States government's World Wide Web presence during the transition between the presidential administrations." />
       <title>End of Term Web Archive: U.S. Government Websites</title>
       <link rel="stylesheet" href="css/default/eoth08.css" type="text/css" />
+	  <!-- files and script needed for jQuery slideshow  -->
+	<link rel="stylesheet" href="css/default/slider-default.css" type="text/css" media="screen" />	
+	<script type="text/javascript" src="script/jquery-1.6.1.min.js"></script>
+	<script type="text/javascript" src="script/jquery.nivo.slider.pack.js"></script>
+	<script type="text/javascript">
+	$(window).load(function() {
+    $('#slider').nivoSlider({
+        effect: 'fade', // Specify sets like: 'fold,fade,sliceDown'
+        pauseTime: 4000, // How long each slide will show
+        directionNav: false, // Next & Prev navigation
+        directionNavHide: false, // Only show on hover
+    });
+});
+	</script>
+-			
 </head>
 
 <body>
