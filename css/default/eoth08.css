@@ -217,3 +217,9 @@ div.header_help {
 	text-decoration: none;
 	color: #0000FF;
 }
+/* Background page list */
+#backgroundlist li {
+	padding-top: 10px
+}
+	
+

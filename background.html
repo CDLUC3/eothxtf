@@ -6,23 +6,6 @@
 	  <meta name="description" content="The End of Term Web  Archive documents the United States government's World Wide Web presence during the transition between the administrations of President George W. Bush and President Barak Obama." />
       <title>Project Background | End of Term Web Archive</title>
       <link rel="stylesheet" href="css/default/eoth08.css" type="text/css" />
-	  
-	   <!-- files and script needed for jQuery twitter feed -->
-	   <script type="text/javascript" src="script/jquery-1.6.1.min.js"></script>
-	   <script language="javascript" src="script/jquery.tweet.js" type="text/javascript"></script> 
-	   <link rel="stylesheet" href="css/default/jquery.tweet.css" type="text/css" />
-	   <script type="text/javascript">
-	    jQuery(function($){
-      $("#filter").tweet({
-        count: 15,
-        fetch: 40,
-        filter: function(t){ return  /#pub/.test(t["tweet_raw_text"]); },
-        username: "eotarchive"
-      });
-    });
-	
-</script> 
-	   
    </head>
 	  
    <body>
@@ -101,21 +84,21 @@
 
 <p>The scale of the collection and the scope of collaboration behind the End of Term Web Archive itself drove new developments in web harvesting and access technologies. Here are some of the tools that were used, modified, or created in the process of carrying out this work:</p>
 
-<ul>
-<li>To identify, prioritize and describe the thousands of U.S. Government web hosts, the University of North Texas built the <a href="http://digital2.library.unt.edu/nomination/">Nomination Tool</a>.  This tool enables collaborative collection development for web archiving, and has since been used in other archiving efforts.</li><br/>
+<ul id="backgroundlist">
+<li>To identify, prioritize and describe the thousands of U.S. Government web hosts, the University of North Texas built the <a href="http://digital2.library.unt.edu/nomination/">Nomination Tool</a>.  This tool enables collaborative collection development for web archiving, and has since been used in other archiving efforts.</li>
 
-<li>All of the partners who collected content used the <a href="http://crawler.archive.org/">Heritrix web crawler</a>, developed by the Internet Archive  with support from  the IIPC.</li><br/>
+<li>All of the partners who collected content used the <a href="http://crawler.archive.org/">Heritrix web crawler</a>, developed by the Internet Archive  with support from  the IIPC.</li>
 
 <li>To solve the challenges presented by transferring and aggregating the End of Term Content, the Library of Congress developed <a href="http://sourceforge.net/projects/loc-xferutils/">Bagit Library</a>,  an open source java library to support large-scale data transfer among many institutions.  The Library also released <a href="http://groups.google.com/group/digital-curation/browse_thread/thread/83a07b1ffd33ada3?pli=1">Bagger</a>, 
- an open source desktop version of the Bagit Library. For further detail, see <a href="http://blogs.loc.gov/digitalpreservation/2011/07/the-end-of-term-was-only-the-beginning/">The End of Term was only the beginning</a>.</li><br/>
+ an open source desktop version of the Bagit Library. For further detail, see <a href="http://blogs.loc.gov/digitalpreservation/2011/07/the-end-of-term-was-only-the-beginning/">The End of Term was only the beginning</a>.</li>
  
-<li>The Harvard Libraries</li><br />
+<li>The Harvard Libraries...</li>
   
-<li>The Internet Archive reconfigured existing in-house tools to automatically generate metadata records for the over 3,000 websites in the End Of Term Web Archive.  With the California Digital Library providing input on the Dublin Core format, IA generated the records and thumbnail images you see when you <a href="search?browse-all=yes">browse the archive</a>.</li><br/>
+<li>The Internet Archive reconfigured existing in-house tools to automatically generate metadata records for the over 3,000 websites in the End Of Term Web Archive.  With the California Digital Library providing input on the Dublin Core format, IA generated the records and thumbnail images you see when you <a href="search?browse-all=yes">browse the archive</a>.</li>
 
-<li>The University of North Texas has used the End of Term  content as the data source for additional study of automatic classification of government agency web content.  For further information on UNT's work, see <a href="http://research.library.unt.edu/eotcd/wiki/Main_Page">Classification of the End of Term Archive: Extending Collection Development to Web Archives</a>.</li><br/>
+<li>The University of North Texas has used the End of Term  content as the data source for additional study of automatic classification of government agency web content.  For further information on UNT's work, see <a href="http://research.library.unt.edu/eotcd/wiki/Main_Page">Classification of the End of Term Archive: Extending Collection Development to Web Archives</a>.</li>
 
-<li>The California Digital Library modified its open source <a href="http://xtf.cdlib.org/">eXtensible Text Framework</a> (XTF) +digital library access platform to provide a gateway to web-archived materials.  This work is part of broader analysis underway at CDL to more fully integrate discovery systems and formats.</li><br/>
+<li>The California Digital Library modified its open source <a href="http://xtf.cdlib.org/">eXtensible Text Framework</a> (XTF) +digital library access platform to provide a gateway to web-archived materials.  This work is part of broader analysis underway at CDL to more fully integrate discovery systems and formats.</li>
 </ul>
 
 <p>The challenges posed by the scope and scale of this collaborative effort have been met with innovation at each of the partner institutions, and have resulted in considerably more than the archive alone.</p>
