@@ -173,6 +173,25 @@ div.header_help {
 
 	}
 	
+#rightcol h2 {
+  color: #222;
+  border-bottom: 1px solid #ccc;
+  font-size: 10pt;
+  font-weight: bold;
+  margin-top: 0px;
+}
+	
+#rightcol li {
+  width: 220px;
+  font-size: 10pt;
+  font-weight: normal;
+  /*border-bottom: 1px solid #ccc;*/
+  margin-left: -35px;
+  margin-right: 35px;
+  margin-bottom: 6px;
+  list-style: none;	
+}	
+	
 #rightcol a {
   text-decoration: none;
   color: #0000FF;
@@ -183,7 +202,6 @@ div.header_help {
   font-weight: bold;
   color: #00F;
 }
-
 	
 #centercol {
 	position:relative;
@@ -192,7 +210,6 @@ div.header_help {
 	padding-top: 10px
 	}
 	
-
 #centercol p {
 	width:95%;
 }
