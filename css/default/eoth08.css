@@ -162,6 +162,16 @@ div.header_help {
   margin-right: 35px;
   margin-bottom: 20px;
   list-style: none;	
+}
+
+#leftcol li.no-underline {
+  font-size: 10pt;
+  font-weight: bold;
+  border-bottom: 1px solid #fff;
+  margin-left: -35px;
+  margin-right: 35px;
+  margin-bottom: 0px;
+  list-style: none;	
 }		
 	
 #rightcol {
