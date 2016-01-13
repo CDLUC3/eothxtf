@@ -40,10 +40,11 @@
                 <ul class="home-menu">
                    <li>Project Background</li>
                    <li><a href="partners.html">Project Partners</a></li>
-                   <li>Browse by Timeframe:<br/><br/>
+                   <li class="no-underline">Browse by Timeframe:<br/><br/>
 						<ul>
 							<li><a href="../search?f1-administration=2008">2008-2009</a></li>
 							<li><a href="../search?f1-administration=2012">2012-2013</a></li>
+							<li><a href="http://uc3-eotarchive-stg.cdlib.org/search?browse-all=yes">Browse All</a></li>
 						</ul></li>
 					<li><a href="2016.html">End of Term 2016</a></li>
 				</ul>
@@ -66,19 +67,18 @@
 	
 </ul>
 
-<a name="building"></a><h3>Building the Collection</h3>
+<a name="building"></a><h3>Building the Collections</h3>
                                  
-<p>The End of Term Web Archive collaboration began in the summer of 2008, when the <a href="partners.html">project partners</a>, all members of the <a href="http://www.netpreserve.org">International Internet Preservation Consortium</a> (IIPC) and partners in the <a href="http://www.digitalpreservation.gov">National Digital Infrastructure and Preservation Program</a> (NDIIPP), agreed to join forces to collaboratively archive the U.S. Government web at the end of the Bush administration. The goal of the project team was to execute a comprehensive harvest of the Federal Government domains (.gov, .mil, .org, etc.) in the final months of the Bush administration, and to document changes in the federal government websites as agencies transitioned to the Obama administration. The archive includes Federal Government websites in the Legislative, Executive, and Judicial branches of government.</p> 
+<p>The End of Term Web Archive collaboration began in the summer of 2008, when the <a href="partners.html">project partners</a>, all members of the <a href="http://www.netpreserve.org">International Internet Preservation Consortium</a> (IIPC) and partners in the <a href="http://www.digitalpreservation.gov">National Digital Infrastructure and Preservation Program</a> (NDIIPP), agreed to join forces to collaboratively archive the U.S. Government web at the end of the Bush administration. The goal of the <a href="http://eotarchive.cdlib.org/partners.html">project team</a> was to execute a comprehensive harvest of the Federal Government domains (.gov, .mil, .org, etc.) in the final months of the Bush administration, and to document changes in the federal government websites as agencies transitioned to the Obama administration. The project team resumed efforts to document changes in the government web during the transition to Obama’s second term. The archive includes Federal Government websites in the Legislative, Executive, and Judicial branches of government.</p> 
 
-<p>A broad, comprehensive crawl of sites began in August 2008, and project participants crawled, at varying frequencies, areas of the government web of particular interest to their organizations. The project team also called upon government information specialists, including librarians, political and social science researchers, and academics, to assist in the selection and prioritization of selected websites to be included in a focused crawl. These included sites identified as being potentially greater at risk of rapid change or disappearance. The prioritized URLs were collected in December 2008, and again after the inauguration in January 2009. </p>
+<p>For the 2008 archive, a broad, comprehensive crawl of sites began in August 2008, and project participants crawled, at varying frequencies, areas of the government web of particular interest to their organizations. The project team also called upon government information specialists, including librarians, political and social science researchers, and academics, to assist in the selection and prioritization of selected websites to be included in a focused crawl. These included sites identified as being potentially greater at risk of rapid change or disappearance. The prioritized URLs were collected in December 2008, and again after the inauguration in January 2009. In Spring and Fall 2009 a final broad, comprehensive crawl was performed to document any final changes that had occurred. Each of the project partners then transferred the content they had collected to form a single consolidated archive.  The Internet Archive hosts the public access copy of this archive, the Library of Congress holds a preservation copy, and the University of North Texas holds an additional copy for data analysis.</p>
 
-<p>In Spring and Fall 2009 a final broad, comprehensive crawl was performed to document any final changes that had occurred. Each of the project partners then transferred the content they had collected to form a single consolidated archive.  The Internet Archive hosts the public access copy of this archive, the Library of Congress holds a preservation copy, and the University of North Texas holds an additional copy for data analysis.</p>
+<p>For the  2012 archive, the process and partners from 2008 were the similar, with crawling beginning in November 2011 by some partners institutions and bulk crawls by Internet Archive beginning in January 2012 . <a href="http://freegovinfo.info/node/3739">Volunteers</a> to help identify sites were again solicited, and the project team worked closely with a group of students at the <a href="http://blogs.loc.gov/digitalpreservation/2012/11/an-abundant-crop-the-end-of-term-harvest/">Pratt School of Information</a> to identify additional social media content for capture.</p>
 
-<p>In 2012, the End of Term project resumed for an End of Term 2012-2013 archive. The process and partners from 2008 were the same except for the addition of Harvard. In addition, the project team worked closely with a group of students at the Pratt School of Information to identify additional sites for capture.</p>
 
 <a name="collab"></a><h3>Our Collaborative Approach</h3>
 
-<p>By collaborating, the partners brought various skills and interests to the project. The Internet Archive performed the broad crawls and crawls of prioritized websites nominated by volunteers, and provides an access copy to the data for this site. UNT provided project management, created a Nomination Tool that allowed for a collaborative selection process and easily managed seeds, and provided subject expertise and performed some focused crawls. California Digital Library performed focused crawls based on interests of subject specialists, and has developed the front-end interface to the collection. Library of Congress coordinated volunteers, provided project management support, performed more focused crawls of the Legislative Branch, and supported transfer of data from one partner institution to another. The Government Printing Office administers the Federal Depository Library Program and has a strong interest in government publications so they joined project calls to stay informed about the work.</p>
+<p>By collaborating, the partners brought various skills and interests to the project. Crawls were performed by a number of the partner institutions, others helped with project and volunteer coordination, others developed the front-end interface to the project or supported transfer of data between partners.</p>
 
 <a name="innov"></a><h3>Driving Technical Innovation</h3>
 
@@ -91,10 +91,8 @@
 
 <li>To solve the challenges presented by transferring and aggregating the End of Term Content, the Library of Congress developed <a href="http://sourceforge.net/projects/loc-xferutils/">Bagit Library</a>,  an open source java library to support large-scale data transfer among many institutions.  The Library also released <a href="http://groups.google.com/group/digital-curation/browse_thread/thread/83a07b1ffd33ada3?pli=1">Bagger</a>, 
  an open source desktop version of the Bagit Library. For further detail, see <a href="http://blogs.loc.gov/digitalpreservation/2011/07/the-end-of-term-was-only-the-beginning/">The End of Term was only the beginning</a>.</li>
- 
-<li>The Harvard Libraries...</li>
   
-<li>The Internet Archive reconfigured existing in-house tools to automatically generate metadata records for the over 3,000 websites in the End Of Term Web Archive.  With the California Digital Library providing input on the Dublin Core format, IA generated the records and thumbnail images you see when you <a href="search?browse-all=yes">browse the archive</a>.</li>
+<li>The Internet Archive reconfigured existing in-house tools to automatically generate metadata records for the over 6,000 websites in the End Of Term Web Archive.  With the California Digital Library providing input on the Dublin Core format, IA generated the records and thumbnail images you see when you <a href="search?browse-all=yes">browse the archive</a>.</li>
 
 <li>The University of North Texas has used the End of Term  content as the data source for additional study of automatic classification of government agency web content.  For further information on UNT's work, see <a href="http://research.library.unt.edu/eotcd/wiki/Main_Page">Classification of the End of Term Archive: Extending Collection Development to Web Archives</a>.</li>
 
