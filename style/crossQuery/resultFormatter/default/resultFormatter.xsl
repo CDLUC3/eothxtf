@@ -163,7 +163,7 @@
                      <table>
                      <tr>
                         <td class="tab"><a href="index.html">Home</a></td>
-                        <td class="tab"><a href="search?smode=advanced">Search Full Text</a></td>
+                        <td class="tab"><a href="http://eot.us.archive.org:8080/search/">Search Full Text</a></td>
                         <td class="tab-select"><a href="{$xtfURL}{$crossqueryPath}?browse-all=yes">Browse Web Archive</a></td>
                         <!-- <td class="tab"><a href="search?smode=freeform">Explore Data</a></td> -->
                      </tr>
@@ -430,7 +430,7 @@ Item number <xsl:value-of select="$num"/>:
                      <table>
                      <tr>
                         <td class="tab"><a href="index.html">Home</a></td>
-                        <td class="tab"><a href="search?smode=advanced">Search Full Text</a></td>
+                        <td class="tab"><a href="http://eot.us.archive.org:8080/search/">Search Full Text</a></td>
                         <td class="tab-select"><a href="{$xtfURL}{$crossqueryPath}?browse-all=yes">Browse Web Archive</a></td>
                         <!-- <td class="tab"><a href="search?smode=freeform">Explore Data</a></td> -->
                      </tr>
