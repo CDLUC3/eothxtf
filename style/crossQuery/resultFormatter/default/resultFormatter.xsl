@@ -598,8 +598,20 @@ Item number <xsl:value-of select="$num"/>:
    <xsl:template match="docHit" exclude-result-prefixes="#all">
       
       <xsl:variable name="path" select="@path"/>
-      <xsl:variable name="identifier" select="meta/identifier[1]"/>
-      <xsl:variable name="quotedID" select="concat('&quot;', $identifier, '&quot;')"/>
+	  <xsl:variable name="identifier">
+		<xsl:choose>
+			<xsl:when test="contains(meta/identifier[1],'http://crawls-wm.us.archive.org/eot-2012/')">
+				<xsl:value-of select="replace(meta/identifier[1],'http://crawls-wm.us.archive.org/eot-2012/','http://eot.us.archive.org/eot/')"/>
+			</xsl:when>
+			<xsl:when test="contains(meta/identifier[1],'http://eot.us.archive.org/eot08/')">
+				<xsl:value-of select="replace(meta/identifier[1],'http://eot.us.archive.org/eot08/','http://eot.us.archive.org/eot/')"/>
+			</xsl:when> 
+			<xsl:otherwise>
+				<xsl:value-of select="meta/identifier[1]"/>
+			</xsl:otherwise>  
+		</xsl:choose> 
+	  </xsl:variable>
+	  <xsl:variable name="quotedID" select="concat('&quot;', $identifier, '&quot;')"/>
       <xsl:variable name="indexId" select="replace($identifier, '.*/', '')"/>
       
       <!-- scrolling anchor -->
@@ -618,7 +630,7 @@ Item number <xsl:value-of select="$num"/>:
          
 
       <xsl:variable name="thumbFilename1" select="replace($path, 'xml', 'png')"/>
-      <xsl:variable name="thumbLink" select="meta/identifier"/>
+      <xsl:variable name="thumbLink" select="$identifier"/>
 	  <xsl:variable name="liveLink" select="meta/provenance"/>
 	  <xsl:variable name="thumbFilename2">
 		<xsl:choose>
@@ -693,7 +705,7 @@ Item number <xsl:value-of select="$num"/>:
                <td class="col3">
                      <xsl:choose>
                         <xsl:when test="meta/identifier">
-                           <xsl:value-of select="meta/identifier"/>
+                           <xsl:value-of select="$identifier"/>
                         </xsl:when>
                         <xsl:otherwise>none provided</xsl:otherwise>
                      </xsl:choose>
