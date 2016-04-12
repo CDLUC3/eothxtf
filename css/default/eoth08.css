@@ -49,6 +49,7 @@ h3 {
 
 
 #header {
+	width:1360px;
 	padding:0px;
 	margin:0;
 	text-align:center;
@@ -135,6 +136,7 @@ div.header_help {
 /* main page layouts */
 
 #maincol {
+	width:1360px;
 	position:relative;
 	margin:0;
 	padding:10px;
@@ -225,7 +227,7 @@ div.header_help {
 	position:relative;
 	border-left: 0px;
 	padding:0 240px;
-	padding-top: 10px
+	padding-top: 10px;
 	}
 	
 #centercol p {
@@ -233,11 +235,12 @@ div.header_help {
 }
 
 #footer {
+	width:1360px;
      margin: 0 auto;
      font-size: 85%;
 	 text-decoration: none;
 	 border-top: 1px solid #ccc;
-	 width: 99%;
+	 /*width: 99%;*/
 	 text-align: center;
 	 padding: 10px 0;
 	 margin-bottom: 20px;
