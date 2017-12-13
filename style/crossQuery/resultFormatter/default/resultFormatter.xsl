@@ -69,6 +69,7 @@
    <xsl:param name="icon.path" select="concat($xtfURL, 'icons/default/')"/>
    <xsl:param name="eoth08Thumb.path" select="concat($xtfURL, 'media/eoth08/screens_thumb/')"/>
    <xsl:param name="eoth12Thumb.path" select="concat($xtfURL, 'media/eoth12/screens_thumb/')"/>
+   <xsl:param name="eoth16Thumb.path" select="concat($xtfURL, 'media/eoth16/screens_thumb/')"/>
    <xsl:param name="docHits" select="/crossQueryResult/docHit"/>
    <xsl:param name="email"/>
    
@@ -637,8 +638,11 @@ Item number <xsl:value-of select="$num"/>:
 			<xsl:when test="meta/sort-year='2008'">
 				<xsl:value-of select="replace($thumbFilename1, 'default:eoth08/', '')"/>
 			</xsl:when>
+                        <xsl:when test="meta/sort-year='2012'">
+                                <xsl:value-of select="replace($thumbFilename1, 'default:eoth12/', '')"/>
+                        </xsl:when>
 			<xsl:otherwise>
-				<xsl:value-of select="replace($thumbFilename1, 'default:eoth12/', '')"/>
+				<xsl:value-of select="replace($thumbFilename1, 'default:eoth16/', '')"/>
 			</xsl:otherwise>
 		</xsl:choose>
 	  </xsl:variable>
@@ -647,8 +651,11 @@ Item number <xsl:value-of select="$num"/>:
 			<xsl:when test="meta/sort-year='2008'">
 				<xsl:value-of select="concat($eoth08Thumb.path, $thumbFilename2)"/>
 			</xsl:when>
+                        <xsl:when test="meta/sort-year='2012'">
+                                <xsl:value-of select="concat($eoth12Thumb.path, $thumbFilename2)"/>
+                        </xsl:when>
 			<xsl:otherwise>
-				<xsl:value-of select="concat($eoth12Thumb.path, $thumbFilename2)"/>
+				<xsl:value-of select="concat($eoth16Thumb.path, $thumbFilename2)"/>
 			</xsl:otherwise>
 		</xsl:choose>
 	  </xsl:variable>
@@ -788,7 +795,9 @@ Item number <xsl:value-of select="$num"/>:
 								-
 								<xsl:value-of select="format-date(meta/date[2], '[MNn] [D], [Y]')"/>
 							</xsl:when>
-							<xsl:when test="meta/sort-year='2012'">
+<!--							<xsl:when test="meta/sort-year='2012'">
+-->
+<xsl:otherwise>
 								<xsl:call-template name="DateFormat2012">
 									<xsl:with-param name="coverage-date" select="meta/date[1]"/>
 								</xsl:call-template>
@@ -796,7 +805,8 @@ Item number <xsl:value-of select="$num"/>:
 								<xsl:call-template name="DateFormat2012">
 									<xsl:with-param name="coverage-date" select="meta/date[2]"/>
 								</xsl:call-template>
-							</xsl:when>
+<!--							</xsl:when> -->
+</xsl:otherwise>
 						</xsl:choose>
                      </xsl:when>
                      <xsl:otherwise>

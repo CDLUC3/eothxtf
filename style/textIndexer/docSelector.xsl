@@ -149,7 +149,7 @@
                                         matches($pid,'eoth08') or 
                                         matches($uri,'eoth08\.dtd') or 
                                         matches($ns,'eoth08') or
-										matches($dirPath,'eoth08')">
+					matches($dirPath,'eoth08')">
                            <indexFile fileName="{$fileName}"
                               preFilter="style/textIndexer/eoth08/eoth08PreFilter.xsl"
                               displayStyle="style/dynaXML/docFormatter/eoth08/eoth08DocFormatter.xsl"/>
@@ -158,12 +158,20 @@
                                         matches($pid,'eoth12') or 
                                         matches($uri,'eoth12\.dtd') or 
                                         matches($ns,'eoth12') or
-										matches($dirPath,'eoth12')">
+					matches($dirPath,'eoth12')">
                            <indexFile fileName="{$fileName}"
                               preFilter="style/textIndexer/eoth12/eoth12PreFilter.xsl"
                               displayStyle="style/dynaXML/docFormatter/eoth12/eoth12DocFormatter.xsl"/>
                         </xsl:when>
-
+                        <xsl:when test="matches($root-element-name,'^eoth16$') or
+                                        matches($pid,'eoth16') or
+                                        matches($uri,'eoth16\.dtd') or
+                                        matches($ns,'eoth16') or
+                                        matches($dirPath,'eoth16')">
+                           <indexFile fileName="{$fileName}"
+                              preFilter="style/textIndexer/eoth16/eoth16PreFilter.xsl"
+                              displayStyle="style/dynaXML/docFormatter/eoth16/eoth16DocFormatter.xsl"/>
+                        </xsl:when>
 						
                         <!-- Look for EAD XML files -->
                         <xsl:when test="matches($root-element-name,'^ead$') or

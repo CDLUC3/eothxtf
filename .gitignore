@@ -1,5 +1,7 @@
 # Emacs files
-
+data/eoth16/*.xml
+index/lazy/default/eoth16/*.lazy
+media/eoth16/*.png
 .#*
 *~
 \#*

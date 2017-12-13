@@ -407,6 +407,7 @@ div.docHit table td.col2{
 div.docHit table td.col3{
    width: auto;
    text-align: left;
+   vertical-align: bottom;
 }
 
 div.docHit table td.col4{
