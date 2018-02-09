@@ -388,12 +388,15 @@ div.docHit table td {
 	/* border: 1px solid red; */
 }
 
-
+/*
 div#main_2, div#main_4, div#main_6, div#main_8, div#main_10, div#main_12 {
 	
 }
+*/
 
-
+div.docHit table td.thumbimg{
+   width: 140px;
+}
 div.docHit table td.col1{
    width: 20px;
    text-align: left;
@@ -405,15 +408,23 @@ div.docHit table td.col2{
 }
 
 div.docHit table td.col3{
-   width: auto;
+   width: 400px;
    text-align: left;
    vertical-align: bottom;
+}
+
+div.docHit table td.col3url{
+   width: 20px;
+   text-align: left;
+   vertical-align: bottom;
+   word-break: break-all;
 }
 
 div.docHit table td.col4{
    width: 5%;
    text-align: right;
 }
+
 
 div.docHit .typeIcon {
 	vertical-align: text-top;

@@ -6,6 +6,27 @@
     
     <web-app>
 
+      <!-- ==================== UC3 Filters & Mappings ====================== -->
+
+      <!-- Jim Vanderveen, 2018-01-11: This subnet is hammering
+           EOTarchive production, after doing the same thing to Dash
+           yesterday. They are also hitting Merritt.
+           -->
+
+      <filter>
+	<filter-name>Bad Robot Filter</filter-name>
+	<filter-class>org.apache.catalina.filters.RemoteAddrFilter</filter-class>
+	<init-param>
+	  <param-name>deny</param-name>
+	  <param-value>70\.36\.107\.\d+</param-value>
+	</init-param>
+      </filter>
+      <filter-mapping>
+	<filter-name>Bad Robot Filter</filter-name>
+	<url-pattern>/*</url-pattern>
+      </filter-mapping>
+
+
         <servlet>
             <servlet-name>crossQuery</servlet-name>
             <servlet-class>org.cdlib.xtf.crossQuery.CrossQuery</servlet-class>

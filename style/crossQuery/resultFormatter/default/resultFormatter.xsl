@@ -70,6 +70,7 @@
    <xsl:param name="eoth08Thumb.path" select="concat($xtfURL, 'media/eoth08/screens_thumb/')"/>
    <xsl:param name="eoth12Thumb.path" select="concat($xtfURL, 'media/eoth12/screens_thumb/')"/>
    <xsl:param name="eoth16Thumb.path" select="concat($xtfURL, 'media/eoth16/screens_thumb/')"/>
+   <xsl:param name="eoth16xThumb.path" select="concat($xtfURL, 'media/eoth16/screens_thumb/')"/>
    <xsl:param name="docHits" select="/crossQueryResult/docHit"/>
    <xsl:param name="email"/>
    
@@ -662,7 +663,7 @@ Item number <xsl:value-of select="$num"/>:
 	
          <table>
          	<tr valign="top">
-         		<td width="140px"><a href="{$thumbLink}" target="new"><img src="{$thumbURL}" class="eoth08Thumb" border="0"/></a>
+         		<td class="thumbimg"><a href="{$thumbLink}" target="new"><img src="{$thumbURL}" alt="Website thumbnail image" class="eoth08Thumb" border="0"/></a>
 				</td>
          		
 			
@@ -709,7 +710,7 @@ Item number <xsl:value-of select="$num"/>:
 
                   <b>Archival URL:&#160;&#160;</b><br/>
                </td>
-               <td class="col3">
+               <td class="col3url">
                      <xsl:choose>
                         <xsl:when test="meta/identifier">
                            <xsl:value-of select="$identifier"/>
